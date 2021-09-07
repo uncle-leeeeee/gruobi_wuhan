@@ -10,27 +10,27 @@ from openpyxl import*
 book=Workbook()
 
 #保存选址信息
-def output_location():
-    sh1 = book.create_sheet("location")
-    #输入医院
-    i=2
-    for g in Transfer:
-        sh1.cell(row=i,column=1,value=g)
-        i+=1
-    #输入情景
-    i=2
-    for c in scenario:
-        sh1.cell(row=1,column=i,value=c)
-        i+=1
+# def output_location():
+#     sh1 = book.create_sheet("location")
+#     #输入医院
+#     i=2
+#     for g in Transfer:
+#         sh1.cell(row=i,column=1,value=g)
+#         i+=1
+#     #输入情景
+#     i=2
+#     for c in scenario:
+#         sh1.cell(row=1,column=i,value=c)
+#         i+=1
     
-    #输入对应数值
-    i=2
-    for t in Transfer:
-        j=2
-        for c in scenario:
-            sh1.cell(row=i,column=j,value=O[t].x)
-            j+=1
-        i+=1
+#     #输入对应数值
+#     i=2
+#     for t in Transfer:
+#         j=2
+#         for c in scenario:
+#             sh1.cell(row=i,column=j,value=O[t].x)
+#             j+=1
+#         i+=1
 
 #保存x运量
 
