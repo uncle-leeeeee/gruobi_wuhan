@@ -1,0 +1,5014 @@
+# Attribute file for model sencond-trial(risk)
+GRB_ATTR_FILE_VERSION 090102
+SECTION FINGERPRINT
+0xdca27d61
+SECTION SOLUTION
+# Solution for model sencond-trial(risk)
+# Objective value = 1.8757257020266256e+08
+x[w1,g1,R1,smooth] 0
+x[w1,g1,R2,smooth] 0
+x[w1,g1,R3,smooth] 0
+x[w1,g1,R4,smooth] 0.75
+x[w1,g1,R5,smooth] 0
+x[w1,g1,R6,smooth] 0
+x[w1,g1,R7,smooth] 0
+x[w1,g2,R1,smooth] 0
+x[w1,g2,R2,smooth] 0
+x[w1,g2,R3,smooth] 0
+x[w1,g2,R4,smooth] 0.375
+x[w1,g2,R5,smooth] 0
+x[w1,g2,R6,smooth] 0
+x[w1,g2,R7,smooth] 0
+x[w1,g3,R1,smooth] 0
+x[w1,g3,R2,smooth] 1.1999999999999995e+00
+x[w1,g3,R3,smooth] 0
+x[w1,g3,R4,smooth] 0
+x[w1,g3,R5,smooth] 0
+x[w1,g3,R6,smooth] 3.0000000000000049e-01
+x[w1,g3,R7,smooth] 0
+x[w1,g4,R1,smooth] 0
+x[w1,g4,R2,smooth] 0
+x[w1,g4,R3,smooth] 0
+x[w1,g4,R4,smooth] 0.525
+x[w1,g4,R5,smooth] 0
+x[w1,g4,R6,smooth] 0
+x[w1,g4,R7,smooth] 0
+x[w1,g5,R1,smooth] 0
+x[w1,g5,R2,smooth] 0
+x[w1,g5,R3,smooth] 0
+x[w1,g5,R4,smooth] 4.4999999999999996e-01
+x[w1,g5,R5,smooth] 0
+x[w1,g5,R6,smooth] 0
+x[w1,g5,R7,smooth] 0
+x[w1,g6,R1,smooth] 0
+x[w1,g6,R2,smooth] 0
+x[w1,g6,R3,smooth] 0
+x[w1,g6,R4,smooth] 0
+x[w1,g6,R5,smooth] 0
+x[w1,g6,R6,smooth] 0.75
+x[w1,g6,R7,smooth] 0
+x[w1,g7,R1,smooth] 0
+x[w1,g7,R2,smooth] 0
+x[w1,g7,R3,smooth] 0
+x[w1,g7,R4,smooth] 0
+x[w1,g7,R5,smooth] 0
+x[w1,g7,R6,smooth] 1.2
+x[w1,g7,R7,smooth] 0
+x[w1,g8,R1,smooth] 0
+x[w1,g8,R2,smooth] 0
+x[w1,g8,R3,smooth] 0
+x[w1,g8,R4,smooth] 0
+x[w1,g8,R5,smooth] 0
+x[w1,g8,R6,smooth] 1.5
+x[w1,g8,R7,smooth] 0
+x[w1,g9,R1,smooth] 0
+x[w1,g9,R2,smooth] 0
+x[w1,g9,R3,smooth] 0
+x[w1,g9,R4,smooth] 0
+x[w1,g9,R5,smooth] 0
+x[w1,g9,R6,smooth] 0.15
+x[w1,g9,R7,smooth] 0
+x[w1,g10,R1,smooth] 0
+x[w1,g10,R2,smooth] 0
+x[w1,g10,R3,smooth] 0
+x[w1,g10,R4,smooth] 0
+x[w1,g10,R5,smooth] 0
+x[w1,g10,R6,smooth] 0.75
+x[w1,g10,R7,smooth] 0
+x[w1,g11,R1,smooth] 0
+x[w1,g11,R2,smooth] 0
+x[w1,g11,R3,smooth] 0
+x[w1,g11,R4,smooth] 0
+x[w1,g11,R5,smooth] 1.5
+x[w1,g11,R6,smooth] 0
+x[w1,g11,R7,smooth] 0
+x[w1,g12,R1,smooth] 0
+x[w1,g12,R2,smooth] 0
+x[w1,g12,R3,smooth] 0
+x[w1,g12,R4,smooth] 0
+x[w1,g12,R5,smooth] 0
+x[w1,g12,R6,smooth] 0
+x[w1,g12,R7,smooth] 4.4999999999999996e-01
+x[w1,g13,R1,smooth] 0
+x[w1,g13,R2,smooth] 0
+x[w1,g13,R3,smooth] 0
+x[w1,g13,R4,smooth] 0
+x[w1,g13,R5,smooth] 0
+x[w1,g13,R6,smooth] 0
+x[w1,g13,R7,smooth] 0.6
+x[w1,g14,R1,smooth] 0
+x[w1,g14,R2,smooth] 0
+x[w1,g14,R3,smooth] 0
+x[w1,g14,R4,smooth] 1.05
+x[w1,g14,R5,smooth] 0
+x[w1,g14,R6,smooth] 0
+x[w1,g14,R7,smooth] 0
+x[w1,g15,R1,smooth] 0
+x[w1,g15,R2,smooth] 0
+x[w1,g15,R3,smooth] 0
+x[w1,g15,R4,smooth] 0
+x[w1,g15,R5,smooth] 8.9999999999999991e-01
+x[w1,g15,R6,smooth] 0
+x[w1,g15,R7,smooth] 0
+x[w1,g16,R1,smooth] 0
+x[w1,g16,R2,smooth] 0
+x[w1,g16,R3,smooth] 0
+x[w1,g16,R4,smooth] 0.6
+x[w1,g16,R5,smooth] 0
+x[w1,g16,R6,smooth] 0
+x[w1,g16,R7,smooth] 0
+x[w1,g17,R1,smooth] 0
+x[w1,g17,R2,smooth] 0
+x[w1,g17,R3,smooth] 0
+x[w1,g17,R4,smooth] 0
+x[w1,g17,R5,smooth] 1.2
+x[w1,g17,R6,smooth] 0
+x[w1,g17,R7,smooth] 0
+x[w1,g18,R1,smooth] 0
+x[w1,g18,R2,smooth] 8.9999999999999991e-01
+x[w1,g18,R3,smooth] 0
+x[w1,g18,R4,smooth] 0
+x[w1,g18,R5,smooth] 0
+x[w1,g18,R6,smooth] 0
+x[w1,g18,R7,smooth] 0
+x[w1,g19,R1,smooth] 0
+x[w1,g19,R2,smooth] 0
+x[w1,g19,R3,smooth] 0
+x[w1,g19,R4,smooth] 0
+x[w1,g19,R5,smooth] 0.75
+x[w1,g19,R6,smooth] 0
+x[w1,g19,R7,smooth] 0
+x[w1,g20,R1,smooth] 0
+x[w1,g20,R2,smooth] 0
+x[w1,g20,R3,smooth] 0
+x[w1,g20,R4,smooth] 0
+x[w1,g20,R5,smooth] 0
+x[w1,g20,R6,smooth] 0
+x[w1,g20,R7,smooth] 0.6
+x[w1,g21,R1,smooth] 0
+x[w1,g21,R2,smooth] 8.9999999999999991e-01
+x[w1,g21,R3,smooth] 0
+x[w1,g21,R4,smooth] 0
+x[w1,g21,R5,smooth] 0
+x[w1,g21,R6,smooth] 0
+x[w1,g21,R7,smooth] 0
+x[w1,g22,R1,smooth] 0
+x[w1,g22,R2,smooth] 4.4999999999999996e-01
+x[w1,g22,R3,smooth] 0
+x[w1,g22,R4,smooth] 0
+x[w1,g22,R5,smooth] 0
+x[w1,g22,R6,smooth] 0
+x[w1,g22,R7,smooth] 0
+x[w1,g23,R1,smooth] 0
+x[w1,g23,R2,smooth] 1.2
+x[w1,g23,R3,smooth] 0
+x[w1,g23,R4,smooth] 0
+x[w1,g23,R5,smooth] 0
+x[w1,g23,R6,smooth] 0
+x[w1,g23,R7,smooth] 0
+x[w1,g24,R1,smooth] 0
+x[w1,g24,R2,smooth] 0
+x[w1,g24,R3,smooth] 0.6
+x[w1,g24,R4,smooth] 0
+x[w1,g24,R5,smooth] 0
+x[w1,g24,R6,smooth] 0
+x[w1,g24,R7,smooth] 0
+x[w1,g25,R1,smooth] 0
+x[w1,g25,R2,smooth] 0
+x[w1,g25,R3,smooth] 4.4999999999999996e-01
+x[w1,g25,R4,smooth] 0
+x[w1,g25,R5,smooth] 0
+x[w1,g25,R6,smooth] 0
+x[w1,g25,R7,smooth] 0
+x[w1,g26,R1,smooth] 0
+x[w1,g26,R2,smooth] 0
+x[w1,g26,R3,smooth] 0
+x[w1,g26,R4,smooth] 0
+x[w1,g26,R5,smooth] 0
+x[w1,g26,R6,smooth] 0
+x[w1,g26,R7,smooth] 1.5
+x[w1,g27,R1,smooth] 0
+x[w1,g27,R2,smooth] 0
+x[w1,g27,R3,smooth] 0
+x[w1,g27,R4,smooth] 0
+x[w1,g27,R5,smooth] 0
+x[w1,g27,R6,smooth] 4.4999999999999996e-01
+x[w1,g27,R7,smooth] 0
+x[w1,g28,R1,smooth] 0
+x[w1,g28,R2,smooth] 1.5
+x[w1,g28,R3,smooth] 0
+x[w1,g28,R4,smooth] 0
+x[w1,g28,R5,smooth] 0
+x[w1,g28,R6,smooth] 0
+x[w1,g28,R7,smooth] 0
+x[w1,g29,R1,smooth] 0
+x[w1,g29,R2,smooth] 0
+x[w1,g29,R3,smooth] 0
+x[w1,g29,R4,smooth] 0
+x[w1,g29,R5,smooth] 4.4999999999999996e-01
+x[w1,g29,R6,smooth] 0
+x[w1,g29,R7,smooth] 0
+x[w1,g30,R1,smooth] 0
+x[w1,g30,R2,smooth] 0
+x[w1,g30,R3,smooth] 0
+x[w1,g30,R4,smooth] 0
+x[w1,g30,R5,smooth] 0
+x[w1,g30,R6,smooth] 0.75
+x[w1,g30,R7,smooth] 0
+x[w1,g31,R1,smooth] 0
+x[w1,g31,R2,smooth] 0
+x[w1,g31,R3,smooth] 1.5
+x[w1,g31,R4,smooth] 0
+x[w1,g31,R5,smooth] 0
+x[w1,g31,R6,smooth] 0
+x[w1,g31,R7,smooth] 0
+x[w1,g32,R1,smooth] 0
+x[w1,g32,R2,smooth] 0
+x[w1,g32,R3,smooth] 0
+x[w1,g32,R4,smooth] 0
+x[w1,g32,R5,smooth] 0
+x[w1,g32,R6,smooth] 1.5
+x[w1,g32,R7,smooth] 0
+x[w1,g33,R1,smooth] 0
+x[w1,g33,R2,smooth] 0
+x[w1,g33,R3,smooth] 0
+x[w1,g33,R4,smooth] 0
+x[w1,g33,R5,smooth] 1.2
+x[w1,g33,R6,smooth] 0
+x[w1,g33,R7,smooth] 0
+x[w2,g1,R1,smooth] 0
+x[w2,g1,R2,smooth] 0
+x[w2,g1,R3,smooth] 0
+x[w2,g1,R4,smooth] 1.5000000000000036e-01
+x[w2,g1,R5,smooth] 0
+x[w2,g1,R6,smooth] 0
+x[w2,g1,R7,smooth] 5.9999999999999964e-01
+x[w2,g2,R1,smooth] 0
+x[w2,g2,R2,smooth] 0
+x[w2,g2,R3,smooth] 0
+x[w2,g2,R4,smooth] 0.375
+x[w2,g2,R5,smooth] 0
+x[w2,g2,R6,smooth] 0
+x[w2,g2,R7,smooth] 0
+x[w2,g3,R1,smooth] 0
+x[w2,g3,R2,smooth] 0
+x[w2,g3,R3,smooth] 0
+x[w2,g3,R4,smooth] 0
+x[w2,g3,R5,smooth] 0
+x[w2,g3,R6,smooth] 1.5
+x[w2,g3,R7,smooth] 0
+x[w2,g4,R1,smooth] 0
+x[w2,g4,R2,smooth] 0
+x[w2,g4,R3,smooth] 0
+x[w2,g4,R4,smooth] 0.525
+x[w2,g4,R5,smooth] 0
+x[w2,g4,R6,smooth] 0
+x[w2,g4,R7,smooth] 0
+x[w2,g5,R1,smooth] 0
+x[w2,g5,R2,smooth] 0
+x[w2,g5,R3,smooth] 0
+x[w2,g5,R4,smooth] 4.4999999999999996e-01
+x[w2,g5,R5,smooth] 0
+x[w2,g5,R6,smooth] 0
+x[w2,g5,R7,smooth] 0
+x[w2,g6,R1,smooth] 0
+x[w2,g6,R2,smooth] 0
+x[w2,g6,R3,smooth] 0
+x[w2,g6,R4,smooth] 0
+x[w2,g6,R5,smooth] 0
+x[w2,g6,R6,smooth] 0.75
+x[w2,g6,R7,smooth] 0
+x[w2,g7,R1,smooth] 0
+x[w2,g7,R2,smooth] 0
+x[w2,g7,R3,smooth] 0
+x[w2,g7,R4,smooth] 0
+x[w2,g7,R5,smooth] 0
+x[w2,g7,R6,smooth] 1.2
+x[w2,g7,R7,smooth] 0
+x[w2,g8,R1,smooth] 0
+x[w2,g8,R2,smooth] 0
+x[w2,g8,R3,smooth] 0
+x[w2,g8,R4,smooth] 0
+x[w2,g8,R5,smooth] 0
+x[w2,g8,R6,smooth] 1.5
+x[w2,g8,R7,smooth] 0
+x[w2,g9,R1,smooth] 0
+x[w2,g9,R2,smooth] 0
+x[w2,g9,R3,smooth] 0
+x[w2,g9,R4,smooth] 0
+x[w2,g9,R5,smooth] 0
+x[w2,g9,R6,smooth] 0.15
+x[w2,g9,R7,smooth] 0
+x[w2,g10,R1,smooth] 0
+x[w2,g10,R2,smooth] 0
+x[w2,g10,R3,smooth] 0
+x[w2,g10,R4,smooth] 0
+x[w2,g10,R5,smooth] 0
+x[w2,g10,R6,smooth] 0.75
+x[w2,g10,R7,smooth] 0
+x[w2,g11,R1,smooth] 0
+x[w2,g11,R2,smooth] 0
+x[w2,g11,R3,smooth] 0
+x[w2,g11,R4,smooth] 0
+x[w2,g11,R5,smooth] 1.5
+x[w2,g11,R6,smooth] 0
+x[w2,g11,R7,smooth] 0
+x[w2,g12,R1,smooth] 0
+x[w2,g12,R2,smooth] 0
+x[w2,g12,R3,smooth] 0
+x[w2,g12,R4,smooth] 0
+x[w2,g12,R5,smooth] 0
+x[w2,g12,R6,smooth] 0
+x[w2,g12,R7,smooth] 4.4999999999999996e-01
+x[w2,g13,R1,smooth] 0
+x[w2,g13,R2,smooth] 0
+x[w2,g13,R3,smooth] 0
+x[w2,g13,R4,smooth] 0
+x[w2,g13,R5,smooth] 0
+x[w2,g13,R6,smooth] 0
+x[w2,g13,R7,smooth] 0.6
+x[w2,g14,R1,smooth] 0
+x[w2,g14,R2,smooth] 0
+x[w2,g14,R3,smooth] 0
+x[w2,g14,R4,smooth] 1.05
+x[w2,g14,R5,smooth] 0
+x[w2,g14,R6,smooth] 0
+x[w2,g14,R7,smooth] 0
+x[w2,g15,R1,smooth] 0
+x[w2,g15,R2,smooth] 0
+x[w2,g15,R3,smooth] 0
+x[w2,g15,R4,smooth] 0
+x[w2,g15,R5,smooth] 8.9999999999999991e-01
+x[w2,g15,R6,smooth] 0
+x[w2,g15,R7,smooth] 0
+x[w2,g16,R1,smooth] 0
+x[w2,g16,R2,smooth] 0
+x[w2,g16,R3,smooth] 0
+x[w2,g16,R4,smooth] 0.6
+x[w2,g16,R5,smooth] 0
+x[w2,g16,R6,smooth] 0
+x[w2,g16,R7,smooth] 0
+x[w2,g17,R1,smooth] 0
+x[w2,g17,R2,smooth] 0
+x[w2,g17,R3,smooth] 0
+x[w2,g17,R4,smooth] 0
+x[w2,g17,R5,smooth] 1.2
+x[w2,g17,R6,smooth] 0
+x[w2,g17,R7,smooth] 0
+x[w2,g18,R1,smooth] 0
+x[w2,g18,R2,smooth] 8.9999999999999991e-01
+x[w2,g18,R3,smooth] 0
+x[w2,g18,R4,smooth] 0
+x[w2,g18,R5,smooth] 0
+x[w2,g18,R6,smooth] 0
+x[w2,g18,R7,smooth] 0
+x[w2,g19,R1,smooth] 0
+x[w2,g19,R2,smooth] 0
+x[w2,g19,R3,smooth] 0
+x[w2,g19,R4,smooth] 0
+x[w2,g19,R5,smooth] 0.75
+x[w2,g19,R6,smooth] 0
+x[w2,g19,R7,smooth] 0
+x[w2,g20,R1,smooth] 0
+x[w2,g20,R2,smooth] 0
+x[w2,g20,R3,smooth] 0
+x[w2,g20,R4,smooth] 0
+x[w2,g20,R5,smooth] 0
+x[w2,g20,R6,smooth] 0
+x[w2,g20,R7,smooth] 0.6
+x[w2,g21,R1,smooth] 0
+x[w2,g21,R2,smooth] 8.9999999999999991e-01
+x[w2,g21,R3,smooth] 0
+x[w2,g21,R4,smooth] 0
+x[w2,g21,R5,smooth] 0
+x[w2,g21,R6,smooth] 0
+x[w2,g21,R7,smooth] 0
+x[w2,g22,R1,smooth] 0
+x[w2,g22,R2,smooth] 4.4999999999999996e-01
+x[w2,g22,R3,smooth] 0
+x[w2,g22,R4,smooth] 0
+x[w2,g22,R5,smooth] 0
+x[w2,g22,R6,smooth] 0
+x[w2,g22,R7,smooth] 0
+x[w2,g23,R1,smooth] 0
+x[w2,g23,R2,smooth] 1.2
+x[w2,g23,R3,smooth] 0
+x[w2,g23,R4,smooth] 0
+x[w2,g23,R5,smooth] 0
+x[w2,g23,R6,smooth] 0
+x[w2,g23,R7,smooth] 0
+x[w2,g24,R1,smooth] 0
+x[w2,g24,R2,smooth] 0
+x[w2,g24,R3,smooth] 0.6
+x[w2,g24,R4,smooth] 0
+x[w2,g24,R5,smooth] 0
+x[w2,g24,R6,smooth] 0
+x[w2,g24,R7,smooth] 0
+x[w2,g25,R1,smooth] 0
+x[w2,g25,R2,smooth] 0
+x[w2,g25,R3,smooth] 4.4999999999999996e-01
+x[w2,g25,R4,smooth] 0
+x[w2,g25,R5,smooth] 0
+x[w2,g25,R6,smooth] 0
+x[w2,g25,R7,smooth] 0
+x[w2,g26,R1,smooth] 0
+x[w2,g26,R2,smooth] 0
+x[w2,g26,R3,smooth] 0
+x[w2,g26,R4,smooth] 0
+x[w2,g26,R5,smooth] 0
+x[w2,g26,R6,smooth] 0
+x[w2,g26,R7,smooth] 1.5
+x[w2,g27,R1,smooth] 0
+x[w2,g27,R2,smooth] 0
+x[w2,g27,R3,smooth] 0
+x[w2,g27,R4,smooth] 0
+x[w2,g27,R5,smooth] 0
+x[w2,g27,R6,smooth] 4.4999999999999996e-01
+x[w2,g27,R7,smooth] 0
+x[w2,g28,R1,smooth] 0
+x[w2,g28,R2,smooth] 1.5
+x[w2,g28,R3,smooth] 0
+x[w2,g28,R4,smooth] 0
+x[w2,g28,R5,smooth] 0
+x[w2,g28,R6,smooth] 0
+x[w2,g28,R7,smooth] 0
+x[w2,g29,R1,smooth] 0
+x[w2,g29,R2,smooth] 0
+x[w2,g29,R3,smooth] 0
+x[w2,g29,R4,smooth] 0
+x[w2,g29,R5,smooth] 4.4999999999999996e-01
+x[w2,g29,R6,smooth] 0
+x[w2,g29,R7,smooth] 0
+x[w2,g30,R1,smooth] 0
+x[w2,g30,R2,smooth] 0
+x[w2,g30,R3,smooth] 0
+x[w2,g30,R4,smooth] 0
+x[w2,g30,R5,smooth] 0
+x[w2,g30,R6,smooth] 0.75
+x[w2,g30,R7,smooth] 0
+x[w2,g31,R1,smooth] 0
+x[w2,g31,R2,smooth] 0
+x[w2,g31,R3,smooth] 8.9999999999999991e-01
+x[w2,g31,R4,smooth] 0
+x[w2,g31,R5,smooth] 0
+x[w2,g31,R6,smooth] 0
+x[w2,g31,R7,smooth] 0
+x[w2,g32,R1,smooth] 0
+x[w2,g32,R2,smooth] 0
+x[w2,g32,R3,smooth] 0
+x[w2,g32,R4,smooth] 0
+x[w2,g32,R5,smooth] 0
+x[w2,g32,R6,smooth] 0.6
+x[w2,g32,R7,smooth] 0
+x[w2,g33,R1,smooth] 0
+x[w2,g33,R2,smooth] 0
+x[w2,g33,R3,smooth] 0
+x[w2,g33,R4,smooth] 0
+x[w2,g33,R5,smooth] 8.9999999999999991e-01
+x[w2,g33,R6,smooth] 0
+x[w2,g33,R7,smooth] 0
+y[w1,g1,D1,smooth] 1.25
+y[w1,g1,D2,smooth] 0
+y[w1,g1,D3,smooth] 0
+y[w1,g1,D4,smooth] 0
+y[w1,g1,D5,smooth] 0
+y[w1,g2,D1,smooth] 0.625
+y[w1,g2,D2,smooth] 0
+y[w1,g2,D3,smooth] 0
+y[w1,g2,D4,smooth] 0
+y[w1,g2,D5,smooth] 0
+y[w1,g3,D1,smooth] 0
+y[w1,g3,D2,smooth] 0
+y[w1,g3,D3,smooth] 2.5
+y[w1,g3,D4,smooth] 0
+y[w1,g3,D5,smooth] 0
+y[w1,g4,D1,smooth] 0.875
+y[w1,g4,D2,smooth] 0
+y[w1,g4,D3,smooth] 0
+y[w1,g4,D4,smooth] 0
+y[w1,g4,D5,smooth] 0
+y[w1,g5,D1,smooth] 0.75
+y[w1,g5,D2,smooth] 0
+y[w1,g5,D3,smooth] 0
+y[w1,g5,D4,smooth] 0
+y[w1,g5,D5,smooth] 0
+y[w1,g6,D1,smooth] 0
+y[w1,g6,D2,smooth] 0
+y[w1,g6,D3,smooth] 0
+y[w1,g6,D4,smooth] 0
+y[w1,g6,D5,smooth] 1.25
+y[w1,g7,D1,smooth] 0
+y[w1,g7,D2,smooth] 0
+y[w1,g7,D3,smooth] 0
+y[w1,g7,D4,smooth] 0
+y[w1,g7,D5,smooth] 2
+y[w1,g8,D1,smooth] 0
+y[w1,g8,D2,smooth] 1.1200000000000010e+00
+y[w1,g8,D3,smooth] 0
+y[w1,g8,D4,smooth] 0
+y[w1,g8,D5,smooth] 1.3799999999999990e+00
+y[w1,g9,D1,smooth] 0
+y[w1,g9,D2,smooth] 0
+y[w1,g9,D3,smooth] 0
+y[w1,g9,D4,smooth] 0
+y[w1,g9,D5,smooth] 0.25
+y[w1,g10,D1,smooth] 0
+y[w1,g10,D2,smooth] 1.25
+y[w1,g10,D3,smooth] 0
+y[w1,g10,D4,smooth] 0
+y[w1,g10,D5,smooth] 0
+y[w1,g11,D1,smooth] 0
+y[w1,g11,D2,smooth] 0
+y[w1,g11,D3,smooth] 0
+y[w1,g11,D4,smooth] 2.5
+y[w1,g11,D5,smooth] 0
+y[w1,g12,D1,smooth] 0.75
+y[w1,g12,D2,smooth] 0
+y[w1,g12,D3,smooth] 0
+y[w1,g12,D4,smooth] 0
+y[w1,g12,D5,smooth] 0
+y[w1,g13,D1,smooth] 1
+y[w1,g13,D2,smooth] 0
+y[w1,g13,D3,smooth] 0
+y[w1,g13,D4,smooth] 0
+y[w1,g13,D5,smooth] 0
+y[w1,g14,D1,smooth] 1.75
+y[w1,g14,D2,smooth] 0
+y[w1,g14,D3,smooth] 0
+y[w1,g14,D4,smooth] 0
+y[w1,g14,D5,smooth] 0
+y[w1,g15,D1,smooth] 0
+y[w1,g15,D2,smooth] 1.5
+y[w1,g15,D3,smooth] 0
+y[w1,g15,D4,smooth] 0
+y[w1,g15,D5,smooth] 0
+y[w1,g16,D1,smooth] 1
+y[w1,g16,D2,smooth] 0
+y[w1,g16,D3,smooth] 0
+y[w1,g16,D4,smooth] 0
+y[w1,g16,D5,smooth] 0
+y[w1,g17,D1,smooth] 0
+y[w1,g17,D2,smooth] 2
+y[w1,g17,D3,smooth] 0
+y[w1,g17,D4,smooth] 0
+y[w1,g17,D5,smooth] 0
+y[w1,g18,D1,smooth] 0
+y[w1,g18,D2,smooth] 0
+y[w1,g18,D3,smooth] 1.5
+y[w1,g18,D4,smooth] 0
+y[w1,g18,D5,smooth] 0
+y[w1,g19,D1,smooth] 0
+y[w1,g19,D2,smooth] 1.25
+y[w1,g19,D3,smooth] 0
+y[w1,g19,D4,smooth] 0
+y[w1,g19,D5,smooth] 0
+y[w1,g20,D1,smooth] 1
+y[w1,g20,D2,smooth] 0
+y[w1,g20,D3,smooth] 0
+y[w1,g20,D4,smooth] 0
+y[w1,g20,D5,smooth] 0
+y[w1,g21,D1,smooth] 0
+y[w1,g21,D2,smooth] 0
+y[w1,g21,D3,smooth] 1.5
+y[w1,g21,D4,smooth] 0
+y[w1,g21,D5,smooth] 0
+y[w1,g22,D1,smooth] 0
+y[w1,g22,D2,smooth] 0
+y[w1,g22,D3,smooth] 0.75
+y[w1,g22,D4,smooth] 0
+y[w1,g22,D5,smooth] 0
+y[w1,g23,D1,smooth] 2
+y[w1,g23,D2,smooth] 0
+y[w1,g23,D3,smooth] 0
+y[w1,g23,D4,smooth] 0
+y[w1,g23,D5,smooth] 0
+y[w1,g24,D1,smooth] 0
+y[w1,g24,D2,smooth] 0
+y[w1,g24,D3,smooth] 1
+y[w1,g24,D4,smooth] 0
+y[w1,g24,D5,smooth] 0
+y[w1,g25,D1,smooth] 0.75
+y[w1,g25,D2,smooth] 0
+y[w1,g25,D3,smooth] 0
+y[w1,g25,D4,smooth] 0
+y[w1,g25,D5,smooth] 0
+y[w1,g26,D1,smooth] 2.5
+y[w1,g26,D2,smooth] 0
+y[w1,g26,D3,smooth] 0
+y[w1,g26,D4,smooth] 0
+y[w1,g26,D5,smooth] 0
+y[w1,g27,D1,smooth] 0
+y[w1,g27,D2,smooth] 0
+y[w1,g27,D3,smooth] 0
+y[w1,g27,D4,smooth] 0
+y[w1,g27,D5,smooth] 0.75
+y[w1,g28,D1,smooth] 0
+y[w1,g28,D2,smooth] 0
+y[w1,g28,D3,smooth] 2.5
+y[w1,g28,D4,smooth] 0
+y[w1,g28,D5,smooth] 0
+y[w1,g29,D1,smooth] 0
+y[w1,g29,D2,smooth] 0
+y[w1,g29,D3,smooth] 0
+y[w1,g29,D4,smooth] 0.75
+y[w1,g29,D5,smooth] 0
+y[w1,g30,D1,smooth] 0
+y[w1,g30,D2,smooth] 0
+y[w1,g30,D3,smooth] 0
+y[w1,g30,D4,smooth] 0
+y[w1,g30,D5,smooth] 1.25
+y[w1,g31,D1,smooth] 0
+y[w1,g31,D2,smooth] 0
+y[w1,g31,D3,smooth] 2.5
+y[w1,g31,D4,smooth] 0
+y[w1,g31,D5,smooth] 0
+y[w1,g32,D1,smooth] 0
+y[w1,g32,D2,smooth] 2.5
+y[w1,g32,D3,smooth] 0
+y[w1,g32,D4,smooth] 0
+y[w1,g32,D5,smooth] 0
+y[w1,g33,D1,smooth] 0
+y[w1,g33,D2,smooth] 2
+y[w1,g33,D3,smooth] 0
+y[w1,g33,D4,smooth] 0
+y[w1,g33,D5,smooth] 0
+y[w2,g1,D1,smooth] 1.25
+y[w2,g1,D2,smooth] 0
+y[w2,g1,D3,smooth] 0
+y[w2,g1,D4,smooth] 0
+y[w2,g1,D5,smooth] 0
+y[w2,g2,D1,smooth] 0.625
+y[w2,g2,D2,smooth] 0
+y[w2,g2,D3,smooth] 0
+y[w2,g2,D4,smooth] 0
+y[w2,g2,D5,smooth] 0
+y[w2,g3,D1,smooth] 0
+y[w2,g3,D2,smooth] 0
+y[w2,g3,D3,smooth] 2.5
+y[w2,g3,D4,smooth] 0
+y[w2,g3,D5,smooth] 0
+y[w2,g4,D1,smooth] 0.875
+y[w2,g4,D2,smooth] 0
+y[w2,g4,D3,smooth] 0
+y[w2,g4,D4,smooth] 0
+y[w2,g4,D5,smooth] 0
+y[w2,g5,D1,smooth] 0.75
+y[w2,g5,D2,smooth] 0
+y[w2,g5,D3,smooth] 0
+y[w2,g5,D4,smooth] 0
+y[w2,g5,D5,smooth] 0
+y[w2,g6,D1,smooth] 0
+y[w2,g6,D2,smooth] 0
+y[w2,g6,D3,smooth] 0
+y[w2,g6,D4,smooth] 0
+y[w2,g6,D5,smooth] 1.25
+y[w2,g7,D1,smooth] 0
+y[w2,g7,D2,smooth] 0
+y[w2,g7,D3,smooth] 0
+y[w2,g7,D4,smooth] 0
+y[w2,g7,D5,smooth] 2
+y[w2,g8,D1,smooth] 0
+y[w2,g8,D2,smooth] 0
+y[w2,g8,D3,smooth] 0
+y[w2,g8,D4,smooth] 0
+y[w2,g8,D5,smooth] 2.5
+y[w2,g9,D1,smooth] 0
+y[w2,g9,D2,smooth] 0
+y[w2,g9,D3,smooth] 0
+y[w2,g9,D4,smooth] 0
+y[w2,g9,D5,smooth] 0.25
+y[w2,g10,D1,smooth] 0
+y[w2,g10,D2,smooth] 1.25
+y[w2,g10,D3,smooth] 0
+y[w2,g10,D4,smooth] 0
+y[w2,g10,D5,smooth] 0
+y[w2,g11,D1,smooth] 0
+y[w2,g11,D2,smooth] 0
+y[w2,g11,D3,smooth] 0
+y[w2,g11,D4,smooth] 2.5
+y[w2,g11,D5,smooth] 0
+y[w2,g12,D1,smooth] 0.75
+y[w2,g12,D2,smooth] 0
+y[w2,g12,D3,smooth] 0
+y[w2,g12,D4,smooth] 0
+y[w2,g12,D5,smooth] 0
+y[w2,g13,D1,smooth] 1
+y[w2,g13,D2,smooth] 0
+y[w2,g13,D3,smooth] 0
+y[w2,g13,D4,smooth] 0
+y[w2,g13,D5,smooth] 0
+y[w2,g14,D1,smooth] 1.75
+y[w2,g14,D2,smooth] 0
+y[w2,g14,D3,smooth] 0
+y[w2,g14,D4,smooth] 0
+y[w2,g14,D5,smooth] 0
+y[w2,g15,D1,smooth] 0
+y[w2,g15,D2,smooth] 1.5
+y[w2,g15,D3,smooth] 0
+y[w2,g15,D4,smooth] 0
+y[w2,g15,D5,smooth] 0
+y[w2,g16,D1,smooth] 1
+y[w2,g16,D2,smooth] 0
+y[w2,g16,D3,smooth] 0
+y[w2,g16,D4,smooth] 0
+y[w2,g16,D5,smooth] 0
+y[w2,g17,D1,smooth] 0
+y[w2,g17,D2,smooth] 2
+y[w2,g17,D3,smooth] 0
+y[w2,g17,D4,smooth] 0
+y[w2,g17,D5,smooth] 0
+y[w2,g18,D1,smooth] 0
+y[w2,g18,D2,smooth] 0
+y[w2,g18,D3,smooth] 1.5
+y[w2,g18,D4,smooth] 0
+y[w2,g18,D5,smooth] 0
+y[w2,g19,D1,smooth] 0
+y[w2,g19,D2,smooth] 1.25
+y[w2,g19,D3,smooth] 0
+y[w2,g19,D4,smooth] 0
+y[w2,g19,D5,smooth] 0
+y[w2,g20,D1,smooth] 1
+y[w2,g20,D2,smooth] 0
+y[w2,g20,D3,smooth] 0
+y[w2,g20,D4,smooth] 0
+y[w2,g20,D5,smooth] 0
+y[w2,g21,D1,smooth] 0
+y[w2,g21,D2,smooth] 0
+y[w2,g21,D3,smooth] 1.5
+y[w2,g21,D4,smooth] 0
+y[w2,g21,D5,smooth] 0
+y[w2,g22,D1,smooth] 0
+y[w2,g22,D2,smooth] 0
+y[w2,g22,D3,smooth] 0.75
+y[w2,g22,D4,smooth] 0
+y[w2,g22,D5,smooth] 0
+y[w2,g23,D1,smooth] 2
+y[w2,g23,D2,smooth] 0
+y[w2,g23,D3,smooth] 0
+y[w2,g23,D4,smooth] 0
+y[w2,g23,D5,smooth] 0
+y[w2,g24,D1,smooth] 9.8000000000000043e-01
+y[w2,g24,D2,smooth] 0
+y[w2,g24,D3,smooth] 1.9999999999999574e-02
+y[w2,g24,D4,smooth] 0
+y[w2,g24,D5,smooth] 0
+y[w2,g25,D1,smooth] 0.75
+y[w2,g25,D2,smooth] 0
+y[w2,g25,D3,smooth] 0
+y[w2,g25,D4,smooth] 0
+y[w2,g25,D5,smooth] 0
+y[w2,g26,D1,smooth] 2.5
+y[w2,g26,D2,smooth] 0
+y[w2,g26,D3,smooth] 0
+y[w2,g26,D4,smooth] 0
+y[w2,g26,D5,smooth] 0
+y[w2,g27,D1,smooth] 0
+y[w2,g27,D2,smooth] 0
+y[w2,g27,D3,smooth] 0
+y[w2,g27,D4,smooth] 0
+y[w2,g27,D5,smooth] 0.75
+y[w2,g28,D1,smooth] 0
+y[w2,g28,D2,smooth] 0
+y[w2,g28,D3,smooth] 2.5
+y[w2,g28,D4,smooth] 0
+y[w2,g28,D5,smooth] 0
+y[w2,g29,D1,smooth] 0
+y[w2,g29,D2,smooth] 0
+y[w2,g29,D3,smooth] 0
+y[w2,g29,D4,smooth] 0.75
+y[w2,g29,D5,smooth] 0
+y[w2,g30,D1,smooth] 0
+y[w2,g30,D2,smooth] 0
+y[w2,g30,D3,smooth] 0
+y[w2,g30,D4,smooth] 0
+y[w2,g30,D5,smooth] 1.25
+y[w2,g31,D1,smooth] 0
+y[w2,g31,D2,smooth] 0
+y[w2,g31,D3,smooth] 1.5
+y[w2,g31,D4,smooth] 0
+y[w2,g31,D5,smooth] 0
+y[w2,g32,D1,smooth] 0
+y[w2,g32,D2,smooth] 1
+y[w2,g32,D3,smooth] 0
+y[w2,g32,D4,smooth] 0
+y[w2,g32,D5,smooth] 0
+y[w2,g33,D1,smooth] 0
+y[w2,g33,D2,smooth] 1.5
+y[w2,g33,D3,smooth] 0
+y[w2,g33,D4,smooth] 0
+y[w2,g33,D5,smooth] 0
+z[w1,g1,T1,smooth] 0
+z[w1,g1,T2,smooth] 0.5
+z[w1,g1,T5,smooth] 0
+z[w1,g2,T1,smooth] 0
+z[w1,g2,T2,smooth] 0.25
+z[w1,g2,T5,smooth] 0
+z[w1,g3,T1,smooth] 1
+z[w1,g3,T2,smooth] 0
+z[w1,g3,T5,smooth] 0
+z[w1,g4,T1,smooth] 0
+z[w1,g4,T2,smooth] 3.5000000000000003e-01
+z[w1,g4,T5,smooth] 0
+z[w1,g5,T1,smooth] 0
+z[w1,g5,T2,smooth] 3.0000000000000004e-01
+z[w1,g5,T5,smooth] 0
+z[w1,g6,T1,smooth] 0
+z[w1,g6,T2,smooth] 0
+z[w1,g6,T5,smooth] 0.5
+z[w1,g7,T1,smooth] 0
+z[w1,g7,T2,smooth] 0
+z[w1,g7,T5,smooth] 0.8
+z[w1,g8,T1,smooth] 0
+z[w1,g8,T2,smooth] 0
+z[w1,g8,T5,smooth] 1
+z[w1,g9,T1,smooth] 0
+z[w1,g9,T2,smooth] 0
+z[w1,g9,T5,smooth] 0.1
+z[w1,g10,T1,smooth] 0
+z[w1,g10,T2,smooth] 0
+z[w1,g10,T5,smooth] 0.5
+z[w1,g11,T1,smooth] 0
+z[w1,g11,T2,smooth] 1
+z[w1,g11,T5,smooth] 0
+z[w1,g12,T1,smooth] 0
+z[w1,g12,T2,smooth] 3.0000000000000004e-01
+z[w1,g12,T5,smooth] 0
+z[w1,g13,T1,smooth] 0.4
+z[w1,g13,T2,smooth] 0
+z[w1,g13,T5,smooth] 0
+z[w1,g14,T1,smooth] 0
+z[w1,g14,T2,smooth] 7.0000000000000007e-01
+z[w1,g14,T5,smooth] 0
+z[w1,g15,T1,smooth] 0
+z[w1,g15,T2,smooth] 0
+z[w1,g15,T5,smooth] 6.0000000000000009e-01
+z[w1,g16,T1,smooth] 0
+z[w1,g16,T2,smooth] 0.4
+z[w1,g16,T5,smooth] 0
+z[w1,g17,T1,smooth] 5.9999999999999920e-01
+z[w1,g17,T2,smooth] 2.0000000000000084e-01
+z[w1,g17,T5,smooth] 0
+z[w1,g18,T1,smooth] 6.0000000000000009e-01
+z[w1,g18,T2,smooth] 0
+z[w1,g18,T5,smooth] 0
+z[w1,g19,T1,smooth] 0
+z[w1,g19,T2,smooth] 0
+z[w1,g19,T5,smooth] 0.5
+z[w1,g20,T1,smooth] 0.4
+z[w1,g20,T2,smooth] 0
+z[w1,g20,T5,smooth] 0
+z[w1,g21,T1,smooth] 0
+z[w1,g21,T2,smooth] 0
+z[w1,g21,T5,smooth] 6.0000000000000009e-01
+z[w1,g22,T1,smooth] 3.0000000000000004e-01
+z[w1,g22,T2,smooth] 0
+z[w1,g22,T5,smooth] 0
+z[w1,g23,T1,smooth] 0.8
+z[w1,g23,T2,smooth] 0
+z[w1,g23,T5,smooth] 0
+z[w1,g24,T1,smooth] 0.4
+z[w1,g24,T2,smooth] 0
+z[w1,g24,T5,smooth] 0
+z[w1,g25,T1,smooth] 3.0000000000000004e-01
+z[w1,g25,T2,smooth] 0
+z[w1,g25,T5,smooth] 0
+z[w1,g26,T1,smooth] 0
+z[w1,g26,T2,smooth] 1
+z[w1,g26,T5,smooth] 0
+z[w1,g27,T1,smooth] 0
+z[w1,g27,T2,smooth] 0
+z[w1,g27,T5,smooth] 3.0000000000000004e-01
+z[w1,g28,T1,smooth] 1
+z[w1,g28,T2,smooth] 0
+z[w1,g28,T5,smooth] 0
+z[w1,g29,T1,smooth] 0
+z[w1,g29,T2,smooth] 3.0000000000000004e-01
+z[w1,g29,T5,smooth] 0
+z[w1,g30,T1,smooth] 0
+z[w1,g30,T2,smooth] 0
+z[w1,g30,T5,smooth] 0.5
+z[w1,g31,T1,smooth] 1
+z[w1,g31,T2,smooth] 0
+z[w1,g31,T5,smooth] 0
+z[w1,g32,T1,smooth] 1
+z[w1,g32,T2,smooth] 0
+z[w1,g32,T5,smooth] 0
+z[w1,g33,T1,smooth] 0
+z[w1,g33,T2,smooth] 0
+z[w1,g33,T5,smooth] 0.8
+z[w2,g1,T1,smooth] 0
+z[w2,g1,T2,smooth] 0.5
+z[w2,g1,T5,smooth] 0
+z[w2,g2,T1,smooth] 0
+z[w2,g2,T2,smooth] 0.25
+z[w2,g2,T5,smooth] 0
+z[w2,g3,T1,smooth] 1
+z[w2,g3,T2,smooth] 0
+z[w2,g3,T5,smooth] 0
+z[w2,g4,T1,smooth] 0
+z[w2,g4,T2,smooth] 3.5000000000000003e-01
+z[w2,g4,T5,smooth] 0
+z[w2,g5,T1,smooth] 0
+z[w2,g5,T2,smooth] 3.0000000000000004e-01
+z[w2,g5,T5,smooth] 0
+z[w2,g6,T1,smooth] 0
+z[w2,g6,T2,smooth] 0
+z[w2,g6,T5,smooth] 0.5
+z[w2,g7,T1,smooth] 0
+z[w2,g7,T2,smooth] 0
+z[w2,g7,T5,smooth] 0.8
+z[w2,g8,T1,smooth] 0
+z[w2,g8,T2,smooth] 0
+z[w2,g8,T5,smooth] 1
+z[w2,g9,T1,smooth] 0
+z[w2,g9,T2,smooth] 0
+z[w2,g9,T5,smooth] 0.1
+z[w2,g10,T1,smooth] 0
+z[w2,g10,T2,smooth] 0
+z[w2,g10,T5,smooth] 0.5
+z[w2,g11,T1,smooth] 0
+z[w2,g11,T2,smooth] 1
+z[w2,g11,T5,smooth] 0
+z[w2,g12,T1,smooth] 0
+z[w2,g12,T2,smooth] 3.0000000000000004e-01
+z[w2,g12,T5,smooth] 0
+z[w2,g13,T1,smooth] 0.4
+z[w2,g13,T2,smooth] 0
+z[w2,g13,T5,smooth] 0
+z[w2,g14,T1,smooth] 0
+z[w2,g14,T2,smooth] 7.0000000000000007e-01
+z[w2,g14,T5,smooth] 0
+z[w2,g15,T1,smooth] 0
+z[w2,g15,T2,smooth] 0
+z[w2,g15,T5,smooth] 6.0000000000000009e-01
+z[w2,g16,T1,smooth] 0
+z[w2,g16,T2,smooth] 0.4
+z[w2,g16,T5,smooth] 0
+z[w2,g17,T1,smooth] 0
+z[w2,g17,T2,smooth] 0.8
+z[w2,g17,T5,smooth] 0
+z[w2,g18,T1,smooth] 6.0000000000000009e-01
+z[w2,g18,T2,smooth] 0
+z[w2,g18,T5,smooth] 0
+z[w2,g19,T1,smooth] 0
+z[w2,g19,T2,smooth] 0
+z[w2,g19,T5,smooth] 0.5
+z[w2,g20,T1,smooth] 0.4
+z[w2,g20,T2,smooth] 0
+z[w2,g20,T5,smooth] 0
+z[w2,g21,T1,smooth] 0
+z[w2,g21,T2,smooth] 0
+z[w2,g21,T5,smooth] 6.0000000000000009e-01
+z[w2,g22,T1,smooth] 3.0000000000000004e-01
+z[w2,g22,T2,smooth] 0
+z[w2,g22,T5,smooth] 0
+z[w2,g23,T1,smooth] 0.8
+z[w2,g23,T2,smooth] 0
+z[w2,g23,T5,smooth] 0
+z[w2,g24,T1,smooth] 0.4
+z[w2,g24,T2,smooth] 0
+z[w2,g24,T5,smooth] 0
+z[w2,g25,T1,smooth] 3.0000000000000004e-01
+z[w2,g25,T2,smooth] 0
+z[w2,g25,T5,smooth] 0
+z[w2,g26,T1,smooth] 0
+z[w2,g26,T2,smooth] 1
+z[w2,g26,T5,smooth] 0
+z[w2,g27,T1,smooth] 0
+z[w2,g27,T2,smooth] 0
+z[w2,g27,T5,smooth] 3.0000000000000004e-01
+z[w2,g28,T1,smooth] 1
+z[w2,g28,T2,smooth] 0
+z[w2,g28,T5,smooth] 0
+z[w2,g29,T1,smooth] 0
+z[w2,g29,T2,smooth] 3.0000000000000004e-01
+z[w2,g29,T5,smooth] 0
+z[w2,g30,T1,smooth] 0
+z[w2,g30,T2,smooth] 0
+z[w2,g30,T5,smooth] 0.5
+z[w2,g31,T1,smooth] 6.0000000000000009e-01
+z[w2,g31,T2,smooth] 0
+z[w2,g31,T5,smooth] 0
+z[w2,g32,T1,smooth] 0.4
+z[w2,g32,T2,smooth] 0
+z[w2,g32,T5,smooth] 0
+z[w2,g33,T1,smooth] 0
+z[w2,g33,T2,smooth] 0
+z[w2,g33,T5,smooth] 6.0000000000000009e-01
+n[w1,T1,R1,smooth] 2.3399999999999994e+00
+n[w1,T1,R2,smooth] 0
+n[w1,T1,R3,smooth] 0
+n[w1,T1,R4,smooth] 0
+n[w1,T1,R5,smooth] 0
+n[w1,T1,R6,smooth] 0
+n[w1,T1,R7,smooth] 0
+n[w1,T2,R1,smooth] 0
+n[w1,T2,R2,smooth] 0
+n[w1,T2,R3,smooth] 0
+n[w1,T2,R4,smooth] 0
+n[w1,T2,R5,smooth] 0
+n[w1,T2,R6,smooth] 0
+n[w1,T2,R7,smooth] 1.59
+n[w1,T5,R1,smooth] 0
+n[w1,T5,R2,smooth] 0
+n[w1,T5,R3,smooth] 0
+n[w1,T5,R4,smooth] 0
+n[w1,T5,R5,smooth] 0
+n[w1,T5,R6,smooth] 1.8599999999999999e+00
+n[w1,T5,R7,smooth] 0
+n[w2,T1,R1,smooth] 1.8600000000000003e+00
+n[w2,T1,R2,smooth] 0
+n[w2,T1,R3,smooth] 0
+n[w2,T1,R4,smooth] 0
+n[w2,T1,R5,smooth] 0
+n[w2,T1,R6,smooth] 0
+n[w2,T1,R7,smooth] 0
+n[w2,T2,R1,smooth] 0
+n[w2,T2,R2,smooth] 0
+n[w2,T2,R3,smooth] 0
+n[w2,T2,R4,smooth] 0
+n[w2,T2,R5,smooth] 0
+n[w2,T2,R6,smooth] 0
+n[w2,T2,R7,smooth] 1.7699999999999998e+00
+n[w2,T5,R1,smooth] 0
+n[w2,T5,R2,smooth] 0
+n[w2,T5,R3,smooth] 0
+n[w2,T5,R4,smooth] 0
+n[w2,T5,R5,smooth] 0
+n[w2,T5,R6,smooth] 1.7999999999999998e+00
+n[w2,T5,R7,smooth] 0
+m[w1,T1,D1,smooth] 5.4599999999999991e+00
+m[w1,T1,D2,smooth] 0
+m[w1,T1,D3,smooth] 0
+m[w1,T1,D4,smooth] 0
+m[w1,T1,D5,smooth] 0
+m[w1,T2,D1,smooth] 3.7100000000000004e+00
+m[w1,T2,D2,smooth] 0
+m[w1,T2,D3,smooth] 0
+m[w1,T2,D4,smooth] 0
+m[w1,T2,D5,smooth] 0
+m[w1,T5,D1,smooth] 0
+m[w1,T5,D2,smooth] 0
+m[w1,T5,D3,smooth] 0
+m[w1,T5,D4,smooth] 0
+m[w1,T5,D5,smooth] 4.34
+m[w2,T1,D1,smooth] 4.3400000000000007e+00
+m[w2,T1,D2,smooth] 0
+m[w2,T1,D3,smooth] 0
+m[w2,T1,D4,smooth] 0
+m[w2,T1,D5,smooth] 0
+m[w2,T2,D1,smooth] 4.1299999999999990e+00
+m[w2,T2,D2,smooth] 0
+m[w2,T2,D3,smooth] 0
+m[w2,T2,D4,smooth] 0
+m[w2,T2,D5,smooth] 0
+m[w2,T5,D1,smooth] 0
+m[w2,T5,D2,smooth] 0
+m[w2,T5,D3,smooth] 0
+m[w2,T5,D4,smooth] 0
+m[w2,T5,D5,smooth] 4.1999999999999993e+00
+l[w1,R1,D1,s1,smooth] 0
+l[w1,R1,D1,s2,smooth] 1.8719999999999997e+00
+l[w1,R1,D2,s1,smooth] 0
+l[w1,R1,D2,s2,smooth] 0
+l[w1,R1,D3,s1,smooth] 0
+l[w1,R1,D3,s2,smooth] 0
+l[w1,R1,D4,s1,smooth] 0
+l[w1,R1,D4,s2,smooth] 0
+l[w1,R1,D5,s1,smooth] 0
+l[w1,R1,D5,s2,smooth] 0
+l[w1,R2,D1,s1,smooth] 0
+l[w1,R2,D1,s2,smooth] 0
+l[w1,R2,D2,s1,smooth] 0
+l[w1,R2,D2,s2,smooth] 0
+l[w1,R2,D3,s1,smooth] 4.9200000000000008e+00
+l[w1,R2,D3,s2,smooth] 0
+l[w1,R2,D4,s1,smooth] 0
+l[w1,R2,D4,s2,smooth] 0
+l[w1,R2,D5,s1,smooth] 0
+l[w1,R2,D5,s2,smooth] 0
+l[w1,R3,D1,s1,smooth] 0
+l[w1,R3,D1,s2,smooth] 0
+l[w1,R3,D2,s1,smooth] 0
+l[w1,R3,D2,s2,smooth] 0
+l[w1,R3,D3,s1,smooth] 2.04
+l[w1,R3,D3,s2,smooth] 0
+l[w1,R3,D4,s1,smooth] 0
+l[w1,R3,D4,s2,smooth] 0
+l[w1,R3,D5,s1,smooth] 0
+l[w1,R3,D5,s2,smooth] 0
+l[w1,R4,D1,s1,smooth] 0
+l[w1,R4,D1,s2,smooth] 0
+l[w1,R4,D2,s1,smooth] 3
+l[w1,R4,D2,s2,smooth] 0
+l[w1,R4,D3,s1,smooth] 0
+l[w1,R4,D3,s2,smooth] 0
+l[w1,R4,D4,s1,smooth] 0
+l[w1,R4,D4,s2,smooth] 0
+l[w1,R4,D5,s1,smooth] 0
+l[w1,R4,D5,s2,smooth] 0
+l[w1,R5,D1,s1,smooth] 0
+l[w1,R5,D1,s2,smooth] 0
+l[w1,R5,D2,s1,smooth] 4.8000000000000007e+00
+l[w1,R5,D2,s2,smooth] 0
+l[w1,R5,D3,s1,smooth] 0
+l[w1,R5,D3,s2,smooth] 0
+l[w1,R5,D4,s1,smooth] 0
+l[w1,R5,D4,s2,smooth] 0
+l[w1,R5,D5,s1,smooth] 0
+l[w1,R5,D5,s2,smooth] 0
+l[w1,R6,D1,s1,smooth] 0
+l[w1,R6,D1,s2,smooth] 0
+l[w1,R6,D2,s1,smooth] 0
+l[w1,R6,D2,s2,smooth] 0
+l[w1,R6,D3,s1,smooth] 0
+l[w1,R6,D3,s2,smooth] 0
+l[w1,R6,D4,s1,smooth] 0
+l[w1,R6,D4,s2,smooth] 0
+l[w1,R6,D5,s1,smooth] 5.8800000000000008e+00
+l[w1,R6,D5,s2,smooth] 1.488
+l[w1,R7,D1,s1,smooth] 2.5200000000000005e+00
+l[w1,R7,D1,s2,smooth] 1.2720000000000002e+00
+l[w1,R7,D2,s1,smooth] 0
+l[w1,R7,D2,s2,smooth] 0
+l[w1,R7,D3,s1,smooth] 0
+l[w1,R7,D3,s2,smooth] 0
+l[w1,R7,D4,s1,smooth] 0
+l[w1,R7,D4,s2,smooth] 0
+l[w1,R7,D5,s1,smooth] 0
+l[w1,R7,D5,s2,smooth] 0
+l[w2,R1,D1,s1,smooth] 0
+l[w2,R1,D1,s2,smooth] 1.4880000000000004e+00
+l[w2,R1,D2,s1,smooth] 0
+l[w2,R1,D2,s2,smooth] 0
+l[w2,R1,D3,s1,smooth] 0
+l[w2,R1,D3,s2,smooth] 0
+l[w2,R1,D4,s1,smooth] 0
+l[w2,R1,D4,s2,smooth] 0
+l[w2,R1,D5,s1,smooth] 0
+l[w2,R1,D5,s2,smooth] 0
+l[w2,R2,D1,s1,smooth] 0
+l[w2,R2,D1,s2,smooth] 0
+l[w2,R2,D2,s1,smooth] 0
+l[w2,R2,D2,s2,smooth] 0
+l[w2,R2,D3,s1,smooth] 3.9600000000000009e+00
+l[w2,R2,D3,s2,smooth] 0
+l[w2,R2,D4,s1,smooth] 0
+l[w2,R2,D4,s2,smooth] 0
+l[w2,R2,D5,s1,smooth] 0
+l[w2,R2,D5,s2,smooth] 0
+l[w2,R3,D1,s1,smooth] 0
+l[w2,R3,D1,s2,smooth] 0
+l[w2,R3,D2,s1,smooth] 0
+l[w2,R3,D2,s2,smooth] 0
+l[w2,R3,D3,s1,smooth] 1.5599999999999998e+00
+l[w2,R3,D3,s2,smooth] 0
+l[w2,R3,D4,s1,smooth] 0
+l[w2,R3,D4,s2,smooth] 0
+l[w2,R3,D5,s1,smooth] 0
+l[w2,R3,D5,s2,smooth] 0
+l[w2,R4,D1,s1,smooth] 0
+l[w2,R4,D1,s2,smooth] 0
+l[w2,R4,D2,s1,smooth] 2.52
+l[w2,R4,D2,s2,smooth] 0
+l[w2,R4,D3,s1,smooth] 0
+l[w2,R4,D3,s2,smooth] 0
+l[w2,R4,D4,s1,smooth] 0
+l[w2,R4,D4,s2,smooth] 0
+l[w2,R4,D5,s1,smooth] 0
+l[w2,R4,D5,s2,smooth] 0
+l[w2,R5,D1,s1,smooth] 0
+l[w2,R5,D1,s2,smooth] 0
+l[w2,R5,D2,s1,smooth] 4.56
+l[w2,R5,D2,s2,smooth] 0
+l[w2,R5,D3,s1,smooth] 0
+l[w2,R5,D3,s2,smooth] 0
+l[w2,R5,D4,s1,smooth] 0
+l[w2,R5,D4,s2,smooth] 0
+l[w2,R5,D5,s1,smooth] 0
+l[w2,R5,D5,s2,smooth] 0
+l[w2,R6,D1,s1,smooth] 0
+l[w2,R6,D1,s2,smooth] 0
+l[w2,R6,D2,s1,smooth] 0
+l[w2,R6,D2,s2,smooth] 0
+l[w2,R6,D3,s1,smooth] 0
+l[w2,R6,D3,s2,smooth] 0
+l[w2,R6,D4,s1,smooth] 0
+l[w2,R6,D4,s2,smooth] 0
+l[w2,R6,D5,s1,smooth] 6.12
+l[w2,R6,D5,s2,smooth] 1.44
+l[w2,R7,D1,s1,smooth] 3
+l[w2,R7,D1,s2,smooth] 1.416
+l[w2,R7,D2,s1,smooth] 0
+l[w2,R7,D2,s2,smooth] 0
+l[w2,R7,D3,s1,smooth] 0
+l[w2,R7,D3,s2,smooth] 0
+l[w2,R7,D4,s1,smooth] 0
+l[w2,R7,D4,s2,smooth] 0
+l[w2,R7,D5,s1,smooth] 0
+l[w2,R7,D5,s2,smooth] 0
+r[w1,R1,s1,smooth] 0
+r[w1,R1,s2,smooth] 2.3399999999999994e+00
+r[w1,R2,s1,smooth] 6.15
+r[w1,R2,s2,smooth] 0
+r[w1,R3,s1,smooth] 2.55
+r[w1,R3,s2,smooth] 0
+r[w1,R4,s1,smooth] 3.7499999999999996e+00
+r[w1,R4,s2,smooth] 0
+r[w1,R5,s1,smooth] 6
+r[w1,R5,s2,smooth] 0
+r[w1,R6,s1,smooth] 7.3500000000000005e+00
+r[w1,R6,s2,smooth] 1.8599999999999999e+00
+r[w1,R7,s1,smooth] 3.1500000000000004e+00
+r[w1,R7,s2,smooth] 1.59
+r[w2,R1,s1,smooth] 0
+r[w2,R1,s2,smooth] 1.8600000000000003e+00
+r[w2,R2,s1,smooth] 4.9500000000000011e+00
+r[w2,R2,s2,smooth] 0
+r[w2,R3,s1,smooth] 1.9499999999999997e+00
+r[w2,R3,s2,smooth] 0
+r[w2,R4,s1,smooth] 3.15
+r[w2,R4,s2,smooth] 0
+r[w2,R5,s1,smooth] 5.6999999999999993e+00
+r[w2,R5,s2,smooth] 0
+r[w2,R6,s1,smooth] 7.6499999999999995e+00
+r[w2,R6,s2,smooth] 1.7999999999999998e+00
+r[w2,R7,s1,smooth] 3.75
+r[w2,R7,s2,smooth] 1.7699999999999998e+00
+t[w1,T1,smooth] 7.7999999999999989e+00
+t[w1,T2,smooth] 5.3000000000000007e+00
+t[w1,T5,smooth] 6.2
+t[w2,T1,smooth] 6.2000000000000011e+00
+t[w2,T2,smooth] 5.8999999999999995e+00
+t[w2,T5,smooth] 6
+d[w1,D1,s1,smooth] 16.77
+d[w1,D1,s2,smooth] 12.314
+d[w1,D2,s1,smooth] 19.42
+d[w1,D2,s2,smooth] 0
+d[w1,D3,s1,smooth] 19.21
+d[w1,D3,s2,smooth] 0
+d[w1,D4,s1,smooth] 3.25
+d[w1,D4,s2,smooth] 0
+d[w1,D5,s1,smooth] 12.76
+d[w1,D5,s2,smooth] 5.8279999999999994e+00
+d[w2,D1,s1,smooth] 18.23
+d[w2,D1,s2,smooth] 11.374
+d[w2,D2,s1,smooth] 1.5579999999999998e+01
+d[w2,D2,s2,smooth] 0
+d[w2,D3,s1,smooth] 15.79
+d[w2,D3,s2,smooth] 0
+d[w2,D4,s1,smooth] 3.25
+d[w2,D4,s2,smooth] 0
+d[w2,D5,s1,smooth] 1.4120000000000001e+01
+d[w2,D5,s2,smooth] 5.6399999999999988e+00
+E[smooth] 3.5525863097939466e+05
+H[smooth] 1.8757257020266256e+08
+qx_in[g1,R1,smooth] 0
+qx_in[g1,R2,smooth] 0
+qx_in[g1,R3,smooth] 0
+qx_in[g1,R4,smooth] 1.1779765548633434e+00
+qx_in[g1,R5,smooth] 0
+qx_in[g1,R6,smooth] 0
+qx_in[g1,R7,smooth] 7.8516648022737578e-01
+qx_in[g2,R1,smooth] 0
+qx_in[g2,R2,smooth] 0
+qx_in[g2,R3,smooth] 0
+qx_in[g2,R4,smooth] 9.8118924867497193e-01
+qx_in[g2,R5,smooth] 0
+qx_in[g2,R6,smooth] 0
+qx_in[g2,R7,smooth] 0
+qx_in[g3,R1,smooth] 0
+qx_in[g3,R2,smooth] 1.5712397367863249e+00
+qx_in[g3,R3,smooth] 0
+qx_in[g3,R4,smooth] 0
+qx_in[g3,R5,smooth] 0
+qx_in[g3,R6,smooth] 2.3568870124674524e+00
+qx_in[g3,R7,smooth] 0
+qx_in[g4,R1,smooth] 0
+qx_in[g4,R2,smooth] 0
+qx_in[g4,R3,smooth] 0
+qx_in[g4,R4,smooth] 1.3736489197838913e+00
+qx_in[g4,R5,smooth] 0
+qx_in[g4,R6,smooth] 0
+qx_in[g4,R7,smooth] 0
+qx_in[g5,R1,smooth] 0
+qx_in[g5,R2,smooth] 0
+qx_in[g5,R3,smooth] 0
+qx_in[g5,R4,smooth] 1.1775385973812260e+00
+qx_in[g5,R5,smooth] 0
+qx_in[g5,R6,smooth] 0
+qx_in[g5,R7,smooth] 0
+qx_in[g6,R1,smooth] 0
+qx_in[g6,R2,smooth] 0
+qx_in[g6,R3,smooth] 0
+qx_in[g6,R4,smooth] 0
+qx_in[g6,R5,smooth] 0
+qx_in[g6,R6,smooth] 1.9630638108521692e+00
+qx_in[g6,R7,smooth] 0
+qx_in[g7,R1,smooth] 0
+qx_in[g7,R2,smooth] 0
+qx_in[g7,R3,smooth] 0
+qx_in[g7,R4,smooth] 0
+qx_in[g7,R5,smooth] 0
+qx_in[g7,R6,smooth] 3.1356257719329470e+00
+qx_in[g7,R7,smooth] 0
+qx_in[g8,R1,smooth] 0
+qx_in[g8,R2,smooth] 0
+qx_in[g8,R3,smooth] 0
+qx_in[g8,R4,smooth] 0
+qx_in[g8,R5,smooth] 0
+qx_in[g8,R6,smooth] 3.9278317474425890e+00
+qx_in[g8,R7,smooth] 0
+qx_in[g9,R1,smooth] 0
+qx_in[g9,R2,smooth] 0
+qx_in[g9,R3,smooth] 0
+qx_in[g9,R4,smooth] 0
+qx_in[g9,R5,smooth] 0
+qx_in[g9,R6,smooth] 3.9273573247128296e-01
+qx_in[g9,R7,smooth] 0
+qx_in[g10,R1,smooth] 0
+qx_in[g10,R2,smooth] 0
+qx_in[g10,R3,smooth] 0
+qx_in[g10,R4,smooth] 0
+qx_in[g10,R5,smooth] 0
+qx_in[g10,R6,smooth] 1.9638821628018823e+00
+qx_in[g10,R7,smooth] 0
+qx_in[g11,R1,smooth] 0
+qx_in[g11,R2,smooth] 0
+qx_in[g11,R3,smooth] 0
+qx_in[g11,R4,smooth] 0
+qx_in[g11,R5,smooth] 3.9269598491620421e+00
+qx_in[g11,R6,smooth] 0
+qx_in[g11,R7,smooth] 0
+qx_in[g12,R1,smooth] 0
+qx_in[g12,R2,smooth] 0
+qx_in[g12,R3,smooth] 0
+qx_in[g12,R4,smooth] 0
+qx_in[g12,R5,smooth] 0
+qx_in[g12,R6,smooth] 0
+qx_in[g12,R7,smooth] 1.1774122676558372e+00
+qx_in[g13,R1,smooth] 0
+qx_in[g13,R2,smooth] 0
+qx_in[g13,R3,smooth] 0
+qx_in[g13,R4,smooth] 0
+qx_in[g13,R5,smooth] 0
+qx_in[g13,R6,smooth] 0
+qx_in[g13,R7,smooth] 1.5695132198368269e+00
+qx_in[g14,R1,smooth] 0
+qx_in[g14,R2,smooth] 0
+qx_in[g14,R3,smooth] 0
+qx_in[g14,R4,smooth] 2.7476901782175949e+00
+qx_in[g14,R5,smooth] 0
+qx_in[g14,R6,smooth] 0
+qx_in[g14,R7,smooth] 0
+qx_in[g15,R1,smooth] 0
+qx_in[g15,R2,smooth] 0
+qx_in[g15,R3,smooth] 0
+qx_in[g15,R4,smooth] 0
+qx_in[g15,R5,smooth] 2.3372050294735942e+00
+qx_in[g15,R6,smooth] 0
+qx_in[g15,R7,smooth] 0
+qx_in[g16,R1,smooth] 0
+qx_in[g16,R2,smooth] 0
+qx_in[g16,R3,smooth] 0
+qx_in[g16,R4,smooth] 1.5695881793020559e+00
+qx_in[g16,R5,smooth] 0
+qx_in[g16,R6,smooth] 0
+qx_in[g16,R7,smooth] 0
+qx_in[g17,R1,smooth] 0
+qx_in[g17,R2,smooth] 0
+qx_in[g17,R3,smooth] 0
+qx_in[g17,R4,smooth] 0
+qx_in[g17,R5,smooth] 3.1426452051389888e+00
+qx_in[g17,R6,smooth] 0
+qx_in[g17,R7,smooth] 0
+qx_in[g18,R1,smooth] 0
+qx_in[g18,R2,smooth] 2.3569045095852466e+00
+qx_in[g18,R3,smooth] 0
+qx_in[g18,R4,smooth] 0
+qx_in[g18,R5,smooth] 0
+qx_in[g18,R6,smooth] 0
+qx_in[g18,R7,smooth] 0
+qx_in[g19,R1,smooth] 0
+qx_in[g19,R2,smooth] 0
+qx_in[g19,R3,smooth] 0
+qx_in[g19,R4,smooth] 0
+qx_in[g19,R5,smooth] 1.9637620479717555e+00
+qx_in[g19,R6,smooth] 0
+qx_in[g19,R7,smooth] 0
+qx_in[g20,R1,smooth] 0
+qx_in[g20,R2,smooth] 0
+qx_in[g20,R3,smooth] 0
+qx_in[g20,R4,smooth] 0
+qx_in[g20,R5,smooth] 0
+qx_in[g20,R6,smooth] 0
+qx_in[g20,R7,smooth] 1.5687716480947846e+00
+qx_in[g21,R1,smooth] 0
+qx_in[g21,R2,smooth] 2.3297114890858821e+00
+qx_in[g21,R3,smooth] 0
+qx_in[g21,R4,smooth] 0
+qx_in[g21,R5,smooth] 0
+qx_in[g21,R6,smooth] 0
+qx_in[g21,R7,smooth] 0
+qx_in[g22,R1,smooth] 0
+qx_in[g22,R2,smooth] 1.1784369467396139e+00
+qx_in[g22,R3,smooth] 0
+qx_in[g22,R4,smooth] 0
+qx_in[g22,R5,smooth] 0
+qx_in[g22,R6,smooth] 0
+qx_in[g22,R7,smooth] 0
+qx_in[g23,R1,smooth] 0
+qx_in[g23,R2,smooth] 3.1427564348033825e+00
+qx_in[g23,R3,smooth] 0
+qx_in[g23,R4,smooth] 0
+qx_in[g23,R5,smooth] 0
+qx_in[g23,R6,smooth] 0
+qx_in[g23,R7,smooth] 0
+qx_in[g24,R1,smooth] 0
+qx_in[g24,R2,smooth] 0
+qx_in[g24,R3,smooth] 1.5475721480656641e+00
+qx_in[g24,R4,smooth] 0
+qx_in[g24,R5,smooth] 0
+qx_in[g24,R6,smooth] 0
+qx_in[g24,R7,smooth] 0
+qx_in[g25,R1,smooth] 0
+qx_in[g25,R2,smooth] 0
+qx_in[g25,R3,smooth] 1.1752418902277539e+00
+qx_in[g25,R4,smooth] 0
+qx_in[g25,R5,smooth] 0
+qx_in[g25,R6,smooth] 0
+qx_in[g25,R7,smooth] 0
+qx_in[g26,R1,smooth] 0
+qx_in[g26,R2,smooth] 0
+qx_in[g26,R3,smooth] 0
+qx_in[g26,R4,smooth] 0
+qx_in[g26,R5,smooth] 0
+qx_in[g26,R6,smooth] 0
+qx_in[g26,R7,smooth] 3.9246844816497211e+00
+qx_in[g27,R1,smooth] 0
+qx_in[g27,R2,smooth] 0
+qx_in[g27,R3,smooth] 0
+qx_in[g27,R4,smooth] 0
+qx_in[g27,R5,smooth] 0
+qx_in[g27,R6,smooth] 1.1779150905144105e+00
+qx_in[g27,R7,smooth] 0
+qx_in[g28,R1,smooth] 0
+qx_in[g28,R2,smooth] 3.9283471302431607e+00
+qx_in[g28,R3,smooth] 0
+qx_in[g28,R4,smooth] 0
+qx_in[g28,R5,smooth] 0
+qx_in[g28,R6,smooth] 0
+qx_in[g28,R7,smooth] 0
+qx_in[g29,R1,smooth] 0
+qx_in[g29,R2,smooth] 0
+qx_in[g29,R3,smooth] 0
+qx_in[g29,R4,smooth] 0
+qx_in[g29,R5,smooth] 1.1782760501076948e+00
+qx_in[g29,R6,smooth] 0
+qx_in[g29,R7,smooth] 0
+qx_in[g30,R1,smooth] 0
+qx_in[g30,R2,smooth] 0
+qx_in[g30,R3,smooth] 0
+qx_in[g30,R4,smooth] 0
+qx_in[g30,R5,smooth] 0
+qx_in[g30,R6,smooth] 1.9622446412960428e+00
+qx_in[g30,R7,smooth] 0
+qx_in[g31,R1,smooth] 0
+qx_in[g31,R2,smooth] 0
+qx_in[g31,R3,smooth] 3.1420142426979538e+00
+qx_in[g31,R4,smooth] 0
+qx_in[g31,R5,smooth] 0
+qx_in[g31,R6,smooth] 0
+qx_in[g31,R7,smooth] 0
+qx_in[g32,R1,smooth] 0
+qx_in[g32,R2,smooth] 0
+qx_in[g32,R3,smooth] 0
+qx_in[g32,R4,smooth] 0
+qx_in[g32,R5,smooth] 0
+qx_in[g32,R6,smooth] 2.7496948867661177e+00
+qx_in[g32,R7,smooth] 0
+qx_in[g33,R1,smooth] 0
+qx_in[g33,R2,smooth] 0
+qx_in[g33,R3,smooth] 0
+qx_in[g33,R4,smooth] 0
+qx_in[g33,R5,smooth] 2.73256937605459
+qx_in[g33,R6,smooth] 0
+qx_in[g33,R7,smooth] 0
+qx_out[g1,R1,smooth] 0
+qx_out[g1,R2,smooth] 0
+qx_out[g1,R3,smooth] 0
+qx_out[g1,R4,smooth] 1.1786474291300157e+00
+qx_out[g1,R5,smooth] 0
+qx_out[g1,R6,smooth] 0
+qx_out[g1,R7,smooth] 7.8575807331648340e-01
+qx_out[g2,R1,smooth] 0
+qx_out[g2,R2,smooth] 0
+qx_out[g2,R3,smooth] 0
+qx_out[g2,R4,smooth] 9.8218511608031078e-01
+qx_out[g2,R5,smooth] 0
+qx_out[g2,R6,smooth] 0
+qx_out[g2,R7,smooth] 0
+qx_out[g3,R1,smooth] 0
+qx_out[g3,R2,smooth] 1.5715565585515618e+00
+qx_out[g3,R3,smooth] 0
+qx_out[g3,R4,smooth] 0
+qx_out[g3,R5,smooth] 0
+qx_out[g3,R6,smooth] 2.3573360141198765e+00
+qx_out[g3,R7,smooth] 0
+qx_out[g4,R1,smooth] 0
+qx_out[g4,R2,smooth] 0
+qx_out[g4,R3,smooth] 0
+qx_out[g4,R4,smooth] 1.3750584105080794e+00
+qx_out[g4,R5,smooth] 0
+qx_out[g4,R6,smooth] 0
+qx_out[g4,R7,smooth] 0
+qx_out[g5,R1,smooth] 0
+qx_out[g5,R2,smooth] 0
+qx_out[g5,R3,smooth] 0
+qx_out[g5,R4,smooth] 1.1786273497470969e+00
+qx_out[g5,R5,smooth] 0
+qx_out[g5,R6,smooth] 0
+qx_out[g5,R7,smooth] 0
+qx_out[g6,R1,smooth] 0
+qx_out[g6,R2,smooth] 0
+qx_out[g6,R3,smooth] 0
+qx_out[g6,R4,smooth] 0
+qx_out[g6,R5,smooth] 0
+qx_out[g6,R6,smooth] 1.9644019345021360e+00
+qx_out[g6,R7,smooth] 0
+qx_out[g7,R1,smooth] 0
+qx_out[g7,R2,smooth] 0
+qx_out[g7,R3,smooth] 0
+qx_out[g7,R4,smooth] 0
+qx_out[g7,R5,smooth] 0
+qx_out[g7,R6,smooth] 3.1427879551451894e+00
+qx_out[g7,R7,smooth] 0
+qx_out[g8,R1,smooth] 0
+qx_out[g8,R2,smooth] 0
+qx_out[g8,R3,smooth] 0
+qx_out[g8,R4,smooth] 0
+qx_out[g8,R5,smooth] 0
+qx_out[g8,R6,smooth] 3.9288798371395117e+00
+qx_out[g8,R7,smooth] 0
+qx_out[g9,R1,smooth] 0
+qx_out[g9,R2,smooth] 0
+qx_out[g9,R3,smooth] 0
+qx_out[g9,R4,smooth] 0
+qx_out[g9,R5,smooth] 0
+qx_out[g9,R6,smooth] 3.9288590654215655e-01
+qx_out[g9,R7,smooth] 0
+qx_out[g10,R1,smooth] 0
+qx_out[g10,R2,smooth] 0
+qx_out[g10,R3,smooth] 0
+qx_out[g10,R4,smooth] 0
+qx_out[g10,R5,smooth] 0
+qx_out[g10,R6,smooth] 1.9644384529490597e+00
+qx_out[g10,R7,smooth] 0
+qx_out[g11,R1,smooth] 0
+qx_out[g11,R2,smooth] 0
+qx_out[g11,R3,smooth] 0
+qx_out[g11,R4,smooth] 0
+qx_out[g11,R5,smooth] 3.9288414227850490e+00
+qx_out[g11,R6,smooth] 0
+qx_out[g11,R7,smooth] 0
+qx_out[g12,R1,smooth] 0
+qx_out[g12,R2,smooth] 0
+qx_out[g12,R3,smooth] 0
+qx_out[g12,R4,smooth] 0
+qx_out[g12,R5,smooth] 0
+qx_out[g12,R6,smooth] 0
+qx_out[g12,R7,smooth] 1.1786214434565514e+00
+qx_out[g13,R1,smooth] 0
+qx_out[g13,R2,smooth] 0
+qx_out[g13,R3,smooth] 0
+qx_out[g13,R4,smooth] 0
+qx_out[g13,R5,smooth] 0
+qx_out[g13,R6,smooth] 0
+qx_out[g13,R7,smooth] 1.5714777536871651e+00
+qx_out[g14,R1,smooth] 0
+qx_out[g14,R2,smooth] 0
+qx_out[g14,R3,smooth] 0
+qx_out[g14,R4,smooth] 2.7501351378735177e+00
+qx_out[g14,R5,smooth] 0
+qx_out[g14,R6,smooth] 0
+qx_out[g14,R7,smooth] 0
+qx_out[g15,R1,smooth] 0
+qx_out[g15,R2,smooth] 0
+qx_out[g15,R3,smooth] 0
+qx_out[g15,R4,smooth] 0
+qx_out[g15,R5,smooth] 2.3562660942452527e+00
+qx_out[g15,R6,smooth] 0
+qx_out[g15,R7,smooth] 0
+qx_out[g16,R1,smooth] 0
+qx_out[g16,R2,smooth] 0
+qx_out[g16,R3,smooth] 0
+qx_out[g16,R4,smooth] 1.5714813247931045e+00
+qx_out[g16,R5,smooth] 0
+qx_out[g16,R6,smooth] 0
+qx_out[g16,R7,smooth] 0
+qx_out[g17,R1,smooth] 0
+qx_out[g17,R2,smooth] 0
+qx_out[g17,R3,smooth] 0
+qx_out[g17,R4,smooth] 0
+qx_out[g17,R5,smooth] 3.1431202041468036e+00
+qx_out[g17,R6,smooth] 0
+qx_out[g17,R7,smooth] 0
+qx_out[g18,R1,smooth] 0
+qx_out[g18,R2,smooth] 2.3573367638423792e+00
+qx_out[g18,R3,smooth] 0
+qx_out[g18,R4,smooth] 0
+qx_out[g18,R5,smooth] 0
+qx_out[g18,R6,smooth] 0
+qx_out[g18,R7,smooth] 0
+qx_out[g19,R1,smooth] 0
+qx_out[g19,R2,smooth] 0
+qx_out[g19,R3,smooth] 0
+qx_out[g19,R4,smooth] 0
+qx_out[g19,R5,smooth] 1.9644332023988371e+00
+qx_out[g19,R6,smooth] 0
+qx_out[g19,R7,smooth] 0
+qx_out[g20,R1,smooth] 0
+qx_out[g20,R2,smooth] 0
+qx_out[g20,R3,smooth] 0
+qx_out[g20,R4,smooth] 0
+qx_out[g20,R5,smooth] 0
+qx_out[g20,R6,smooth] 0
+qx_out[g20,R7,smooth] 1.5714418404472448e+00
+qx_out[g21,R1,smooth] 0
+qx_out[g21,R2,smooth] 2.3557829976605036e+00
+qx_out[g21,R3,smooth] 0
+qx_out[g21,R4,smooth] 0
+qx_out[g21,R5,smooth] 0
+qx_out[g21,R6,smooth] 0
+qx_out[g21,R7,smooth] 0
+qx_out[g22,R1,smooth] 0
+qx_out[g22,R2,smooth] 1.1786677256791322e+00
+qx_out[g22,R3,smooth] 0
+qx_out[g22,R4,smooth] 0
+qx_out[g22,R5,smooth] 0
+qx_out[g22,R6,smooth] 0
+qx_out[g22,R7,smooth] 0
+qx_out[g23,R1,smooth] 0
+qx_out[g23,R2,smooth] 3.1431249204035296e+00
+qx_out[g23,R3,smooth] 0
+qx_out[g23,R4,smooth] 0
+qx_out[g23,R5,smooth] 0
+qx_out[g23,R6,smooth] 0
+qx_out[g23,R7,smooth] 0
+qx_out[g24,R1,smooth] 0
+qx_out[g24,R2,smooth] 0
+qx_out[g24,R3,smooth] 1.5701368787030014e+00
+qx_out[g24,R4,smooth] 0
+qx_out[g24,R5,smooth] 0
+qx_out[g24,R6,smooth] 0
+qx_out[g24,R7,smooth] 0
+qx_out[g25,R1,smooth] 0
+qx_out[g25,R2,smooth] 0
+qx_out[g25,R3,smooth] 1.1785137744386025e+00
+qx_out[g25,R4,smooth] 0
+qx_out[g25,R5,smooth] 0
+qx_out[g25,R6,smooth] 0
+qx_out[g25,R7,smooth] 0
+qx_out[g26,R1,smooth] 0
+qx_out[g26,R2,smooth] 0
+qx_out[g26,R3,smooth] 0
+qx_out[g26,R4,smooth] 0
+qx_out[g26,R5,smooth] 0
+qx_out[g26,R6,smooth] 0
+qx_out[g26,R7,smooth] 3.9287370613681154e+00
+qx_out[g27,R1,smooth] 0
+qx_out[g27,R2,smooth] 0
+qx_out[g27,R3,smooth] 0
+qx_out[g27,R4,smooth] 0
+qx_out[g27,R5,smooth] 0
+qx_out[g27,R6,smooth] 1.1786446512430335e+00
+qx_out[g27,R7,smooth] 0
+qx_out[g28,R1,smooth] 0
+qx_out[g28,R2,smooth] 3.9289019821140205e+00
+qx_out[g28,R3,smooth] 0
+qx_out[g28,R4,smooth] 0
+qx_out[g28,R5,smooth] 0
+qx_out[g28,R6,smooth] 0
+qx_out[g28,R7,smooth] 0
+qx_out[g29,R1,smooth] 0
+qx_out[g29,R2,smooth] 0
+qx_out[g29,R3,smooth] 0
+qx_out[g29,R4,smooth] 0
+qx_out[g29,R5,smooth] 1.1786607466631978e+00
+qx_out[g29,R6,smooth] 0
+qx_out[g29,R7,smooth] 0
+qx_out[g30,R1,smooth] 0
+qx_out[g30,R2,smooth] 0
+qx_out[g30,R3,smooth] 0
+qx_out[g30,R4,smooth] 0
+qx_out[g30,R5,smooth] 0
+qx_out[g30,R6,smooth] 1.96436393906769
+qx_out[g30,R7,smooth] 0
+qx_out[g31,R1,smooth] 0
+qx_out[g31,R2,smooth] 0
+qx_out[g31,R3,smooth] 3.1430929028672985e+00
+qx_out[g31,R4,smooth] 0
+qx_out[g31,R5,smooth] 0
+qx_out[g31,R6,smooth] 0
+qx_out[g31,R7,smooth] 0
+qx_out[g32,R1,smooth] 0
+qx_out[g32,R2,smooth] 0
+qx_out[g32,R3,smooth] 0
+qx_out[g32,R4,smooth] 0
+qx_out[g32,R5,smooth] 0
+qx_out[g32,R6,smooth] 2.7502250655738045e+00
+qx_out[g32,R7,smooth] 0
+qx_out[g33,R1,smooth] 0
+qx_out[g33,R2,smooth] 0
+qx_out[g33,R3,smooth] 0
+qx_out[g33,R4,smooth] 0
+qx_out[g33,R5,smooth] 2.7493294332527403e+00
+qx_out[g33,R6,smooth] 0
+qx_out[g33,R7,smooth] 0
+qy_in[g1,D1,smooth] 3.2731056119554047e+00
+qy_in[g1,D2,smooth] 0
+qy_in[g1,D3,smooth] 0
+qy_in[g1,D4,smooth] 0
+qy_in[g1,D5,smooth] 0
+qy_in[g2,D1,smooth] 1.6366265611985358e+00
+qy_in[g2,D2,smooth] 0
+qy_in[g2,D3,smooth] 0
+qy_in[g2,D4,smooth] 0
+qy_in[g2,D5,smooth] 0
+qy_in[g3,D1,smooth] 0
+qy_in[g3,D2,smooth] 0
+qy_in[g3,D3,smooth] 6.5478177317289070e+00
+qy_in[g3,D4,smooth] 0
+qy_in[g3,D5,smooth] 0
+qy_in[g4,D1,smooth] 2.2914498116146889e+00
+qy_in[g4,D2,smooth] 0
+qy_in[g4,D3,smooth] 0
+qy_in[g4,D4,smooth] 0
+qy_in[g4,D5,smooth] 0
+qy_in[g5,D1,smooth] 1.9639408395179587e+00
+qy_in[g5,D2,smooth] 0
+qy_in[g5,D3,smooth] 0
+qy_in[g5,D4,smooth] 0
+qy_in[g5,D5,smooth] 0
+qy_in[g6,D1,smooth] 0
+qy_in[g6,D2,smooth] 0
+qy_in[g6,D3,smooth] 0
+qy_in[g6,D4,smooth] 0
+qy_in[g6,D5,smooth] 3.2738553962644676e+00
+qy_in[g7,D1,smooth] 0
+qy_in[g7,D2,smooth] 0
+qy_in[g7,D3,smooth] 0
+qy_in[g7,D4,smooth] 0
+qy_in[g7,D5,smooth] 5.23794031222679
+qy_in[g8,D1,smooth] 0
+qy_in[g8,D2,smooth] 1.4666888148083677e+00
+qy_in[g8,D3,smooth] 0
+qy_in[g8,D4,smooth] 0
+qy_in[g8,D5,smooth] 5.0811424647080479e+00
+qy_in[g9,D1,smooth] 0
+qy_in[g9,D2,smooth] 0
+qy_in[g9,D3,smooth] 0
+qy_in[g9,D4,smooth] 0
+qy_in[g9,D5,smooth] 6.5478094047517910e-01
+qy_in[g10,D1,smooth] 0
+qy_in[g10,D2,smooth] 3.2737955259834051e+00
+qy_in[g10,D3,smooth] 0
+qy_in[g10,D4,smooth] 0
+qy_in[g10,D5,smooth] 0
+qy_in[g11,D1,smooth] 0
+qy_in[g11,D2,smooth] 0
+qy_in[g11,D3,smooth] 0
+qy_in[g11,D4,smooth] 6.5475336168012621e+00
+qy_in[g11,D5,smooth] 0
+qy_in[g12,D1,smooth] 1.9637529667831157e+00
+qy_in[g12,D2,smooth] 0
+qy_in[g12,D3,smooth] 0
+qy_in[g12,D4,smooth] 0
+qy_in[g12,D5,smooth] 0
+qy_in[g13,D1,smooth] 2.6176291449115014e+00
+qy_in[g13,D2,smooth] 0
+qy_in[g13,D3,smooth] 0
+qy_in[g13,D4,smooth] 0
+qy_in[g13,D5,smooth] 0
+qy_in[g14,D1,smooth] 4.5825467799794337e+00
+qy_in[g14,D2,smooth] 0
+qy_in[g14,D3,smooth] 0
+qy_in[g14,D4,smooth] 0
+qy_in[g14,D5,smooth] 0
+qy_in[g15,D1,smooth] 0
+qy_in[g15,D2,smooth] 3.9244529695234771e+00
+qy_in[g15,D3,smooth] 0
+qy_in[g15,D4,smooth] 0
+qy_in[g15,D5,smooth] 0
+qy_in[g16,D1,smooth] 2.6186325874118639e+00
+qy_in[g16,D2,smooth] 0
+qy_in[g16,D3,smooth] 0
+qy_in[g16,D4,smooth] 0
+qy_in[g16,D5,smooth] 0
+qy_in[g17,D1,smooth] 0
+qy_in[g17,D2,smooth] 5.2381617508369045e+00
+qy_in[g17,D3,smooth] 0
+qy_in[g17,D4,smooth] 0
+qy_in[g17,D5,smooth] 0
+qy_in[g18,D1,smooth] 0
+qy_in[g18,D2,smooth] 0
+qy_in[g18,D3,smooth] 3.92859888363021
+qy_in[g18,D4,smooth] 0
+qy_in[g18,D5,smooth] 0
+qy_in[g19,D1,smooth] 0
+qy_in[g19,D2,smooth] 3.2736690586118784e+00
+qy_in[g19,D3,smooth] 0
+qy_in[g19,D4,smooth] 0
+qy_in[g19,D5,smooth] 0
+qy_in[g20,D1,smooth] 2.6176536382125728e+00
+qy_in[g20,D2,smooth] 0
+qy_in[g20,D3,smooth] 0
+qy_in[g20,D4,smooth] 0
+qy_in[g20,D5,smooth] 0
+qy_in[g21,D1,smooth] 0
+qy_in[g21,D2,smooth] 0
+qy_in[g21,D3,smooth] 3.9280550012772624e+00
+qy_in[g21,D4,smooth] 0
+qy_in[g21,D5,smooth] 0
+qy_in[g22,D1,smooth] 0
+qy_in[g22,D2,smooth] 0
+qy_in[g22,D3,smooth] 1.9642969209486616e+00
+qy_in[g22,D4,smooth] 0
+qy_in[g22,D5,smooth] 0
+qy_in[g23,D1,smooth] 5.2364082205629670e+00
+qy_in[g23,D2,smooth] 0
+qy_in[g23,D3,smooth] 0
+qy_in[g23,D4,smooth] 0
+qy_in[g23,D5,smooth] 0
+qy_in[g24,D1,smooth] 1.2830952930943498e+00
+qy_in[g24,D2,smooth] 0
+qy_in[g24,D3,smooth] 1.3357578507167072e+00
+qy_in[g24,D4,smooth] 0
+qy_in[g24,D5,smooth] 0
+qy_in[g25,D1,smooth] 1.9633183140602091e+00
+qy_in[g25,D2,smooth] 0
+qy_in[g25,D3,smooth] 0
+qy_in[g25,D4,smooth] 0
+qy_in[g25,D5,smooth] 0
+qy_in[g26,D1,smooth] 6.5458141969894683e+00
+qy_in[g26,D2,smooth] 0
+qy_in[g26,D3,smooth] 0
+qy_in[g26,D4,smooth] 0
+qy_in[g26,D5,smooth] 0
+qy_in[g27,D1,smooth] 0
+qy_in[g27,D2,smooth] 0
+qy_in[g27,D3,smooth] 0
+qy_in[g27,D4,smooth] 0
+qy_in[g27,D5,smooth] 1.9639206534757467e+00
+qy_in[g28,D1,smooth] 0
+qy_in[g28,D2,smooth] 0
+qy_in[g28,D3,smooth] 6.5474587197106473e+00
+qy_in[g28,D4,smooth] 0
+qy_in[g28,D5,smooth] 0
+qy_in[g29,D1,smooth] 0
+qy_in[g29,D2,smooth] 0
+qy_in[g29,D3,smooth] 0
+qy_in[g29,D4,smooth] 1.9643057496402168e+00
+qy_in[g29,D5,smooth] 0
+qy_in[g30,D1,smooth] 0
+qy_in[g30,D2,smooth] 0
+qy_in[g30,D3,smooth] 0
+qy_in[g30,D4,smooth] 0
+qy_in[g30,D5,smooth] 3.2730615994874155e+00
+qy_in[g31,D1,smooth] 0
+qy_in[g31,D2,smooth] 0
+qy_in[g31,D3,smooth] 5.2383256222040577e+00
+qy_in[g31,D4,smooth] 0
+qy_in[g31,D5,smooth] 0
+qy_in[g32,D1,smooth] 0
+qy_in[g32,D2,smooth] 4.5834240757649480e+00
+qy_in[g32,D3,smooth] 0
+qy_in[g32,D4,smooth] 0
+qy_in[g32,D5,smooth] 0
+qy_in[g33,D1,smooth] 0
+qy_in[g33,D2,smooth] 4.5771615510155321e+00
+qy_in[g33,D3,smooth] 0
+qy_in[g33,D4,smooth] 0
+qy_in[g33,D5,smooth] 0
+qy_out[g1,D1,smooth] 3.2740627237169657e+00
+qy_out[g1,D2,smooth] 0
+qy_out[g1,D3,smooth] 0
+qy_out[g1,D4,smooth] 0
+qy_out[g1,D5,smooth] 0
+qy_out[g2,D1,smooth] 1.6370345663660419e+00
+qy_out[g2,D2,smooth] 0
+qy_out[g2,D3,smooth] 0
+qy_out[g2,D4,smooth] 0
+qy_out[g2,D5,smooth] 0
+qy_out[g3,D1,smooth] 0
+qy_out[g3,D2,smooth] 0
+qy_out[g3,D3,smooth] 6.5481940414991113e+00
+qy_out[g3,D4,smooth] 0
+qy_out[g3,D5,smooth] 0
+qy_out[g4,D1,smooth] 2.2918558235154913e+00
+qy_out[g4,D2,smooth] 0
+qy_out[g4,D3,smooth] 0
+qy_out[g4,D4,smooth] 0
+qy_out[g4,D5,smooth] 0
+qy_out[g5,D1,smooth] 1.9644410016243032e+00
+qy_out[g5,D2,smooth] 0
+qy_out[g5,D3,smooth] 0
+qy_out[g5,D4,smooth] 0
+qy_out[g5,D5,smooth] 0
+qy_out[g6,D1,smooth] 0
+qy_out[g6,D2,smooth] 0
+qy_out[g6,D3,smooth] 0
+qy_out[g6,D4,smooth] 0
+qy_out[g6,D5,smooth] 3.2740947930676292e+00
+qy_out[g7,D1,smooth] 0
+qy_out[g7,D2,smooth] 0
+qy_out[g7,D3,smooth] 0
+qy_out[g7,D4,smooth] 0
+qy_out[g7,D5,smooth] 5.2385420796627464e+00
+qy_out[g8,D1,smooth] 0
+qy_out[g8,D2,smooth] 1.4667945339900634e+00
+qy_out[g8,D3,smooth] 0
+qy_out[g8,D4,smooth] 0
+qy_out[g8,D5,smooth] 5.08140006666689
+qy_out[g9,D1,smooth] 0
+qy_out[g9,D2,smooth] 0
+qy_out[g9,D3,smooth] 0
+qy_out[g9,D4,smooth] 0
+qy_out[g9,D5,smooth] 6.5481936953682052e-01
+qy_out[g10,D1,smooth] 0
+qy_out[g10,D2,smooth] 3.2740922865454580e+00
+qy_out[g10,D3,smooth] 0
+qy_out[g10,D4,smooth] 0
+qy_out[g10,D5,smooth] 0
+qy_out[g11,D1,smooth] 0
+qy_out[g11,D2,smooth] 0
+qy_out[g11,D3,smooth] 0
+qy_out[g11,D4,smooth] 6.5481821601321570e+00
+qy_out[g11,D5,smooth] 0
+qy_out[g12,D1,smooth] 1.9644328037009884e+00
+qy_out[g12,D2,smooth] 0
+qy_out[g12,D3,smooth] 0
+qy_out[g12,D4,smooth] 0
+qy_out[g12,D5,smooth] 0
+qy_out[g13,D1,smooth] 2.6192121496141150e+00
+qy_out[g13,D2,smooth] 0
+qy_out[g13,D3,smooth] 0
+qy_out[g13,D4,smooth] 0
+qy_out[g13,D5,smooth] 0
+qy_out[g14,D1,smooth] 4.5836964570470435e+00
+qy_out[g14,D2,smooth] 0
+qy_out[g14,D3,smooth] 0
+qy_out[g14,D4,smooth] 0
+qy_out[g14,D5,smooth] 0
+qy_out[g15,D1,smooth] 0
+qy_out[g15,D2,smooth] 3.9287261661440471e+00
+qy_out[g15,D3,smooth] 0
+qy_out[g15,D4,smooth] 0
+qy_out[g15,D5,smooth] 0
+qy_out[g16,D1,smooth] 2.6192566080388575e+00
+qy_out[g16,D2,smooth] 0
+qy_out[g16,D3,smooth] 0
+qy_out[g16,D4,smooth] 0
+qy_out[g16,D5,smooth] 0
+qy_out[g17,D1,smooth] 0
+qy_out[g17,D2,smooth] 5.2385513813981595e+00
+qy_out[g17,D3,smooth] 0
+qy_out[g17,D4,smooth] 0
+qy_out[g17,D5,smooth] 0
+qy_out[g18,D1,smooth] 0
+qy_out[g18,D2,smooth] 0
+qy_out[g18,D3,smooth] 3.9289125982604034e+00
+qy_out[g18,D4,smooth] 0
+qy_out[g18,D5,smooth] 0
+qy_out[g19,D1,smooth] 0
+qy_out[g19,D2,smooth] 3.2740869547953455e+00
+qy_out[g19,D3,smooth] 0
+qy_out[g19,D4,smooth] 0
+qy_out[g19,D5,smooth] 0
+qy_out[g20,D1,smooth] 2.6192132572552267e+00
+qy_out[g20,D2,smooth] 0
+qy_out[g20,D3,smooth] 0
+qy_out[g20,D4,smooth] 0
+qy_out[g20,D5,smooth] 0
+qy_out[g21,D1,smooth] 0
+qy_out[g21,D2,smooth] 0
+qy_out[g21,D3,smooth] 3.9288894896419233e+00
+qy_out[g21,D4,smooth] 0
+qy_out[g21,D5,smooth] 0
+qy_out[g22,D1,smooth] 0
+qy_out[g22,D2,smooth] 0
+qy_out[g22,D3,smooth] 1.9644561936313736e+00
+qy_out[g22,D4,smooth] 0
+qy_out[g22,D5,smooth] 0
+qy_out[g23,D1,smooth] 5.2384757416756269e+00
+qy_out[g23,D2,smooth] 0
+qy_out[g23,D3,smooth] 0
+qy_out[g23,D4,smooth] 0
+qy_out[g23,D5,smooth] 0
+qy_out[g24,D1,smooth] 1.2834342359394559e+00
+qy_out[g24,D2,smooth] 0
+qy_out[g24,D3,smooth] 1.3358317104870676e+00
+qy_out[g24,D4,smooth] 0
+qy_out[g24,D5,smooth] 0
+qy_out[g25,D1,smooth] 1.9644134656593277e+00
+qy_out[g25,D2,smooth] 0
+qy_out[g25,D3,smooth] 0
+qy_out[g25,D4,smooth] 0
+qy_out[g25,D5,smooth] 0
+qy_out[g26,D1,smooth] 6.5481080705982473e+00
+qy_out[g26,D2,smooth] 0
+qy_out[g26,D3,smooth] 0
+qy_out[g26,D4,smooth] 0
+qy_out[g26,D5,smooth] 0
+qy_out[g27,D1,smooth] 0
+qy_out[g27,D2,smooth] 0
+qy_out[g27,D3,smooth] 0
+qy_out[g27,D4,smooth] 0
+qy_out[g27,D5,smooth] 1.9644401260801043e+00
+qy_out[g28,D1,smooth] 0
+qy_out[g28,D2,smooth] 0
+qy_out[g28,D3,smooth] 6.5481790059044869e+00
+qy_out[g28,D4,smooth] 0
+qy_out[g28,D5,smooth] 0
+qy_out[g29,D1,smooth] 0
+qy_out[g29,D2,smooth] 0
+qy_out[g29,D3,smooth] 0
+qy_out[g29,D4,smooth] 1.9644565629537849e+00
+qy_out[g29,D5,smooth] 0
+qy_out[g30,D1,smooth] 0
+qy_out[g30,D2,smooth] 0
+qy_out[g30,D3,smooth] 0
+qy_out[g30,D4,smooth] 0
+qy_out[g30,D5,smooth] 3.2740608035026586e+00
+qy_out[g31,D1,smooth] 0
+qy_out[g31,D2,smooth] 0
+qy_out[g31,D3,smooth] 5.2385581953514118e+00
+qy_out[g31,D4,smooth] 0
+qy_out[g31,D5,smooth] 0
+qy_out[g32,D1,smooth] 0
+qy_out[g32,D2,smooth] 4.5837338169565562e+00
+qy_out[g32,D3,smooth] 0
+qy_out[g32,D4,smooth] 0
+qy_out[g32,D5,smooth] 0
+qy_out[g33,D1,smooth] 0
+qy_out[g33,D2,smooth] 4.5834487346869413e+00
+qy_out[g33,D3,smooth] 0
+qy_out[g33,D4,smooth] 0
+qy_out[g33,D5,smooth] 0
+qz_in[g1,T1,smooth] 0
+qz_in[g1,T2,smooth] 1.3088598396104885e+00
+qz_in[g1,T5,smooth] 0
+qz_in[g2,T1,smooth] 0
+qz_in[g2,T2,smooth] 6.5446989390492383e-01
+qz_in[g2,T5,smooth] 0
+qz_in[g3,T1,smooth] 2.5969430782098564e+00
+qz_in[g3,T2,smooth] 0
+qz_in[g3,T5,smooth] 0
+qz_in[g4,T1,smooth] 0
+qz_in[g4,T2,smooth] 9.1543164981313985e-01
+qz_in[g4,T5,smooth] 0
+qz_in[g5,T1,smooth] 0
+qz_in[g5,T2,smooth] 7.8534158196334858e-01
+qz_in[g5,T5,smooth] 0
+qz_in[g6,T1,smooth] 0
+qz_in[g6,T2,smooth] 0
+qz_in[g6,T5,smooth] 1.3082791650865109e+00
+qz_in[g7,T1,smooth] 0
+qz_in[g7,T2,smooth] 0
+qz_in[g7,T5,smooth] 2.0748065208625790e+00
+qz_in[g8,T1,smooth] 0
+qz_in[g8,T2,smooth] 0
+qz_in[g8,T5,smooth] 2.6183873034864189e+00
+qz_in[g9,T1,smooth] 0
+qz_in[g9,T2,smooth] 0
+qz_in[g9,T5,smooth] 2.6179526397274572e-01
+qz_in[g10,T1,smooth] 0
+qz_in[g10,T2,smooth] 0
+qz_in[g10,T5,smooth] 1.3091265024071943e+00
+qz_in[g11,T1,smooth] 0
+qz_in[g11,T2,smooth] 2.6181751630203012e+00
+qz_in[g11,T5,smooth] 0
+qz_in[g12,T1,smooth] 0
+qz_in[g12,T2,smooth] 7.8538986301070879e-01
+qz_in[g12,T5,smooth] 0
+qz_in[g13,T1,smooth] 1.04694378663773
+qz_in[g13,T2,smooth] 0
+qz_in[g13,T5,smooth] 0
+qz_in[g14,T1,smooth] 0
+qz_in[g14,T2,smooth] 1.8323722727454581e+00
+qz_in[g14,T5,smooth] 0
+qz_in[g15,T1,smooth] 0
+qz_in[g15,T2,smooth] 0
+qz_in[g15,T5,smooth] 1.5713341874845661e+00
+qz_in[g16,T1,smooth] 0
+qz_in[g16,T2,smooth] 1.0472443953347672e+00
+qz_in[g16,T5,smooth] 0
+qz_in[g17,T1,smooth] 7.8527130750036589e-01
+qz_in[g17,T2,smooth] 1.3091432719610041e+00
+qz_in[g17,T5,smooth] 0
+qz_in[g18,T1,smooth] 1.5705611008954121e+00
+qz_in[g18,T2,smooth] 0
+qz_in[g18,T5,smooth] 0
+qz_in[g19,T1,smooth] 0
+qz_in[g19,T2,smooth] 0
+qz_in[g19,T5,smooth] 1.3092778275431909e+00
+qz_in[g20,T1,smooth] 1.0471524190514876e+00
+qz_in[g20,T2,smooth] 0
+qz_in[g20,T5,smooth] 0
+qz_in[g21,T1,smooth] 0
+qz_in[g21,T2,smooth] 0
+qz_in[g21,T5,smooth] 1.5712935206506595e+00
+qz_in[g22,T1,smooth] 7.8521157565181077e-01
+qz_in[g22,T2,smooth] 0
+qz_in[g22,T5,smooth] 0
+qz_in[g23,T1,smooth] 2.0935209343829979e+00
+qz_in[g23,T2,smooth] 0
+qz_in[g23,T5,smooth] 0
+qz_in[g24,T1,smooth] 1.0476343776519565e+00
+qz_in[g24,T2,smooth] 0
+qz_in[g24,T5,smooth] 0
+qz_in[g25,T1,smooth] 7.8570860722976632e-01
+qz_in[g25,T2,smooth] 0
+qz_in[g25,T5,smooth] 0
+qz_in[g26,T1,smooth] 0
+qz_in[g26,T2,smooth] 2.6180019612585297e+00
+qz_in[g26,T5,smooth] 0
+qz_in[g27,T1,smooth] 0
+qz_in[g27,T2,smooth] 0
+qz_in[g27,T5,smooth] 7.8521076800600931e-01
+qz_in[g28,T1,smooth] 2.61877127503335
+qz_in[g28,T2,smooth] 0
+qz_in[g28,T5,smooth] 0
+qz_in[g29,T1,smooth] 0
+qz_in[g29,T2,smooth] 7.8529522488050119e-01
+qz_in[g29,T5,smooth] 0
+qz_in[g30,T1,smooth] 0
+qz_in[g30,T2,smooth] 0
+qz_in[g30,T5,smooth] 1.3087297330081138e+00
+qz_in[g31,T1,smooth] 2.0953432046488705e+00
+qz_in[g31,T2,smooth] 0
+qz_in[g31,T5,smooth] 0
+qz_in[g32,T1,smooth] 1.8303395867254446e+00
+qz_in[g32,T2,smooth] 0
+qz_in[g32,T5,smooth] 0
+qz_in[g33,T1,smooth] 0
+qz_in[g33,T2,smooth] 0
+qz_in[g33,T5,smooth] 1.8332096006711234e+00
+qz_out[g1,T1,smooth] 0
+qz_out[g1,T2,smooth] 1.3096081193734952e+00
+qz_out[g1,T5,smooth] 0
+qz_out[g2,T1,smooth] 0
+qz_out[g2,T2,smooth] 6.5480585657822310e-01
+qz_out[g2,T5,smooth] 0
+qz_out[g3,T1,smooth] 2.6180764559575893e+00
+qz_out[g3,T2,smooth] 0
+qz_out[g3,T5,smooth] 0
+qz_out[g4,T1,smooth] 0
+qz_out[g4,T2,smooth] 9.1668971516387365e-01
+qz_out[g4,T5,smooth] 0
+qz_out[g5,T1,smooth] 0
+qz_out[g5,T2,smooth] 0.785766027563633
+qz_out[g5,T5,smooth] 0
+qz_out[g6,T1,smooth] 0
+qz_out[g6,T2,smooth] 0
+qz_out[g6,T5,smooth] 1.3095814122292657e+00
+qz_out[g7,T1,smooth] 0
+qz_out[g7,T2,smooth] 0
+qz_out[g7,T5,smooth] 2.0942878392627655e+00
+qz_out[g8,T1,smooth] 0
+qz_out[g8,T2,smooth] 0
+qz_out[g8,T5,smooth] 2.6192459320305614e+00
+qz_out[g9,T1,smooth] 0
+qz_out[g9,T2,smooth] 0
+qz_out[g9,T5,smooth] 2.6192266955261850e-01
+qz_out[g10,T1,smooth] 0
+qz_out[g10,T2,smooth] 0
+qz_out[g10,T5,smooth] 1.30962001462636
+qz_out[g11,T1,smooth] 0
+qz_out[g11,T2,smooth] 2.6192365906973811e+00
+qz_out[g11,T5,smooth] 0
+qz_out[g12,T1,smooth] 0
+qz_out[g12,T2,smooth] 7.8576819049492408e-01
+qz_out[g12,T5,smooth] 0
+qz_out[g13,T1,smooth] 1.0476799558144190e+00
+qz_out[g13,T2,smooth] 0
+qz_out[g13,T5,smooth] 0
+qz_out[g14,T1,smooth] 0
+qz_out[g14,T2,smooth] 1.8334499454592033e+00
+qz_out[g14,T5,smooth] 0
+qz_out[g15,T1,smooth] 0
+qz_out[g15,T2,smooth] 0
+qz_out[g15,T5,smooth] 1.5715605946968934e+00
+qz_out[g16,T1,smooth] 0
+qz_out[g16,T2,smooth] 1.0476934986997584e+00
+qz_out[g16,T5,smooth] 0
+qz_out[g17,T1,smooth] 7.8576285519602607e-01
+qz_out[g17,T2,smooth] 1.3096207534825375e+00
+qz_out[g17,T5,smooth] 0
+qz_out[g18,T1,smooth] 1.5715265480488794e+00
+qz_out[g18,T2,smooth] 0
+qz_out[g18,T5,smooth] 0
+qz_out[g19,T1,smooth] 0
+qz_out[g19,T2,smooth] 0
+qz_out[g19,T5,smooth] 1.3096266374942223e+00
+qz_out[g20,T1,smooth] 1.0476893969089398e+00
+qz_out[g20,T2,smooth] 0
+qz_out[g20,T5,smooth] 0
+qz_out[g21,T1,smooth] 0
+qz_out[g21,T2,smooth] 0
+qz_out[g21,T5,smooth] 1.5715588623371828e+00
+qz_out[g22,T1,smooth] 7.8576013745596707e-01
+qz_out[g22,T2,smooth] 0
+qz_out[g22,T5,smooth] 0
+qz_out[g23,T1,smooth] 2.0953430385503689e+00
+qz_out[g23,T2,smooth] 0
+qz_out[g23,T5,smooth] 0
+qz_out[g24,T1,smooth] 1.0477103609600806e+00
+qz_out[g24,T2,smooth] 0
+qz_out[g24,T5,smooth] 0
+qz_out[g25,T1,smooth] 7.8578205141528490e-01
+qz_out[g25,T2,smooth] 0
+qz_out[g25,T5,smooth] 0
+qz_out[g26,T1,smooth] 0
+qz_out[g26,T2,smooth] 2.6192288968622495e+00
+qz_out[g26,T5,smooth] 0
+qz_out[g27,T1,smooth] 0
+qz_out[g27,T2,smooth] 0
+qz_out[g27,T5,smooth] 7.8576010057974666e-01
+qz_out[g28,T1,smooth] 2.6192625777367970e+00
+qz_out[g28,T2,smooth] 0
+qz_out[g28,T5,smooth] 0
+qz_out[g29,T1,smooth] 0
+qz_out[g29,T2,smooth] 7.8576393800340549e-01
+qz_out[g29,T5,smooth] 0
+qz_out[g30,T1,smooth] 0
+qz_out[g30,T2,smooth] 0
+qz_out[g30,T5,smooth] 1.3096022246458414e+00
+qz_out[g31,T1,smooth] 2.0954238134767182e+00
+qz_out[g31,T2,smooth] 0
+qz_out[g31,T5,smooth] 0
+qz_out[g32,T1,smooth] 1.8333540108937707e+00
+qz_out[g32,T2,smooth] 0
+qz_out[g32,T5,smooth] 0
+qz_out[g33,T1,smooth] 0
+qz_out[g33,T2,smooth] 0
+qz_out[g33,T5,smooth] 1.8334867813979057e+00
+qn_in[T1,R1,smooth] 5.4952508904677195e+00
+qn_in[T1,R2,smooth] 0
+qn_in[T1,R3,smooth] 0
+qn_in[T1,R4,smooth] 0
+qn_in[T1,R5,smooth] 0
+qn_in[T1,R6,smooth] 0
+qn_in[T1,R7,smooth] 0
+qn_in[T2,R1,smooth] 0
+qn_in[T2,R2,smooth] 0
+qn_in[T2,R3,smooth] 0
+qn_in[T2,R4,smooth] 0
+qn_in[T2,R5,smooth] 0
+qn_in[T2,R6,smooth] 0
+qn_in[T2,R7,smooth] 4.3995697537178380e+00
+qn_in[T5,R1,smooth] 0
+qn_in[T5,R2,smooth] 0
+qn_in[T5,R3,smooth] 0
+qn_in[T5,R4,smooth] 0
+qn_in[T5,R5,smooth] 0
+qn_in[T5,R6,smooth] 4.7619134234857725e+00
+qn_in[T5,R7,smooth] 0
+qn_out[T1,R1,smooth] 5.5002642590482145e+00
+qn_out[T1,R2,smooth] 0
+qn_out[T1,R3,smooth] 0
+qn_out[T1,R4,smooth] 0
+qn_out[T1,R5,smooth] 0
+qn_out[T1,R6,smooth] 0
+qn_out[T1,R7,smooth] 0
+qn_out[T2,R1,smooth] 0
+qn_out[T2,R2,smooth] 0
+qn_out[T2,R3,smooth] 0
+qn_out[T2,R4,smooth] 0
+qn_out[T2,R5,smooth] 0
+qn_out[T2,R6,smooth] 0
+qn_out[T2,R7,smooth] 4.4003625871260574e+00
+qn_out[T5,R1,smooth] 0
+qn_out[T5,R2,smooth] 0
+qn_out[T5,R3,smooth] 0
+qn_out[T5,R4,smooth] 0
+qn_out[T5,R5,smooth] 0
+qn_out[T5,R6,smooth] 4.7916552419320677e+00
+qn_out[T5,R7,smooth] 0
+qm_in[T1,D1,smooth] 1.2831746583650743e+01
+qm_in[T1,D2,smooth] 0
+qm_in[T1,D3,smooth] 0
+qm_in[T1,D4,smooth] 0
+qm_in[T1,D5,smooth] 0
+qm_in[T2,D1,smooth] 1.0266458475217998e+01
+qm_in[T2,D2,smooth] 0
+qm_in[T2,D3,smooth] 0
+qm_in[T2,D4,smooth] 0
+qm_in[T2,D5,smooth] 0
+qm_in[T5,D1,smooth] 0
+qm_in[T5,D2,smooth] 0
+qm_in[T5,D3,smooth] 0
+qm_in[T5,D4,smooth] 0
+qm_in[T5,D5,smooth] 1.1182813837406803e+01
+qm_out[T1,D1,smooth] 1.2834376644859882e+01
+qm_out[T1,D2,smooth] 0
+qm_out[T1,D3,smooth] 0
+qm_out[T1,D4,smooth] 0
+qm_out[T1,D5,smooth] 0
+qm_out[T2,D1,smooth] 1.0267546502246887e+01
+qm_out[T2,D2,smooth] 0
+qm_out[T2,D3,smooth] 0
+qm_out[T2,D4,smooth] 0
+qm_out[T2,D5,smooth] 0
+qm_out[T5,D1,smooth] 0
+qm_out[T5,D2,smooth] 0
+qm_out[T5,D3,smooth] 0
+qm_out[T5,D4,smooth] 0
+qm_out[T5,D5,smooth] 1.1184279357382763e+01
+ql_in[R1,D1,smooth] 4.3988814985679614e+00
+ql_in[R1,D2,smooth] 0
+ql_in[R1,D3,smooth] 0
+ql_in[R1,D4,smooth] 0
+ql_in[R1,D5,smooth] 0
+ql_in[R2,D1,smooth] 0
+ql_in[R2,D2,smooth] 0
+ql_in[R2,D3,smooth] 1.1627440587926543e+01
+ql_in[R2,D4,smooth] 0
+ql_in[R2,D5,smooth] 0
+ql_in[R3,D1,smooth] 0
+ql_in[R3,D2,smooth] 0
+ql_in[R3,D3,smooth] 4.7144233171264691e+00
+ql_in[R3,D4,smooth] 0
+ql_in[R3,D5,smooth] 0
+ql_in[R4,D1,smooth] 0
+ql_in[R4,D2,smooth] 7.2285701169908023e+00
+ql_in[R4,D3,smooth] 0
+ql_in[R4,D4,smooth] 0
+ql_in[R4,D5,smooth] 0
+ql_in[R5,D1,smooth] 0
+ql_in[R5,D2,smooth] 1.2249213393953184e+01
+ql_in[R5,D3,smooth] 0
+ql_in[R5,D4,smooth] 0
+ql_in[R5,D5,smooth] 0
+ql_in[R6,D1,smooth] 0
+ql_in[R6,D2,smooth] 0
+ql_in[R6,D3,smooth] 0
+ql_in[R6,D4,smooth] 0
+ql_in[R6,D5,smooth] 1.9547345754213268e+01
+ql_in[R7,D1,smooth] 1.0731251592417657e+01
+ql_in[R7,D2,smooth] 0
+ql_in[R7,D3,smooth] 0
+ql_in[R7,D4,smooth] 0
+ql_in[R7,D5,smooth] 0
+ql_out[R1,D1,smooth] 4.4003327639806695e+00
+ql_out[R1,D2,smooth] 0
+ql_out[R1,D3,smooth] 0
+ql_out[R1,D4,smooth] 0
+ql_out[R1,D5,smooth] 0
+ql_out[R2,D1,smooth] 0
+ql_out[R2,D2,smooth] 0
+ql_out[R2,D3,smooth] 1.1629529961525067e+01
+ql_out[R2,D4,smooth] 0
+ql_out[R2,D5,smooth] 0
+ql_out[R3,D1,smooth] 0
+ql_out[R3,D2,smooth] 0
+ql_out[R3,D3,smooth] 4.7146994833528009e+00
+ql_out[R3,D4,smooth] 0
+ql_out[R3,D5,smooth] 0
+ql_out[R4,D1,smooth] 0
+ql_out[R4,D2,smooth] 7.2291970100568630e+00
+ql_out[R4,D3,smooth] 0
+ql_out[R4,D4,smooth] 0
+ql_out[R4,D5,smooth] 0
+ql_out[R5,D1,smooth] 0
+ql_out[R5,D2,smooth] 1.2257854162404335e+01
+ql_out[R5,D3,smooth] 0
+ql_out[R5,D4,smooth] 0
+ql_out[R5,D5,smooth] 0
+ql_out[R6,D1,smooth] 0
+ql_out[R6,D2,smooth] 0
+ql_out[R6,D3,smooth] 0
+ql_out[R6,D4,smooth] 0
+ql_out[R6,D5,smooth] 1.9550211607508750e+01
+ql_out[R7,D1,smooth] 1.0748704010792681e+01
+ql_out[R7,D2,smooth] 0
+ql_out[R7,D3,smooth] 0
+ql_out[R7,D4,smooth] 0
+ql_out[R7,D5,smooth] 0
+qr[R1,smooth] 3.3520130278365841e+00
+qr[R2,smooth] 8.8588915735681173e+00
+qr[R3,smooth] 3.5914425298249113e+00
+qr[R4,smooth] 5.5068785457315306e+00
+qr[R5,smooth] 9.33775057754477
+qr[R6,smooth] 1.4892515023673969e+01
+qr[R7,smooth] 8.1884889680007991e+00
+qt[T1,smooth] 1.1173376759455280e+01
+qt[T2,smooth] 8.9387014075642242e+00
+qt[T5,smooth] 9.7367997475253159e+00
+qd[D1,smooth] 4.6838795375636536e+01
+qd[D2,smooth] 27.9334418986382
+qd[D3,smooth] 27.9334418986382
+qd[D4,smooth] 5.1876392097470942e+00
+qd[D5,smooth] 3.0605475140827934e+01
+Qx_in[g1,R1,smooth] 0
+Qx_in[g1,R2,smooth] 0
+Qx_in[g1,R3,smooth] 0
+Qx_in[g1,R4,smooth] 0
+Qx_in[g1,R5,smooth] 0
+Qx_in[g1,R6,smooth] 0
+Qx_in[g1,R7,smooth] 0
+Qx_in[g2,R1,smooth] 0
+Qx_in[g2,R2,smooth] 0
+Qx_in[g2,R3,smooth] 0
+Qx_in[g2,R4,smooth] 0
+Qx_in[g2,R5,smooth] 0
+Qx_in[g2,R6,smooth] 0
+Qx_in[g2,R7,smooth] 0
+Qx_in[g3,R1,smooth] 0
+Qx_in[g3,R2,smooth] 0
+Qx_in[g3,R3,smooth] 0
+Qx_in[g3,R4,smooth] 0
+Qx_in[g3,R5,smooth] 0
+Qx_in[g3,R6,smooth] 0
+Qx_in[g3,R7,smooth] 0
+Qx_in[g4,R1,smooth] 0
+Qx_in[g4,R2,smooth] 0
+Qx_in[g4,R3,smooth] 0
+Qx_in[g4,R4,smooth] 0
+Qx_in[g4,R5,smooth] 0
+Qx_in[g4,R6,smooth] 0
+Qx_in[g4,R7,smooth] 0
+Qx_in[g5,R1,smooth] 0
+Qx_in[g5,R2,smooth] 0
+Qx_in[g5,R3,smooth] 0
+Qx_in[g5,R4,smooth] 0
+Qx_in[g5,R5,smooth] 0
+Qx_in[g5,R6,smooth] 0
+Qx_in[g5,R7,smooth] 0
+Qx_in[g6,R1,smooth] 0
+Qx_in[g6,R2,smooth] 0
+Qx_in[g6,R3,smooth] 0
+Qx_in[g6,R4,smooth] 0
+Qx_in[g6,R5,smooth] 0
+Qx_in[g6,R6,smooth] 0
+Qx_in[g6,R7,smooth] 0
+Qx_in[g7,R1,smooth] 0
+Qx_in[g7,R2,smooth] 0
+Qx_in[g7,R3,smooth] 0
+Qx_in[g7,R4,smooth] 0
+Qx_in[g7,R5,smooth] 0
+Qx_in[g7,R6,smooth] 0
+Qx_in[g7,R7,smooth] 0
+Qx_in[g8,R1,smooth] 0
+Qx_in[g8,R2,smooth] 0
+Qx_in[g8,R3,smooth] 0
+Qx_in[g8,R4,smooth] 0
+Qx_in[g8,R5,smooth] 0
+Qx_in[g8,R6,smooth] 0
+Qx_in[g8,R7,smooth] 0
+Qx_in[g9,R1,smooth] 0
+Qx_in[g9,R2,smooth] 0
+Qx_in[g9,R3,smooth] 0
+Qx_in[g9,R4,smooth] 0
+Qx_in[g9,R5,smooth] 0
+Qx_in[g9,R6,smooth] 0
+Qx_in[g9,R7,smooth] 0
+Qx_in[g10,R1,smooth] 0
+Qx_in[g10,R2,smooth] 0
+Qx_in[g10,R3,smooth] 0
+Qx_in[g10,R4,smooth] 0
+Qx_in[g10,R5,smooth] 0
+Qx_in[g10,R6,smooth] 0
+Qx_in[g10,R7,smooth] 0
+Qx_in[g11,R1,smooth] 0
+Qx_in[g11,R2,smooth] 0
+Qx_in[g11,R3,smooth] 0
+Qx_in[g11,R4,smooth] 0
+Qx_in[g11,R5,smooth] 0
+Qx_in[g11,R6,smooth] 0
+Qx_in[g11,R7,smooth] 0
+Qx_in[g12,R1,smooth] 0
+Qx_in[g12,R2,smooth] 0
+Qx_in[g12,R3,smooth] 0
+Qx_in[g12,R4,smooth] 0
+Qx_in[g12,R5,smooth] 0
+Qx_in[g12,R6,smooth] 0
+Qx_in[g12,R7,smooth] 0
+Qx_in[g13,R1,smooth] 0
+Qx_in[g13,R2,smooth] 0
+Qx_in[g13,R3,smooth] 0
+Qx_in[g13,R4,smooth] 0
+Qx_in[g13,R5,smooth] 0
+Qx_in[g13,R6,smooth] 0
+Qx_in[g13,R7,smooth] 0
+Qx_in[g14,R1,smooth] 0
+Qx_in[g14,R2,smooth] 0
+Qx_in[g14,R3,smooth] 0
+Qx_in[g14,R4,smooth] 0
+Qx_in[g14,R5,smooth] 0
+Qx_in[g14,R6,smooth] 0
+Qx_in[g14,R7,smooth] 0
+Qx_in[g15,R1,smooth] 0
+Qx_in[g15,R2,smooth] 0
+Qx_in[g15,R3,smooth] 0
+Qx_in[g15,R4,smooth] 0
+Qx_in[g15,R5,smooth] 0
+Qx_in[g15,R6,smooth] 0
+Qx_in[g15,R7,smooth] 0
+Qx_in[g16,R1,smooth] 0
+Qx_in[g16,R2,smooth] 0
+Qx_in[g16,R3,smooth] 0
+Qx_in[g16,R4,smooth] 0
+Qx_in[g16,R5,smooth] 0
+Qx_in[g16,R6,smooth] 0
+Qx_in[g16,R7,smooth] 0
+Qx_in[g17,R1,smooth] 0
+Qx_in[g17,R2,smooth] 0
+Qx_in[g17,R3,smooth] 0
+Qx_in[g17,R4,smooth] 0
+Qx_in[g17,R5,smooth] 0
+Qx_in[g17,R6,smooth] 0
+Qx_in[g17,R7,smooth] 0
+Qx_in[g18,R1,smooth] 0
+Qx_in[g18,R2,smooth] 0
+Qx_in[g18,R3,smooth] 0
+Qx_in[g18,R4,smooth] 0
+Qx_in[g18,R5,smooth] 0
+Qx_in[g18,R6,smooth] 0
+Qx_in[g18,R7,smooth] 0
+Qx_in[g19,R1,smooth] 0
+Qx_in[g19,R2,smooth] 0
+Qx_in[g19,R3,smooth] 0
+Qx_in[g19,R4,smooth] 0
+Qx_in[g19,R5,smooth] 0
+Qx_in[g19,R6,smooth] 0
+Qx_in[g19,R7,smooth] 0
+Qx_in[g20,R1,smooth] 0
+Qx_in[g20,R2,smooth] 0
+Qx_in[g20,R3,smooth] 0
+Qx_in[g20,R4,smooth] 0
+Qx_in[g20,R5,smooth] 0
+Qx_in[g20,R6,smooth] 0
+Qx_in[g20,R7,smooth] 0
+Qx_in[g21,R1,smooth] 0
+Qx_in[g21,R2,smooth] 0
+Qx_in[g21,R3,smooth] 0
+Qx_in[g21,R4,smooth] 0
+Qx_in[g21,R5,smooth] 0
+Qx_in[g21,R6,smooth] 0
+Qx_in[g21,R7,smooth] 0
+Qx_in[g22,R1,smooth] 0
+Qx_in[g22,R2,smooth] 0
+Qx_in[g22,R3,smooth] 0
+Qx_in[g22,R4,smooth] 0
+Qx_in[g22,R5,smooth] 0
+Qx_in[g22,R6,smooth] 0
+Qx_in[g22,R7,smooth] 0
+Qx_in[g23,R1,smooth] 0
+Qx_in[g23,R2,smooth] 0
+Qx_in[g23,R3,smooth] 0
+Qx_in[g23,R4,smooth] 0
+Qx_in[g23,R5,smooth] 0
+Qx_in[g23,R6,smooth] 0
+Qx_in[g23,R7,smooth] 0
+Qx_in[g24,R1,smooth] 0
+Qx_in[g24,R2,smooth] 0
+Qx_in[g24,R3,smooth] 0
+Qx_in[g24,R4,smooth] 0
+Qx_in[g24,R5,smooth] 0
+Qx_in[g24,R6,smooth] 0
+Qx_in[g24,R7,smooth] 0
+Qx_in[g25,R1,smooth] 0
+Qx_in[g25,R2,smooth] 0
+Qx_in[g25,R3,smooth] 0
+Qx_in[g25,R4,smooth] 0
+Qx_in[g25,R5,smooth] 0
+Qx_in[g25,R6,smooth] 0
+Qx_in[g25,R7,smooth] 0
+Qx_in[g26,R1,smooth] 0
+Qx_in[g26,R2,smooth] 0
+Qx_in[g26,R3,smooth] 0
+Qx_in[g26,R4,smooth] 0
+Qx_in[g26,R5,smooth] 0
+Qx_in[g26,R6,smooth] 0
+Qx_in[g26,R7,smooth] 0
+Qx_in[g27,R1,smooth] 0
+Qx_in[g27,R2,smooth] 0
+Qx_in[g27,R3,smooth] 0
+Qx_in[g27,R4,smooth] 0
+Qx_in[g27,R5,smooth] 0
+Qx_in[g27,R6,smooth] 0
+Qx_in[g27,R7,smooth] 0
+Qx_in[g28,R1,smooth] 0
+Qx_in[g28,R2,smooth] 0
+Qx_in[g28,R3,smooth] 0
+Qx_in[g28,R4,smooth] 0
+Qx_in[g28,R5,smooth] 0
+Qx_in[g28,R6,smooth] 0
+Qx_in[g28,R7,smooth] 0
+Qx_in[g29,R1,smooth] 0
+Qx_in[g29,R2,smooth] 0
+Qx_in[g29,R3,smooth] 0
+Qx_in[g29,R4,smooth] 0
+Qx_in[g29,R5,smooth] 0
+Qx_in[g29,R6,smooth] 0
+Qx_in[g29,R7,smooth] 0
+Qx_in[g30,R1,smooth] 0
+Qx_in[g30,R2,smooth] 0
+Qx_in[g30,R3,smooth] 0
+Qx_in[g30,R4,smooth] 0
+Qx_in[g30,R5,smooth] 0
+Qx_in[g30,R6,smooth] 0
+Qx_in[g30,R7,smooth] 0
+Qx_in[g31,R1,smooth] 0
+Qx_in[g31,R2,smooth] 0
+Qx_in[g31,R3,smooth] 0
+Qx_in[g31,R4,smooth] 0
+Qx_in[g31,R5,smooth] 0
+Qx_in[g31,R6,smooth] 0
+Qx_in[g31,R7,smooth] 0
+Qx_in[g32,R1,smooth] 0
+Qx_in[g32,R2,smooth] 0
+Qx_in[g32,R3,smooth] 0
+Qx_in[g32,R4,smooth] 0
+Qx_in[g32,R5,smooth] 0
+Qx_in[g32,R6,smooth] 0
+Qx_in[g32,R7,smooth] 0
+Qx_in[g33,R1,smooth] 0
+Qx_in[g33,R2,smooth] 0
+Qx_in[g33,R3,smooth] 0
+Qx_in[g33,R4,smooth] 0
+Qx_in[g33,R5,smooth] 0
+Qx_in[g33,R6,smooth] 0
+Qx_in[g33,R7,smooth] 0
+Qx_out[g1,R1,smooth] 0
+Qx_out[g1,R2,smooth] 0
+Qx_out[g1,R3,smooth] 0
+Qx_out[g1,R4,smooth] 0
+Qx_out[g1,R5,smooth] 0
+Qx_out[g1,R6,smooth] 0
+Qx_out[g1,R7,smooth] 0
+Qx_out[g2,R1,smooth] 0
+Qx_out[g2,R2,smooth] 0
+Qx_out[g2,R3,smooth] 0
+Qx_out[g2,R4,smooth] 0
+Qx_out[g2,R5,smooth] 0
+Qx_out[g2,R6,smooth] 0
+Qx_out[g2,R7,smooth] 0
+Qx_out[g3,R1,smooth] 0
+Qx_out[g3,R2,smooth] 0
+Qx_out[g3,R3,smooth] 0
+Qx_out[g3,R4,smooth] 0
+Qx_out[g3,R5,smooth] 0
+Qx_out[g3,R6,smooth] 0
+Qx_out[g3,R7,smooth] 0
+Qx_out[g4,R1,smooth] 0
+Qx_out[g4,R2,smooth] 0
+Qx_out[g4,R3,smooth] 0
+Qx_out[g4,R4,smooth] 0
+Qx_out[g4,R5,smooth] 0
+Qx_out[g4,R6,smooth] 0
+Qx_out[g4,R7,smooth] 0
+Qx_out[g5,R1,smooth] 0
+Qx_out[g5,R2,smooth] 0
+Qx_out[g5,R3,smooth] 0
+Qx_out[g5,R4,smooth] 0
+Qx_out[g5,R5,smooth] 0
+Qx_out[g5,R6,smooth] 0
+Qx_out[g5,R7,smooth] 0
+Qx_out[g6,R1,smooth] 0
+Qx_out[g6,R2,smooth] 0
+Qx_out[g6,R3,smooth] 0
+Qx_out[g6,R4,smooth] 0
+Qx_out[g6,R5,smooth] 0
+Qx_out[g6,R6,smooth] 0
+Qx_out[g6,R7,smooth] 0
+Qx_out[g7,R1,smooth] 0
+Qx_out[g7,R2,smooth] 0
+Qx_out[g7,R3,smooth] 0
+Qx_out[g7,R4,smooth] 0
+Qx_out[g7,R5,smooth] 0
+Qx_out[g7,R6,smooth] 0
+Qx_out[g7,R7,smooth] 0
+Qx_out[g8,R1,smooth] 0
+Qx_out[g8,R2,smooth] 0
+Qx_out[g8,R3,smooth] 0
+Qx_out[g8,R4,smooth] 0
+Qx_out[g8,R5,smooth] 0
+Qx_out[g8,R6,smooth] 0
+Qx_out[g8,R7,smooth] 0
+Qx_out[g9,R1,smooth] 0
+Qx_out[g9,R2,smooth] 0
+Qx_out[g9,R3,smooth] 0
+Qx_out[g9,R4,smooth] 0
+Qx_out[g9,R5,smooth] 0
+Qx_out[g9,R6,smooth] 0
+Qx_out[g9,R7,smooth] 0
+Qx_out[g10,R1,smooth] 0
+Qx_out[g10,R2,smooth] 0
+Qx_out[g10,R3,smooth] 0
+Qx_out[g10,R4,smooth] 0
+Qx_out[g10,R5,smooth] 0
+Qx_out[g10,R6,smooth] 0
+Qx_out[g10,R7,smooth] 0
+Qx_out[g11,R1,smooth] 0
+Qx_out[g11,R2,smooth] 0
+Qx_out[g11,R3,smooth] 0
+Qx_out[g11,R4,smooth] 0
+Qx_out[g11,R5,smooth] 0
+Qx_out[g11,R6,smooth] 0
+Qx_out[g11,R7,smooth] 0
+Qx_out[g12,R1,smooth] 0
+Qx_out[g12,R2,smooth] 0
+Qx_out[g12,R3,smooth] 0
+Qx_out[g12,R4,smooth] 0
+Qx_out[g12,R5,smooth] 0
+Qx_out[g12,R6,smooth] 0
+Qx_out[g12,R7,smooth] 0
+Qx_out[g13,R1,smooth] 0
+Qx_out[g13,R2,smooth] 0
+Qx_out[g13,R3,smooth] 0
+Qx_out[g13,R4,smooth] 0
+Qx_out[g13,R5,smooth] 0
+Qx_out[g13,R6,smooth] 0
+Qx_out[g13,R7,smooth] 0
+Qx_out[g14,R1,smooth] 0
+Qx_out[g14,R2,smooth] 0
+Qx_out[g14,R3,smooth] 0
+Qx_out[g14,R4,smooth] 0
+Qx_out[g14,R5,smooth] 0
+Qx_out[g14,R6,smooth] 0
+Qx_out[g14,R7,smooth] 0
+Qx_out[g15,R1,smooth] 0
+Qx_out[g15,R2,smooth] 0
+Qx_out[g15,R3,smooth] 0
+Qx_out[g15,R4,smooth] 0
+Qx_out[g15,R5,smooth] 0
+Qx_out[g15,R6,smooth] 0
+Qx_out[g15,R7,smooth] 0
+Qx_out[g16,R1,smooth] 0
+Qx_out[g16,R2,smooth] 0
+Qx_out[g16,R3,smooth] 0
+Qx_out[g16,R4,smooth] 0
+Qx_out[g16,R5,smooth] 0
+Qx_out[g16,R6,smooth] 0
+Qx_out[g16,R7,smooth] 0
+Qx_out[g17,R1,smooth] 0
+Qx_out[g17,R2,smooth] 0
+Qx_out[g17,R3,smooth] 0
+Qx_out[g17,R4,smooth] 0
+Qx_out[g17,R5,smooth] 0
+Qx_out[g17,R6,smooth] 0
+Qx_out[g17,R7,smooth] 0
+Qx_out[g18,R1,smooth] 0
+Qx_out[g18,R2,smooth] 0
+Qx_out[g18,R3,smooth] 0
+Qx_out[g18,R4,smooth] 0
+Qx_out[g18,R5,smooth] 0
+Qx_out[g18,R6,smooth] 0
+Qx_out[g18,R7,smooth] 0
+Qx_out[g19,R1,smooth] 0
+Qx_out[g19,R2,smooth] 0
+Qx_out[g19,R3,smooth] 0
+Qx_out[g19,R4,smooth] 0
+Qx_out[g19,R5,smooth] 0
+Qx_out[g19,R6,smooth] 0
+Qx_out[g19,R7,smooth] 0
+Qx_out[g20,R1,smooth] 0
+Qx_out[g20,R2,smooth] 0
+Qx_out[g20,R3,smooth] 0
+Qx_out[g20,R4,smooth] 0
+Qx_out[g20,R5,smooth] 0
+Qx_out[g20,R6,smooth] 0
+Qx_out[g20,R7,smooth] 0
+Qx_out[g21,R1,smooth] 0
+Qx_out[g21,R2,smooth] 0
+Qx_out[g21,R3,smooth] 0
+Qx_out[g21,R4,smooth] 0
+Qx_out[g21,R5,smooth] 0
+Qx_out[g21,R6,smooth] 0
+Qx_out[g21,R7,smooth] 0
+Qx_out[g22,R1,smooth] 0
+Qx_out[g22,R2,smooth] 0
+Qx_out[g22,R3,smooth] 0
+Qx_out[g22,R4,smooth] 0
+Qx_out[g22,R5,smooth] 0
+Qx_out[g22,R6,smooth] 0
+Qx_out[g22,R7,smooth] 0
+Qx_out[g23,R1,smooth] 0
+Qx_out[g23,R2,smooth] 0
+Qx_out[g23,R3,smooth] 0
+Qx_out[g23,R4,smooth] 0
+Qx_out[g23,R5,smooth] 0
+Qx_out[g23,R6,smooth] 0
+Qx_out[g23,R7,smooth] 0
+Qx_out[g24,R1,smooth] 0
+Qx_out[g24,R2,smooth] 0
+Qx_out[g24,R3,smooth] 0
+Qx_out[g24,R4,smooth] 0
+Qx_out[g24,R5,smooth] 0
+Qx_out[g24,R6,smooth] 0
+Qx_out[g24,R7,smooth] 0
+Qx_out[g25,R1,smooth] 0
+Qx_out[g25,R2,smooth] 0
+Qx_out[g25,R3,smooth] 0
+Qx_out[g25,R4,smooth] 0
+Qx_out[g25,R5,smooth] 0
+Qx_out[g25,R6,smooth] 0
+Qx_out[g25,R7,smooth] 0
+Qx_out[g26,R1,smooth] 0
+Qx_out[g26,R2,smooth] 0
+Qx_out[g26,R3,smooth] 0
+Qx_out[g26,R4,smooth] 0
+Qx_out[g26,R5,smooth] 0
+Qx_out[g26,R6,smooth] 0
+Qx_out[g26,R7,smooth] 0
+Qx_out[g27,R1,smooth] 0
+Qx_out[g27,R2,smooth] 0
+Qx_out[g27,R3,smooth] 0
+Qx_out[g27,R4,smooth] 0
+Qx_out[g27,R5,smooth] 0
+Qx_out[g27,R6,smooth] 0
+Qx_out[g27,R7,smooth] 0
+Qx_out[g28,R1,smooth] 0
+Qx_out[g28,R2,smooth] 0
+Qx_out[g28,R3,smooth] 0
+Qx_out[g28,R4,smooth] 0
+Qx_out[g28,R5,smooth] 0
+Qx_out[g28,R6,smooth] 0
+Qx_out[g28,R7,smooth] 0
+Qx_out[g29,R1,smooth] 0
+Qx_out[g29,R2,smooth] 0
+Qx_out[g29,R3,smooth] 0
+Qx_out[g29,R4,smooth] 0
+Qx_out[g29,R5,smooth] 0
+Qx_out[g29,R6,smooth] 0
+Qx_out[g29,R7,smooth] 0
+Qx_out[g30,R1,smooth] 0
+Qx_out[g30,R2,smooth] 0
+Qx_out[g30,R3,smooth] 0
+Qx_out[g30,R4,smooth] 0
+Qx_out[g30,R5,smooth] 0
+Qx_out[g30,R6,smooth] 0
+Qx_out[g30,R7,smooth] 0
+Qx_out[g31,R1,smooth] 0
+Qx_out[g31,R2,smooth] 0
+Qx_out[g31,R3,smooth] 0
+Qx_out[g31,R4,smooth] 0
+Qx_out[g31,R5,smooth] 0
+Qx_out[g31,R6,smooth] 0
+Qx_out[g31,R7,smooth] 0
+Qx_out[g32,R1,smooth] 0
+Qx_out[g32,R2,smooth] 0
+Qx_out[g32,R3,smooth] 0
+Qx_out[g32,R4,smooth] 0
+Qx_out[g32,R5,smooth] 0
+Qx_out[g32,R6,smooth] 0
+Qx_out[g32,R7,smooth] 0
+Qx_out[g33,R1,smooth] 0
+Qx_out[g33,R2,smooth] 0
+Qx_out[g33,R3,smooth] 0
+Qx_out[g33,R4,smooth] 0
+Qx_out[g33,R5,smooth] 0
+Qx_out[g33,R6,smooth] 0
+Qx_out[g33,R7,smooth] 0
+Qy_in[g1,D1,smooth] 0
+Qy_in[g1,D2,smooth] 0
+Qy_in[g1,D3,smooth] 0
+Qy_in[g1,D4,smooth] 0
+Qy_in[g1,D5,smooth] 0
+Qy_in[g2,D1,smooth] 0
+Qy_in[g2,D2,smooth] 0
+Qy_in[g2,D3,smooth] 0
+Qy_in[g2,D4,smooth] 0
+Qy_in[g2,D5,smooth] 0
+Qy_in[g3,D1,smooth] 0
+Qy_in[g3,D2,smooth] 0
+Qy_in[g3,D3,smooth] 0
+Qy_in[g3,D4,smooth] 0
+Qy_in[g3,D5,smooth] 0
+Qy_in[g4,D1,smooth] 0
+Qy_in[g4,D2,smooth] 0
+Qy_in[g4,D3,smooth] 0
+Qy_in[g4,D4,smooth] 0
+Qy_in[g4,D5,smooth] 0
+Qy_in[g5,D1,smooth] 0
+Qy_in[g5,D2,smooth] 0
+Qy_in[g5,D3,smooth] 0
+Qy_in[g5,D4,smooth] 0
+Qy_in[g5,D5,smooth] 0
+Qy_in[g6,D1,smooth] 0
+Qy_in[g6,D2,smooth] 0
+Qy_in[g6,D3,smooth] 0
+Qy_in[g6,D4,smooth] 0
+Qy_in[g6,D5,smooth] 0
+Qy_in[g7,D1,smooth] 0
+Qy_in[g7,D2,smooth] 0
+Qy_in[g7,D3,smooth] 0
+Qy_in[g7,D4,smooth] 0
+Qy_in[g7,D5,smooth] 0
+Qy_in[g8,D1,smooth] 0
+Qy_in[g8,D2,smooth] 0
+Qy_in[g8,D3,smooth] 0
+Qy_in[g8,D4,smooth] 0
+Qy_in[g8,D5,smooth] 0
+Qy_in[g9,D1,smooth] 0
+Qy_in[g9,D2,smooth] 0
+Qy_in[g9,D3,smooth] 0
+Qy_in[g9,D4,smooth] 0
+Qy_in[g9,D5,smooth] 0
+Qy_in[g10,D1,smooth] 0
+Qy_in[g10,D2,smooth] 0
+Qy_in[g10,D3,smooth] 0
+Qy_in[g10,D4,smooth] 0
+Qy_in[g10,D5,smooth] 0
+Qy_in[g11,D1,smooth] 0
+Qy_in[g11,D2,smooth] 0
+Qy_in[g11,D3,smooth] 0
+Qy_in[g11,D4,smooth] 0
+Qy_in[g11,D5,smooth] 0
+Qy_in[g12,D1,smooth] 0
+Qy_in[g12,D2,smooth] 0
+Qy_in[g12,D3,smooth] 0
+Qy_in[g12,D4,smooth] 0
+Qy_in[g12,D5,smooth] 0
+Qy_in[g13,D1,smooth] 0
+Qy_in[g13,D2,smooth] 0
+Qy_in[g13,D3,smooth] 0
+Qy_in[g13,D4,smooth] 0
+Qy_in[g13,D5,smooth] 0
+Qy_in[g14,D1,smooth] 0
+Qy_in[g14,D2,smooth] 0
+Qy_in[g14,D3,smooth] 0
+Qy_in[g14,D4,smooth] 0
+Qy_in[g14,D5,smooth] 0
+Qy_in[g15,D1,smooth] 0
+Qy_in[g15,D2,smooth] 0
+Qy_in[g15,D3,smooth] 0
+Qy_in[g15,D4,smooth] 0
+Qy_in[g15,D5,smooth] 0
+Qy_in[g16,D1,smooth] 0
+Qy_in[g16,D2,smooth] 0
+Qy_in[g16,D3,smooth] 0
+Qy_in[g16,D4,smooth] 0
+Qy_in[g16,D5,smooth] 0
+Qy_in[g17,D1,smooth] 0
+Qy_in[g17,D2,smooth] 0
+Qy_in[g17,D3,smooth] 0
+Qy_in[g17,D4,smooth] 0
+Qy_in[g17,D5,smooth] 0
+Qy_in[g18,D1,smooth] 0
+Qy_in[g18,D2,smooth] 0
+Qy_in[g18,D3,smooth] 0
+Qy_in[g18,D4,smooth] 0
+Qy_in[g18,D5,smooth] 0
+Qy_in[g19,D1,smooth] 0
+Qy_in[g19,D2,smooth] 0
+Qy_in[g19,D3,smooth] 0
+Qy_in[g19,D4,smooth] 0
+Qy_in[g19,D5,smooth] 0
+Qy_in[g20,D1,smooth] 0
+Qy_in[g20,D2,smooth] 0
+Qy_in[g20,D3,smooth] 0
+Qy_in[g20,D4,smooth] 0
+Qy_in[g20,D5,smooth] 0
+Qy_in[g21,D1,smooth] 0
+Qy_in[g21,D2,smooth] 0
+Qy_in[g21,D3,smooth] 0
+Qy_in[g21,D4,smooth] 0
+Qy_in[g21,D5,smooth] 0
+Qy_in[g22,D1,smooth] 0
+Qy_in[g22,D2,smooth] 0
+Qy_in[g22,D3,smooth] 0
+Qy_in[g22,D4,smooth] 0
+Qy_in[g22,D5,smooth] 0
+Qy_in[g23,D1,smooth] 0
+Qy_in[g23,D2,smooth] 0
+Qy_in[g23,D3,smooth] 0
+Qy_in[g23,D4,smooth] 0
+Qy_in[g23,D5,smooth] 0
+Qy_in[g24,D1,smooth] 0
+Qy_in[g24,D2,smooth] 0
+Qy_in[g24,D3,smooth] 0
+Qy_in[g24,D4,smooth] 0
+Qy_in[g24,D5,smooth] 0
+Qy_in[g25,D1,smooth] 0
+Qy_in[g25,D2,smooth] 0
+Qy_in[g25,D3,smooth] 0
+Qy_in[g25,D4,smooth] 0
+Qy_in[g25,D5,smooth] 0
+Qy_in[g26,D1,smooth] 0
+Qy_in[g26,D2,smooth] 0
+Qy_in[g26,D3,smooth] 0
+Qy_in[g26,D4,smooth] 0
+Qy_in[g26,D5,smooth] 0
+Qy_in[g27,D1,smooth] 0
+Qy_in[g27,D2,smooth] 0
+Qy_in[g27,D3,smooth] 0
+Qy_in[g27,D4,smooth] 0
+Qy_in[g27,D5,smooth] 0
+Qy_in[g28,D1,smooth] 0
+Qy_in[g28,D2,smooth] 0
+Qy_in[g28,D3,smooth] 0
+Qy_in[g28,D4,smooth] 0
+Qy_in[g28,D5,smooth] 0
+Qy_in[g29,D1,smooth] 0
+Qy_in[g29,D2,smooth] 0
+Qy_in[g29,D3,smooth] 0
+Qy_in[g29,D4,smooth] 0
+Qy_in[g29,D5,smooth] 0
+Qy_in[g30,D1,smooth] 0
+Qy_in[g30,D2,smooth] 0
+Qy_in[g30,D3,smooth] 0
+Qy_in[g30,D4,smooth] 0
+Qy_in[g30,D5,smooth] 0
+Qy_in[g31,D1,smooth] 0
+Qy_in[g31,D2,smooth] 0
+Qy_in[g31,D3,smooth] 0
+Qy_in[g31,D4,smooth] 0
+Qy_in[g31,D5,smooth] 0
+Qy_in[g32,D1,smooth] 0
+Qy_in[g32,D2,smooth] 0
+Qy_in[g32,D3,smooth] 0
+Qy_in[g32,D4,smooth] 0
+Qy_in[g32,D5,smooth] 0
+Qy_in[g33,D1,smooth] 0
+Qy_in[g33,D2,smooth] 0
+Qy_in[g33,D3,smooth] 0
+Qy_in[g33,D4,smooth] 0
+Qy_in[g33,D5,smooth] 0
+Qy_out[g1,D1,smooth] 0
+Qy_out[g1,D2,smooth] 0
+Qy_out[g1,D3,smooth] 0
+Qy_out[g1,D4,smooth] 0
+Qy_out[g1,D5,smooth] 0
+Qy_out[g2,D1,smooth] 0
+Qy_out[g2,D2,smooth] 0
+Qy_out[g2,D3,smooth] 0
+Qy_out[g2,D4,smooth] 0
+Qy_out[g2,D5,smooth] 0
+Qy_out[g3,D1,smooth] 0
+Qy_out[g3,D2,smooth] 0
+Qy_out[g3,D3,smooth] 0
+Qy_out[g3,D4,smooth] 0
+Qy_out[g3,D5,smooth] 0
+Qy_out[g4,D1,smooth] 0
+Qy_out[g4,D2,smooth] 0
+Qy_out[g4,D3,smooth] 0
+Qy_out[g4,D4,smooth] 0
+Qy_out[g4,D5,smooth] 0
+Qy_out[g5,D1,smooth] 0
+Qy_out[g5,D2,smooth] 0
+Qy_out[g5,D3,smooth] 0
+Qy_out[g5,D4,smooth] 0
+Qy_out[g5,D5,smooth] 0
+Qy_out[g6,D1,smooth] 0
+Qy_out[g6,D2,smooth] 0
+Qy_out[g6,D3,smooth] 0
+Qy_out[g6,D4,smooth] 0
+Qy_out[g6,D5,smooth] 0
+Qy_out[g7,D1,smooth] 0
+Qy_out[g7,D2,smooth] 0
+Qy_out[g7,D3,smooth] 0
+Qy_out[g7,D4,smooth] 0
+Qy_out[g7,D5,smooth] 0
+Qy_out[g8,D1,smooth] 0
+Qy_out[g8,D2,smooth] 0
+Qy_out[g8,D3,smooth] 0
+Qy_out[g8,D4,smooth] 0
+Qy_out[g8,D5,smooth] 0
+Qy_out[g9,D1,smooth] 0
+Qy_out[g9,D2,smooth] 0
+Qy_out[g9,D3,smooth] 0
+Qy_out[g9,D4,smooth] 0
+Qy_out[g9,D5,smooth] 0
+Qy_out[g10,D1,smooth] 0
+Qy_out[g10,D2,smooth] 0
+Qy_out[g10,D3,smooth] 0
+Qy_out[g10,D4,smooth] 0
+Qy_out[g10,D5,smooth] 0
+Qy_out[g11,D1,smooth] 0
+Qy_out[g11,D2,smooth] 0
+Qy_out[g11,D3,smooth] 0
+Qy_out[g11,D4,smooth] 0
+Qy_out[g11,D5,smooth] 0
+Qy_out[g12,D1,smooth] 0
+Qy_out[g12,D2,smooth] 0
+Qy_out[g12,D3,smooth] 0
+Qy_out[g12,D4,smooth] 0
+Qy_out[g12,D5,smooth] 0
+Qy_out[g13,D1,smooth] 0
+Qy_out[g13,D2,smooth] 0
+Qy_out[g13,D3,smooth] 0
+Qy_out[g13,D4,smooth] 0
+Qy_out[g13,D5,smooth] 0
+Qy_out[g14,D1,smooth] 0
+Qy_out[g14,D2,smooth] 0
+Qy_out[g14,D3,smooth] 0
+Qy_out[g14,D4,smooth] 0
+Qy_out[g14,D5,smooth] 0
+Qy_out[g15,D1,smooth] 0
+Qy_out[g15,D2,smooth] 0
+Qy_out[g15,D3,smooth] 0
+Qy_out[g15,D4,smooth] 0
+Qy_out[g15,D5,smooth] 0
+Qy_out[g16,D1,smooth] 0
+Qy_out[g16,D2,smooth] 0
+Qy_out[g16,D3,smooth] 0
+Qy_out[g16,D4,smooth] 0
+Qy_out[g16,D5,smooth] 0
+Qy_out[g17,D1,smooth] 0
+Qy_out[g17,D2,smooth] 0
+Qy_out[g17,D3,smooth] 0
+Qy_out[g17,D4,smooth] 0
+Qy_out[g17,D5,smooth] 0
+Qy_out[g18,D1,smooth] 0
+Qy_out[g18,D2,smooth] 0
+Qy_out[g18,D3,smooth] 0
+Qy_out[g18,D4,smooth] 0
+Qy_out[g18,D5,smooth] 0
+Qy_out[g19,D1,smooth] 0
+Qy_out[g19,D2,smooth] 0
+Qy_out[g19,D3,smooth] 0
+Qy_out[g19,D4,smooth] 0
+Qy_out[g19,D5,smooth] 0
+Qy_out[g20,D1,smooth] 0
+Qy_out[g20,D2,smooth] 0
+Qy_out[g20,D3,smooth] 0
+Qy_out[g20,D4,smooth] 0
+Qy_out[g20,D5,smooth] 0
+Qy_out[g21,D1,smooth] 0
+Qy_out[g21,D2,smooth] 0
+Qy_out[g21,D3,smooth] 0
+Qy_out[g21,D4,smooth] 0
+Qy_out[g21,D5,smooth] 0
+Qy_out[g22,D1,smooth] 0
+Qy_out[g22,D2,smooth] 0
+Qy_out[g22,D3,smooth] 0
+Qy_out[g22,D4,smooth] 0
+Qy_out[g22,D5,smooth] 0
+Qy_out[g23,D1,smooth] 0
+Qy_out[g23,D2,smooth] 0
+Qy_out[g23,D3,smooth] 0
+Qy_out[g23,D4,smooth] 0
+Qy_out[g23,D5,smooth] 0
+Qy_out[g24,D1,smooth] 0
+Qy_out[g24,D2,smooth] 0
+Qy_out[g24,D3,smooth] 0
+Qy_out[g24,D4,smooth] 0
+Qy_out[g24,D5,smooth] 0
+Qy_out[g25,D1,smooth] 0
+Qy_out[g25,D2,smooth] 0
+Qy_out[g25,D3,smooth] 0
+Qy_out[g25,D4,smooth] 0
+Qy_out[g25,D5,smooth] 0
+Qy_out[g26,D1,smooth] 0
+Qy_out[g26,D2,smooth] 0
+Qy_out[g26,D3,smooth] 0
+Qy_out[g26,D4,smooth] 0
+Qy_out[g26,D5,smooth] 0
+Qy_out[g27,D1,smooth] 0
+Qy_out[g27,D2,smooth] 0
+Qy_out[g27,D3,smooth] 0
+Qy_out[g27,D4,smooth] 0
+Qy_out[g27,D5,smooth] 0
+Qy_out[g28,D1,smooth] 0
+Qy_out[g28,D2,smooth] 0
+Qy_out[g28,D3,smooth] 0
+Qy_out[g28,D4,smooth] 0
+Qy_out[g28,D5,smooth] 0
+Qy_out[g29,D1,smooth] 0
+Qy_out[g29,D2,smooth] 0
+Qy_out[g29,D3,smooth] 0
+Qy_out[g29,D4,smooth] 0
+Qy_out[g29,D5,smooth] 0
+Qy_out[g30,D1,smooth] 0
+Qy_out[g30,D2,smooth] 0
+Qy_out[g30,D3,smooth] 0
+Qy_out[g30,D4,smooth] 0
+Qy_out[g30,D5,smooth] 0
+Qy_out[g31,D1,smooth] 0
+Qy_out[g31,D2,smooth] 0
+Qy_out[g31,D3,smooth] 0
+Qy_out[g31,D4,smooth] 0
+Qy_out[g31,D5,smooth] 0
+Qy_out[g32,D1,smooth] 0
+Qy_out[g32,D2,smooth] 0
+Qy_out[g32,D3,smooth] 0
+Qy_out[g32,D4,smooth] 0
+Qy_out[g32,D5,smooth] 0
+Qy_out[g33,D1,smooth] 0
+Qy_out[g33,D2,smooth] 0
+Qy_out[g33,D3,smooth] 0
+Qy_out[g33,D4,smooth] 0
+Qy_out[g33,D5,smooth] 0
+Qz_in[g1,T1,smooth] 0
+Qz_in[g1,T2,smooth] 0
+Qz_in[g1,T5,smooth] 0
+Qz_in[g2,T1,smooth] 0
+Qz_in[g2,T2,smooth] 0
+Qz_in[g2,T5,smooth] 0
+Qz_in[g3,T1,smooth] 0
+Qz_in[g3,T2,smooth] 0
+Qz_in[g3,T5,smooth] 0
+Qz_in[g4,T1,smooth] 0
+Qz_in[g4,T2,smooth] 0
+Qz_in[g4,T5,smooth] 0
+Qz_in[g5,T1,smooth] 0
+Qz_in[g5,T2,smooth] 0
+Qz_in[g5,T5,smooth] 0
+Qz_in[g6,T1,smooth] 0
+Qz_in[g6,T2,smooth] 0
+Qz_in[g6,T5,smooth] 0
+Qz_in[g7,T1,smooth] 0
+Qz_in[g7,T2,smooth] 0
+Qz_in[g7,T5,smooth] 0
+Qz_in[g8,T1,smooth] 0
+Qz_in[g8,T2,smooth] 0
+Qz_in[g8,T5,smooth] 0
+Qz_in[g9,T1,smooth] 0
+Qz_in[g9,T2,smooth] 0
+Qz_in[g9,T5,smooth] 0
+Qz_in[g10,T1,smooth] 0
+Qz_in[g10,T2,smooth] 0
+Qz_in[g10,T5,smooth] 0
+Qz_in[g11,T1,smooth] 0
+Qz_in[g11,T2,smooth] 0
+Qz_in[g11,T5,smooth] 0
+Qz_in[g12,T1,smooth] 0
+Qz_in[g12,T2,smooth] 0
+Qz_in[g12,T5,smooth] 0
+Qz_in[g13,T1,smooth] 0
+Qz_in[g13,T2,smooth] 0
+Qz_in[g13,T5,smooth] 0
+Qz_in[g14,T1,smooth] 0
+Qz_in[g14,T2,smooth] 0
+Qz_in[g14,T5,smooth] 0
+Qz_in[g15,T1,smooth] 0
+Qz_in[g15,T2,smooth] 0
+Qz_in[g15,T5,smooth] 0
+Qz_in[g16,T1,smooth] 0
+Qz_in[g16,T2,smooth] 0
+Qz_in[g16,T5,smooth] 0
+Qz_in[g17,T1,smooth] 0
+Qz_in[g17,T2,smooth] 0
+Qz_in[g17,T5,smooth] 0
+Qz_in[g18,T1,smooth] 0
+Qz_in[g18,T2,smooth] 0
+Qz_in[g18,T5,smooth] 0
+Qz_in[g19,T1,smooth] 0
+Qz_in[g19,T2,smooth] 0
+Qz_in[g19,T5,smooth] 0
+Qz_in[g20,T1,smooth] 0
+Qz_in[g20,T2,smooth] 0
+Qz_in[g20,T5,smooth] 0
+Qz_in[g21,T1,smooth] 0
+Qz_in[g21,T2,smooth] 0
+Qz_in[g21,T5,smooth] 0
+Qz_in[g22,T1,smooth] 0
+Qz_in[g22,T2,smooth] 0
+Qz_in[g22,T5,smooth] 0
+Qz_in[g23,T1,smooth] 0
+Qz_in[g23,T2,smooth] 0
+Qz_in[g23,T5,smooth] 0
+Qz_in[g24,T1,smooth] 0
+Qz_in[g24,T2,smooth] 0
+Qz_in[g24,T5,smooth] 0
+Qz_in[g25,T1,smooth] 0
+Qz_in[g25,T2,smooth] 0
+Qz_in[g25,T5,smooth] 0
+Qz_in[g26,T1,smooth] 0
+Qz_in[g26,T2,smooth] 0
+Qz_in[g26,T5,smooth] 0
+Qz_in[g27,T1,smooth] 0
+Qz_in[g27,T2,smooth] 0
+Qz_in[g27,T5,smooth] 0
+Qz_in[g28,T1,smooth] 0
+Qz_in[g28,T2,smooth] 0
+Qz_in[g28,T5,smooth] 0
+Qz_in[g29,T1,smooth] 0
+Qz_in[g29,T2,smooth] 0
+Qz_in[g29,T5,smooth] 0
+Qz_in[g30,T1,smooth] 0
+Qz_in[g30,T2,smooth] 0
+Qz_in[g30,T5,smooth] 0
+Qz_in[g31,T1,smooth] 0
+Qz_in[g31,T2,smooth] 0
+Qz_in[g31,T5,smooth] 0
+Qz_in[g32,T1,smooth] 0
+Qz_in[g32,T2,smooth] 0
+Qz_in[g32,T5,smooth] 0
+Qz_in[g33,T1,smooth] 0
+Qz_in[g33,T2,smooth] 0
+Qz_in[g33,T5,smooth] 0
+Qz_out[g1,T1,smooth] 0
+Qz_out[g1,T2,smooth] 0
+Qz_out[g1,T5,smooth] 0
+Qz_out[g2,T1,smooth] 0
+Qz_out[g2,T2,smooth] 0
+Qz_out[g2,T5,smooth] 0
+Qz_out[g3,T1,smooth] 0
+Qz_out[g3,T2,smooth] 0
+Qz_out[g3,T5,smooth] 0
+Qz_out[g4,T1,smooth] 0
+Qz_out[g4,T2,smooth] 0
+Qz_out[g4,T5,smooth] 0
+Qz_out[g5,T1,smooth] 0
+Qz_out[g5,T2,smooth] 0
+Qz_out[g5,T5,smooth] 0
+Qz_out[g6,T1,smooth] 0
+Qz_out[g6,T2,smooth] 0
+Qz_out[g6,T5,smooth] 0
+Qz_out[g7,T1,smooth] 0
+Qz_out[g7,T2,smooth] 0
+Qz_out[g7,T5,smooth] 0
+Qz_out[g8,T1,smooth] 0
+Qz_out[g8,T2,smooth] 0
+Qz_out[g8,T5,smooth] 0
+Qz_out[g9,T1,smooth] 0
+Qz_out[g9,T2,smooth] 0
+Qz_out[g9,T5,smooth] 0
+Qz_out[g10,T1,smooth] 0
+Qz_out[g10,T2,smooth] 0
+Qz_out[g10,T5,smooth] 0
+Qz_out[g11,T1,smooth] 0
+Qz_out[g11,T2,smooth] 0
+Qz_out[g11,T5,smooth] 0
+Qz_out[g12,T1,smooth] 0
+Qz_out[g12,T2,smooth] 0
+Qz_out[g12,T5,smooth] 0
+Qz_out[g13,T1,smooth] 0
+Qz_out[g13,T2,smooth] 0
+Qz_out[g13,T5,smooth] 0
+Qz_out[g14,T1,smooth] 0
+Qz_out[g14,T2,smooth] 0
+Qz_out[g14,T5,smooth] 0
+Qz_out[g15,T1,smooth] 0
+Qz_out[g15,T2,smooth] 0
+Qz_out[g15,T5,smooth] 0
+Qz_out[g16,T1,smooth] 0
+Qz_out[g16,T2,smooth] 0
+Qz_out[g16,T5,smooth] 0
+Qz_out[g17,T1,smooth] 0
+Qz_out[g17,T2,smooth] 0
+Qz_out[g17,T5,smooth] 0
+Qz_out[g18,T1,smooth] 0
+Qz_out[g18,T2,smooth] 0
+Qz_out[g18,T5,smooth] 0
+Qz_out[g19,T1,smooth] 0
+Qz_out[g19,T2,smooth] 0
+Qz_out[g19,T5,smooth] 0
+Qz_out[g20,T1,smooth] 0
+Qz_out[g20,T2,smooth] 0
+Qz_out[g20,T5,smooth] 0
+Qz_out[g21,T1,smooth] 0
+Qz_out[g21,T2,smooth] 0
+Qz_out[g21,T5,smooth] 0
+Qz_out[g22,T1,smooth] 0
+Qz_out[g22,T2,smooth] 0
+Qz_out[g22,T5,smooth] 0
+Qz_out[g23,T1,smooth] 0
+Qz_out[g23,T2,smooth] 0
+Qz_out[g23,T5,smooth] 0
+Qz_out[g24,T1,smooth] 0
+Qz_out[g24,T2,smooth] 0
+Qz_out[g24,T5,smooth] 0
+Qz_out[g25,T1,smooth] 0
+Qz_out[g25,T2,smooth] 0
+Qz_out[g25,T5,smooth] 0
+Qz_out[g26,T1,smooth] 0
+Qz_out[g26,T2,smooth] 0
+Qz_out[g26,T5,smooth] 0
+Qz_out[g27,T1,smooth] 0
+Qz_out[g27,T2,smooth] 0
+Qz_out[g27,T5,smooth] 0
+Qz_out[g28,T1,smooth] 0
+Qz_out[g28,T2,smooth] 0
+Qz_out[g28,T5,smooth] 0
+Qz_out[g29,T1,smooth] 0
+Qz_out[g29,T2,smooth] 0
+Qz_out[g29,T5,smooth] 0
+Qz_out[g30,T1,smooth] 0
+Qz_out[g30,T2,smooth] 0
+Qz_out[g30,T5,smooth] 0
+Qz_out[g31,T1,smooth] 0
+Qz_out[g31,T2,smooth] 0
+Qz_out[g31,T5,smooth] 0
+Qz_out[g32,T1,smooth] 0
+Qz_out[g32,T2,smooth] 0
+Qz_out[g32,T5,smooth] 0
+Qz_out[g33,T1,smooth] 0
+Qz_out[g33,T2,smooth] 0
+Qz_out[g33,T5,smooth] 0
+Qn_in[T1,R1,smooth] 0
+Qn_in[T1,R2,smooth] 0
+Qn_in[T1,R3,smooth] 0
+Qn_in[T1,R4,smooth] 0
+Qn_in[T1,R5,smooth] 0
+Qn_in[T1,R6,smooth] 0
+Qn_in[T1,R7,smooth] 0
+Qn_in[T2,R1,smooth] 0
+Qn_in[T2,R2,smooth] 0
+Qn_in[T2,R3,smooth] 0
+Qn_in[T2,R4,smooth] 0
+Qn_in[T2,R5,smooth] 0
+Qn_in[T2,R6,smooth] 0
+Qn_in[T2,R7,smooth] 0
+Qn_in[T5,R1,smooth] 0
+Qn_in[T5,R2,smooth] 0
+Qn_in[T5,R3,smooth] 0
+Qn_in[T5,R4,smooth] 0
+Qn_in[T5,R5,smooth] 0
+Qn_in[T5,R6,smooth] 0
+Qn_in[T5,R7,smooth] 0
+Qn_out[T1,R1,smooth] 0
+Qn_out[T1,R2,smooth] 0
+Qn_out[T1,R3,smooth] 0
+Qn_out[T1,R4,smooth] 0
+Qn_out[T1,R5,smooth] 0
+Qn_out[T1,R6,smooth] 0
+Qn_out[T1,R7,smooth] 0
+Qn_out[T2,R1,smooth] 0
+Qn_out[T2,R2,smooth] 0
+Qn_out[T2,R3,smooth] 0
+Qn_out[T2,R4,smooth] 0
+Qn_out[T2,R5,smooth] 0
+Qn_out[T2,R6,smooth] 0
+Qn_out[T2,R7,smooth] 0
+Qn_out[T5,R1,smooth] 0
+Qn_out[T5,R2,smooth] 0
+Qn_out[T5,R3,smooth] 0
+Qn_out[T5,R4,smooth] 0
+Qn_out[T5,R5,smooth] 0
+Qn_out[T5,R6,smooth] 0
+Qn_out[T5,R7,smooth] 0
+Qm_in[T1,D1,smooth] 0
+Qm_in[T1,D2,smooth] 0
+Qm_in[T1,D3,smooth] 0
+Qm_in[T1,D4,smooth] 0
+Qm_in[T1,D5,smooth] 0
+Qm_in[T2,D1,smooth] 0
+Qm_in[T2,D2,smooth] 0
+Qm_in[T2,D3,smooth] 0
+Qm_in[T2,D4,smooth] 0
+Qm_in[T2,D5,smooth] 0
+Qm_in[T5,D1,smooth] 0
+Qm_in[T5,D2,smooth] 0
+Qm_in[T5,D3,smooth] 0
+Qm_in[T5,D4,smooth] 0
+Qm_in[T5,D5,smooth] 0
+Qm_out[T1,D1,smooth] 0
+Qm_out[T1,D2,smooth] 0
+Qm_out[T1,D3,smooth] 0
+Qm_out[T1,D4,smooth] 0
+Qm_out[T1,D5,smooth] 0
+Qm_out[T2,D1,smooth] 0
+Qm_out[T2,D2,smooth] 0
+Qm_out[T2,D3,smooth] 0
+Qm_out[T2,D4,smooth] 0
+Qm_out[T2,D5,smooth] 0
+Qm_out[T5,D1,smooth] 0
+Qm_out[T5,D2,smooth] 0
+Qm_out[T5,D3,smooth] 0
+Qm_out[T5,D4,smooth] 0
+Qm_out[T5,D5,smooth] 0
+Ql_in[R1,D1,smooth] 0
+Ql_in[R1,D2,smooth] 0
+Ql_in[R1,D3,smooth] 0
+Ql_in[R1,D4,smooth] 0
+Ql_in[R1,D5,smooth] 0
+Ql_in[R2,D1,smooth] 0
+Ql_in[R2,D2,smooth] 0
+Ql_in[R2,D3,smooth] 0
+Ql_in[R2,D4,smooth] 0
+Ql_in[R2,D5,smooth] 0
+Ql_in[R3,D1,smooth] 0
+Ql_in[R3,D2,smooth] 0
+Ql_in[R3,D3,smooth] 0
+Ql_in[R3,D4,smooth] 0
+Ql_in[R3,D5,smooth] 0
+Ql_in[R4,D1,smooth] 0
+Ql_in[R4,D2,smooth] 0
+Ql_in[R4,D3,smooth] 0
+Ql_in[R4,D4,smooth] 0
+Ql_in[R4,D5,smooth] 0
+Ql_in[R5,D1,smooth] 0
+Ql_in[R5,D2,smooth] 0
+Ql_in[R5,D3,smooth] 0
+Ql_in[R5,D4,smooth] 0
+Ql_in[R5,D5,smooth] 0
+Ql_in[R6,D1,smooth] 0
+Ql_in[R6,D2,smooth] 0
+Ql_in[R6,D3,smooth] 0
+Ql_in[R6,D4,smooth] 0
+Ql_in[R6,D5,smooth] 0
+Ql_in[R7,D1,smooth] 0
+Ql_in[R7,D2,smooth] 0
+Ql_in[R7,D3,smooth] 0
+Ql_in[R7,D4,smooth] 0
+Ql_in[R7,D5,smooth] 0
+Ql_out[R1,D1,smooth] 0
+Ql_out[R1,D2,smooth] 0
+Ql_out[R1,D3,smooth] 0
+Ql_out[R1,D4,smooth] 0
+Ql_out[R1,D5,smooth] 0
+Ql_out[R2,D1,smooth] 0
+Ql_out[R2,D2,smooth] 0
+Ql_out[R2,D3,smooth] 0
+Ql_out[R2,D4,smooth] 0
+Ql_out[R2,D5,smooth] 0
+Ql_out[R3,D1,smooth] 0
+Ql_out[R3,D2,smooth] 0
+Ql_out[R3,D3,smooth] 0
+Ql_out[R3,D4,smooth] 0
+Ql_out[R3,D5,smooth] 0
+Ql_out[R4,D1,smooth] 0
+Ql_out[R4,D2,smooth] 0
+Ql_out[R4,D3,smooth] 0
+Ql_out[R4,D4,smooth] 0
+Ql_out[R4,D5,smooth] 0
+Ql_out[R5,D1,smooth] 0
+Ql_out[R5,D2,smooth] 0
+Ql_out[R5,D3,smooth] 0
+Ql_out[R5,D4,smooth] 0
+Ql_out[R5,D5,smooth] 0
+Ql_out[R6,D1,smooth] 0
+Ql_out[R6,D2,smooth] 0
+Ql_out[R6,D3,smooth] 0
+Ql_out[R6,D4,smooth] 0
+Ql_out[R6,D5,smooth] 0
+Ql_out[R7,D1,smooth] 0
+Ql_out[R7,D2,smooth] 0
+Ql_out[R7,D3,smooth] 0
+Ql_out[R7,D4,smooth] 0
+Ql_out[R7,D5,smooth] 0
+Qr[R1,smooth] 0
+Qr[R2,smooth] 0
+Qr[R3,smooth] 0
+Qr[R4,smooth] 0
+Qr[R5,smooth] 0
+Qr[R6,smooth] 0
+Qr[R7,smooth] 0
+Qt[T1,smooth] 0
+Qt[T2,smooth] 0
+Qt[T5,smooth] 0
+Qd[D1,smooth] 0
+Qd[D2,smooth] 0
+Qd[D3,smooth] 0
+Qd[D4,smooth] 0
+Qd[D5,smooth] 0
+Cost 3.5525863097939466e+05
+locationRisk 5.7322526201999017e+02
+transRisk 1.8757199697740057e+08
+locationCost 3.3580584465574368e+05
+transCost 1.9452786323650773e+04
+SECTION BASIS
+NAME sencond-trial(risk) 3557 Variables 2675 Constraints
+ XL x[w1,g1,R4,smooth]  R0      
+ XL x[w1,g2,R4,smooth]  R1      
+ XL x[w1,g3,R2,smooth]  R2      
+ XL x[w1,g3,R6,smooth]  R3      
+ XL x[w1,g4,R4,smooth]  R4      
+ XL x[w1,g5,R4,smooth]  R5      
+ XL x[w1,g6,R6,smooth]  R6      
+ XL x[w1,g7,R6,smooth]  R7      
+ XL x[w1,g8,R6,smooth]  R8      
+ XL x[w1,g9,R6,smooth]  R9      
+ XL x[w1,g10,R6,smooth]  R10     
+ XL x[w1,g11,R5,smooth]  R11     
+ XL x[w1,g12,R7,smooth]  R12     
+ XL x[w1,g13,R7,smooth]  R13     
+ XL x[w1,g14,R4,smooth]  R14     
+ XL x[w1,g15,R5,smooth]  R15     
+ XL x[w1,g16,R4,smooth]  R16     
+ XL x[w1,g17,R5,smooth]  R17     
+ XL x[w1,g18,R2,smooth]  R18     
+ XL x[w1,g19,R5,smooth]  R19     
+ XL x[w1,g20,R7,smooth]  R20     
+ XL x[w1,g21,R2,smooth]  R21     
+ XL x[w1,g22,R2,smooth]  R22     
+ XL x[w1,g23,R1,smooth]  R23     
+ XL x[w1,g23,R2,smooth]  R24     
+ XL x[w1,g24,R3,smooth]  R25     
+ XL x[w1,g25,R3,smooth]  R26     
+ XL x[w1,g26,R7,smooth]  R27     
+ XL x[w1,g27,R6,smooth]  R28     
+ XL x[w1,g28,R2,smooth]  R29     
+ XL x[w1,g29,R5,smooth]  R30     
+ XL x[w1,g30,R6,smooth]  R31     
+ XL x[w1,g31,R3,smooth]  R32     
+ XL x[w1,g32,R6,smooth]  R33     
+ XL x[w1,g33,R5,smooth]  R34     
+ XL x[w2,g1,R4,smooth]  R35     
+ XL x[w2,g1,R7,smooth]  R36     
+ XL x[w2,g2,R4,smooth]  R37     
+ XL x[w2,g3,R6,smooth]  R38     
+ XL x[w2,g4,R4,smooth]  R39     
+ XL x[w2,g5,R4,smooth]  R40     
+ XL x[w2,g6,R6,smooth]  R41     
+ XL x[w2,g7,R6,smooth]  R42     
+ XL x[w2,g8,R6,smooth]  R43     
+ XL x[w2,g9,R6,smooth]  R44     
+ XL x[w2,g10,R6,smooth]  R45     
+ XL x[w2,g11,R5,smooth]  R46     
+ XL x[w2,g12,R7,smooth]  R47     
+ XL x[w2,g13,R7,smooth]  R48     
+ XL x[w2,g14,R4,smooth]  R49     
+ XL x[w2,g15,R5,smooth]  R50     
+ XL x[w2,g16,R4,smooth]  R51     
+ XL x[w2,g17,R5,smooth]  R52     
+ XL x[w2,g18,R2,smooth]  R53     
+ XL x[w2,g19,R5,smooth]  R54     
+ XL x[w2,g20,R7,smooth]  R55     
+ XL x[w2,g21,R2,smooth]  R56     
+ XL x[w2,g22,R2,smooth]  R57     
+ XL x[w2,g23,R1,smooth]  R58     
+ XL x[w2,g23,R2,smooth]  R59     
+ XL x[w2,g24,R3,smooth]  R60     
+ XL x[w2,g25,R3,smooth]  R61     
+ XL x[w2,g26,R7,smooth]  R62     
+ XL x[w2,g27,R6,smooth]  R63     
+ XL x[w2,g28,R2,smooth]  R64     
+ XL x[w2,g29,R5,smooth]  R65     
+ XL x[w2,g30,R6,smooth]  R66     
+ XL x[w2,g31,R3,smooth]  R67     
+ XL x[w2,g32,R6,smooth]  R68     
+ XL x[w2,g33,R5,smooth]  R69     
+ XL y[w1,g1,D1,smooth]  R70     
+ XL y[w1,g2,D1,smooth]  R71     
+ XL y[w1,g3,D3,smooth]  R72     
+ XL y[w1,g4,D1,smooth]  R73     
+ XL y[w1,g5,D1,smooth]  R74     
+ XL y[w1,g6,D5,smooth]  R75     
+ XL y[w1,g7,D5,smooth]  R76     
+ XL y[w1,g8,D2,smooth]  R77     
+ XL y[w1,g8,D5,smooth]  R78     
+ XL y[w1,g9,D5,smooth]  R79     
+ XL y[w1,g10,D2,smooth]  R80     
+ XL y[w1,g11,D4,smooth]  R81     
+ XL y[w1,g12,D1,smooth]  R82     
+ XL y[w1,g13,D1,smooth]  R83     
+ XL y[w1,g14,D1,smooth]  R84     
+ XL y[w1,g15,D2,smooth]  R85     
+ XL y[w1,g16,D1,smooth]  R86     
+ XL y[w1,g17,D2,smooth]  R87     
+ XL y[w1,g18,D3,smooth]  R88     
+ XL y[w1,g19,D2,smooth]  R89     
+ XL y[w1,g20,D1,smooth]  R90     
+ XL y[w1,g21,D3,smooth]  R91     
+ XL y[w1,g22,D3,smooth]  R92     
+ XL y[w1,g23,D1,smooth]  R93     
+ XL y[w1,g24,D3,smooth]  R94     
+ XL y[w1,g25,D1,smooth]  R95     
+ XL y[w1,g26,D1,smooth]  R96     
+ XL y[w1,g27,D5,smooth]  R97     
+ XL y[w1,g28,D3,smooth]  R98     
+ XL y[w1,g29,D4,smooth]  R99     
+ XL y[w1,g30,D5,smooth]  R100    
+ XL y[w1,g31,D3,smooth]  R101    
+ XL y[w1,g32,D2,smooth]  R102    
+ XL y[w1,g33,D2,smooth]  R103    
+ XL y[w2,g1,D1,smooth]  R104    
+ XL y[w2,g2,D1,smooth]  R105    
+ XL y[w2,g3,D3,smooth]  R106    
+ XL y[w2,g4,D1,smooth]  R107    
+ XL y[w2,g5,D1,smooth]  R108    
+ XL y[w2,g6,D5,smooth]  R109    
+ XL y[w2,g7,D5,smooth]  R110    
+ XL y[w2,g8,D5,smooth]  R111    
+ XL y[w2,g9,D5,smooth]  R112    
+ XL y[w2,g10,D2,smooth]  R113    
+ XL y[w2,g11,D4,smooth]  R114    
+ XL y[w2,g12,D1,smooth]  R115    
+ XL y[w2,g13,D1,smooth]  R116    
+ XL y[w2,g14,D1,smooth]  R117    
+ XL y[w2,g15,D2,smooth]  R118    
+ XL y[w2,g16,D1,smooth]  R119    
+ XL y[w2,g17,D2,smooth]  R120    
+ XL y[w2,g18,D3,smooth]  R121    
+ XL y[w2,g19,D2,smooth]  R122    
+ XL y[w2,g20,D1,smooth]  R123    
+ XL y[w2,g21,D3,smooth]  R124    
+ XL y[w2,g22,D3,smooth]  R125    
+ XL y[w2,g23,D1,smooth]  R126    
+ XL y[w2,g24,D1,smooth]  R127    
+ XL y[w2,g24,D3,smooth]  R128    
+ XL y[w2,g25,D1,smooth]  R129    
+ XL y[w2,g26,D1,smooth]  R130    
+ XL y[w2,g27,D5,smooth]  R131    
+ XL y[w2,g28,D3,smooth]  R132    
+ XL y[w2,g29,D4,smooth]  R133    
+ XL y[w2,g30,D5,smooth]  R134    
+ XL y[w2,g31,D3,smooth]  R135    
+ XL y[w2,g32,D2,smooth]  R136    
+ XL y[w2,g33,D2,smooth]  R137    
+ XL z[w1,g1,T2,smooth]  R138    
+ XL z[w1,g2,T2,smooth]  R139    
+ XL z[w1,g3,T1,smooth]  R140    
+ XL z[w1,g4,T2,smooth]  R141    
+ XL z[w1,g5,T2,smooth]  R142    
+ XL z[w1,g6,T5,smooth]  R143    
+ XL z[w1,g7,T5,smooth]  R144    
+ XL z[w1,g8,T5,smooth]  R145    
+ XL z[w1,g9,T5,smooth]  R146    
+ XL z[w1,g10,T5,smooth]  R147    
+ XL z[w1,g11,T2,smooth]  R148    
+ XL z[w1,g12,T2,smooth]  R149    
+ XL z[w1,g13,T1,smooth]  R150    
+ XL z[w1,g14,T2,smooth]  R151    
+ XL z[w1,g15,T5,smooth]  R152    
+ XL z[w1,g16,T2,smooth]  R153    
+ XL z[w1,g17,T1,smooth]  R154    
+ XL z[w1,g17,T2,smooth]  R155    
+ XL z[w1,g18,T1,smooth]  R156    
+ XL z[w1,g19,T5,smooth]  R157    
+ XL z[w1,g20,T1,smooth]  R158    
+ XL z[w1,g21,T5,smooth]  R159    
+ XL z[w1,g22,T1,smooth]  R160    
+ XL z[w1,g23,T1,smooth]  R161    
+ XL z[w1,g24,T1,smooth]  R162    
+ XL z[w1,g25,T1,smooth]  R163    
+ XL z[w1,g26,T2,smooth]  R164    
+ XL z[w1,g27,T5,smooth]  R165    
+ XL z[w1,g28,T1,smooth]  R166    
+ XL z[w1,g29,T2,smooth]  R167    
+ XL z[w1,g30,T5,smooth]  R168    
+ XL z[w1,g31,T1,smooth]  R169    
+ XL z[w1,g32,T1,smooth]  R170    
+ XL z[w1,g33,T5,smooth]  R171    
+ XL z[w2,g1,T2,smooth]  R172    
+ XL z[w2,g2,T2,smooth]  R173    
+ XL z[w2,g3,T1,smooth]  R174    
+ XL z[w2,g4,T2,smooth]  R175    
+ XL z[w2,g5,T2,smooth]  R176    
+ XL z[w2,g6,T5,smooth]  R177    
+ XL z[w2,g7,T5,smooth]  R178    
+ XL z[w2,g8,T5,smooth]  R179    
+ XL z[w2,g9,T5,smooth]  R180    
+ XL z[w2,g10,T5,smooth]  R181    
+ XL z[w2,g11,T2,smooth]  R182    
+ XL z[w2,g12,T2,smooth]  R183    
+ XL z[w2,g13,T1,smooth]  R184    
+ XL z[w2,g14,T2,smooth]  R185    
+ XL z[w2,g15,T5,smooth]  R186    
+ XL z[w2,g16,T2,smooth]  R187    
+ XL z[w2,g17,T2,smooth]  R188    
+ XL z[w2,g18,T1,smooth]  R189    
+ XL z[w2,g19,T5,smooth]  R190    
+ XL z[w2,g20,T1,smooth]  R191    
+ XL z[w2,g21,T5,smooth]  R192    
+ XL z[w2,g22,T1,smooth]  R193    
+ XL z[w2,g23,T1,smooth]  R194    
+ XL z[w2,g24,T1,smooth]  R195    
+ XL z[w2,g25,T1,smooth]  R196    
+ XL z[w2,g26,T2,smooth]  R197    
+ XL z[w2,g27,T5,smooth]  R198    
+ XL z[w2,g28,T1,smooth]  R199    
+ XL z[w2,g29,T2,smooth]  R200    
+ XL z[w2,g30,T5,smooth]  R201    
+ XL z[w2,g31,T1,smooth]  R202    
+ XL z[w2,g32,T1,smooth]  R203    
+ XL z[w2,g33,T5,smooth]  R204    
+ XL n[w1,T1,R1,smooth]  R205    
+ XL n[w1,T2,R4,smooth]  R206    
+ XL n[w1,T2,R7,smooth]  R207    
+ XL n[w1,T5,R2,smooth]  R208    
+ XL n[w1,T5,R6,smooth]  R209    
+ XL n[w2,T1,R1,smooth]  R210    
+ XL n[w2,T2,R4,smooth]  R211    
+ XL n[w2,T2,R7,smooth]  R212    
+ XL n[w2,T5,R2,smooth]  R213    
+ XL n[w2,T5,R6,smooth]  R214    
+ XL m[w1,T1,D1,smooth]  R215    
+ XL m[w1,T2,D1,smooth]  R216    
+ XL m[w1,T5,D5,smooth]  R217    
+ XL m[w2,T1,D1,smooth]  R218    
+ XL m[w2,T2,D1,smooth]  R219    
+ XL m[w2,T5,D5,smooth]  R220    
+ XL l[w1,R1,D1,s2,smooth]  R221    
+ XL l[w1,R2,D3,s1,smooth]  R222    
+ XL l[w1,R3,D3,s1,smooth]  R223    
+ XL l[w1,R4,D2,s1,smooth]  R224    
+ XL l[w1,R5,D2,s1,smooth]  R225    
+ XL l[w1,R6,D5,s1,smooth]  R226    
+ XL l[w1,R6,D5,s2,smooth]  R227    
+ XL l[w1,R7,D1,s1,smooth]  R228    
+ XL l[w1,R7,D1,s2,smooth]  R229    
+ XL l[w2,R1,D1,s2,smooth]  R230    
+ XL l[w2,R2,D3,s1,smooth]  R231    
+ XL l[w2,R3,D3,s1,smooth]  R232    
+ XL l[w2,R4,D2,s1,smooth]  R233    
+ XL l[w2,R5,D2,s1,smooth]  R234    
+ XL l[w2,R6,D5,s1,smooth]  R235    
+ XL l[w2,R6,D5,s2,smooth]  R236    
+ XL l[w2,R7,D1,s1,smooth]  R237    
+ XL l[w2,R7,D1,s2,smooth]  R238    
+ XL r[w1,R1,s1,smooth]  R239    
+ XL r[w1,R1,s2,smooth]  R240    
+ XL r[w1,R2,s1,smooth]  R241    
+ XL r[w1,R2,s2,smooth]  R242    
+ XL r[w1,R3,s1,smooth]  R243    
+ XL r[w1,R3,s2,smooth]  R244    
+ XL r[w1,R4,s1,smooth]  R245    
+ XL r[w1,R4,s2,smooth]  R246    
+ XL r[w1,R5,s1,smooth]  R247    
+ XL r[w1,R5,s2,smooth]  R248    
+ XL r[w1,R6,s1,smooth]  R249    
+ XL r[w1,R6,s2,smooth]  R250    
+ XL r[w1,R7,s1,smooth]  R251    
+ XL r[w1,R7,s2,smooth]  R252    
+ XL r[w2,R1,s1,smooth]  R253    
+ XL r[w2,R1,s2,smooth]  R254    
+ XL r[w2,R2,s1,smooth]  R255    
+ XL r[w2,R2,s2,smooth]  R256    
+ XL r[w2,R3,s1,smooth]  R257    
+ XL r[w2,R3,s2,smooth]  R258    
+ XL r[w2,R4,s1,smooth]  R259    
+ XL r[w2,R4,s2,smooth]  R260    
+ XL r[w2,R5,s1,smooth]  R261    
+ XL r[w2,R5,s2,smooth]  R262    
+ XL r[w2,R6,s1,smooth]  R263    
+ XL r[w2,R6,s2,smooth]  R264    
+ XL r[w2,R7,s1,smooth]  R265    
+ XL r[w2,R7,s2,smooth]  R266    
+ XL t[w1,T1,smooth]  R267    
+ XL t[w1,T2,smooth]  R268    
+ XL t[w1,T5,smooth]  R269    
+ XL t[w2,T1,smooth]  R270    
+ XL t[w2,T2,smooth]  R271    
+ XL t[w2,T5,smooth]  R272    
+ XL d[w1,D1,s1,smooth]  R273    
+ XL d[w1,D1,s2,smooth]  R274    
+ XL d[w1,D2,s1,smooth]  R275    
+ XL d[w1,D2,s2,smooth]  R276    
+ XL d[w1,D3,s1,smooth]  R277    
+ XL d[w1,D3,s2,smooth]  R278    
+ XL d[w1,D4,s1,smooth]  R279    
+ XL d[w1,D4,s2,smooth]  R280    
+ XL d[w1,D5,s1,smooth]  R281    
+ XL d[w1,D5,s2,smooth]  R282    
+ XL d[w2,D1,s1,smooth]  R283    
+ XL d[w2,D1,s2,smooth]  R284    
+ XL d[w2,D2,s1,smooth]  R285    
+ XL d[w2,D2,s2,smooth]  R286    
+ XL d[w2,D3,s1,smooth]  R287    
+ XL d[w2,D3,s2,smooth]  R288    
+ XL d[w2,D4,s1,smooth]  R289    
+ XL d[w2,D4,s2,smooth]  R290    
+ XL d[w2,D5,s1,smooth]  R291    
+ XL d[w2,D5,s2,smooth]  R292    
+ XL E[smooth]  R293    
+ XL H[smooth]  R294    
+ XL qx_in[g1,R1,smooth]  R295    
+ XL qx_in[g1,R2,smooth]  R296    
+ XL qx_in[g1,R3,smooth]  R297    
+ XL qx_in[g1,R4,smooth]  R298    
+ XL qx_in[g1,R5,smooth]  R299    
+ XL qx_in[g1,R6,smooth]  R300    
+ XL qx_in[g1,R7,smooth]  R301    
+ XL qx_in[g2,R1,smooth]  R302    
+ XL qx_in[g2,R2,smooth]  R303    
+ XL qx_in[g2,R3,smooth]  R304    
+ XL qx_in[g2,R4,smooth]  R305    
+ XL qx_in[g2,R5,smooth]  R306    
+ XL qx_in[g2,R6,smooth]  R307    
+ XL qx_in[g2,R7,smooth]  R308    
+ XL qx_in[g3,R1,smooth]  R309    
+ XL qx_in[g3,R2,smooth]  R310    
+ XL qx_in[g3,R3,smooth]  R311    
+ XL qx_in[g3,R4,smooth]  R312    
+ XL qx_in[g3,R5,smooth]  R313    
+ XL qx_in[g3,R6,smooth]  R314    
+ XL qx_in[g3,R7,smooth]  R315    
+ XL qx_in[g4,R1,smooth]  R316    
+ XL qx_in[g4,R2,smooth]  R317    
+ XL qx_in[g4,R3,smooth]  R318    
+ XL qx_in[g4,R4,smooth]  R319    
+ XL qx_in[g4,R5,smooth]  R320    
+ XL qx_in[g4,R6,smooth]  R321    
+ XL qx_in[g4,R7,smooth]  R322    
+ XL qx_in[g5,R1,smooth]  R323    
+ XL qx_in[g5,R2,smooth]  R324    
+ XL qx_in[g5,R3,smooth]  R325    
+ XL qx_in[g5,R4,smooth]  R326    
+ XL qx_in[g5,R5,smooth]  R327    
+ XL qx_in[g5,R6,smooth]  R328    
+ XL qx_in[g5,R7,smooth]  R329    
+ XL qx_in[g6,R1,smooth]  R330    
+ XL qx_in[g6,R2,smooth]  R331    
+ XL qx_in[g6,R3,smooth]  R332    
+ XL qx_in[g6,R4,smooth]  R333    
+ XL qx_in[g6,R5,smooth]  R334    
+ XL qx_in[g6,R6,smooth]  R335    
+ XL qx_in[g6,R7,smooth]  R336    
+ XL qx_in[g7,R1,smooth]  R337    
+ XL qx_in[g7,R2,smooth]  R338    
+ XL qx_in[g7,R3,smooth]  R339    
+ XL qx_in[g7,R4,smooth]  R340    
+ XL qx_in[g7,R5,smooth]  R341    
+ XL qx_in[g7,R6,smooth]  R342    
+ XL qx_in[g7,R7,smooth]  R343    
+ XL qx_in[g8,R1,smooth]  R344    
+ XL qx_in[g8,R2,smooth]  R345    
+ XL qx_in[g8,R3,smooth]  R346    
+ XL qx_in[g8,R4,smooth]  R347    
+ XL qx_in[g8,R5,smooth]  R348    
+ XL qx_in[g8,R6,smooth]  R349    
+ XL qx_in[g8,R7,smooth]  R350    
+ XL qx_in[g9,R1,smooth]  R351    
+ XL qx_in[g9,R2,smooth]  R352    
+ XL qx_in[g9,R3,smooth]  R353    
+ XL qx_in[g9,R4,smooth]  R354    
+ XL qx_in[g9,R5,smooth]  R355    
+ XL qx_in[g9,R6,smooth]  R356    
+ XL qx_in[g9,R7,smooth]  R357    
+ XL qx_in[g10,R1,smooth]  R358    
+ XL qx_in[g10,R2,smooth]  R359    
+ XL qx_in[g10,R3,smooth]  R360    
+ XL qx_in[g10,R4,smooth]  R361    
+ XL qx_in[g10,R5,smooth]  R362    
+ XL qx_in[g10,R6,smooth]  R363    
+ XL qx_in[g10,R7,smooth]  R364    
+ XL qx_in[g11,R1,smooth]  R365    
+ XL qx_in[g11,R2,smooth]  R366    
+ XL qx_in[g11,R3,smooth]  R367    
+ XL qx_in[g11,R4,smooth]  R368    
+ XL qx_in[g11,R5,smooth]  R369    
+ XL qx_in[g11,R6,smooth]  R370    
+ XL qx_in[g11,R7,smooth]  R371    
+ XL qx_in[g12,R1,smooth]  R372    
+ XL qx_in[g12,R2,smooth]  R373    
+ XL qx_in[g12,R3,smooth]  R374    
+ XL qx_in[g12,R4,smooth]  R375    
+ XL qx_in[g12,R5,smooth]  R376    
+ XL qx_in[g12,R6,smooth]  R377    
+ XL qx_in[g12,R7,smooth]  R378    
+ XL qx_in[g13,R1,smooth]  R379    
+ XL qx_in[g13,R2,smooth]  R380    
+ XL qx_in[g13,R3,smooth]  R381    
+ XL qx_in[g13,R4,smooth]  R382    
+ XL qx_in[g13,R5,smooth]  R383    
+ XL qx_in[g13,R6,smooth]  R384    
+ XL qx_in[g13,R7,smooth]  R385    
+ XL qx_in[g14,R1,smooth]  R386    
+ XL qx_in[g14,R2,smooth]  R387    
+ XL qx_in[g14,R3,smooth]  R388    
+ XL qx_in[g14,R4,smooth]  R389    
+ XL qx_in[g14,R5,smooth]  R390    
+ XL qx_in[g14,R6,smooth]  R391    
+ XL qx_in[g14,R7,smooth]  R392    
+ XL qx_in[g15,R1,smooth]  R393    
+ XL qx_in[g15,R2,smooth]  R394    
+ XL qx_in[g15,R3,smooth]  R395    
+ XL qx_in[g15,R4,smooth]  R396    
+ XL qx_in[g15,R5,smooth]  R397    
+ XL qx_in[g15,R6,smooth]  R398    
+ XL qx_in[g15,R7,smooth]  R399    
+ XL qx_in[g16,R1,smooth]  R400    
+ XL qx_in[g16,R2,smooth]  R401    
+ XL qx_in[g16,R3,smooth]  R402    
+ XL qx_in[g16,R4,smooth]  R403    
+ XL qx_in[g16,R5,smooth]  R404    
+ XL qx_in[g16,R6,smooth]  R405    
+ XL qx_in[g16,R7,smooth]  R406    
+ XL qx_in[g17,R1,smooth]  R407    
+ XL qx_in[g17,R2,smooth]  R408    
+ XL qx_in[g17,R3,smooth]  R409    
+ XL qx_in[g17,R4,smooth]  R410    
+ XL qx_in[g17,R5,smooth]  R411    
+ XL qx_in[g17,R6,smooth]  R412    
+ XL qx_in[g17,R7,smooth]  R413    
+ XL qx_in[g18,R1,smooth]  R414    
+ XL qx_in[g18,R2,smooth]  R415    
+ XL qx_in[g18,R3,smooth]  R416    
+ XL qx_in[g18,R4,smooth]  R417    
+ XL qx_in[g18,R5,smooth]  R418    
+ XL qx_in[g18,R6,smooth]  R419    
+ XL qx_in[g18,R7,smooth]  R420    
+ XL qx_in[g19,R1,smooth]  R421    
+ XL qx_in[g19,R2,smooth]  R422    
+ XL qx_in[g19,R3,smooth]  R423    
+ XL qx_in[g19,R4,smooth]  R424    
+ XL qx_in[g19,R5,smooth]  R425    
+ XL qx_in[g19,R6,smooth]  R426    
+ XL qx_in[g19,R7,smooth]  R427    
+ XL qx_in[g20,R1,smooth]  R428    
+ XL qx_in[g20,R2,smooth]  R429    
+ XL qx_in[g20,R3,smooth]  R430    
+ XL qx_in[g20,R4,smooth]  R431    
+ XL qx_in[g20,R5,smooth]  R432    
+ XL qx_in[g20,R6,smooth]  R433    
+ XL qx_in[g20,R7,smooth]  R434    
+ XL qx_in[g21,R1,smooth]  R435    
+ XL qx_in[g21,R2,smooth]  R436    
+ XL qx_in[g21,R3,smooth]  R437    
+ XL qx_in[g21,R4,smooth]  R438    
+ XL qx_in[g21,R5,smooth]  R439    
+ XL qx_in[g21,R6,smooth]  R440    
+ XL qx_in[g21,R7,smooth]  R441    
+ XL qx_in[g22,R1,smooth]  R442    
+ XL qx_in[g22,R2,smooth]  R443    
+ XL qx_in[g22,R3,smooth]  R444    
+ XL qx_in[g22,R4,smooth]  R445    
+ XL qx_in[g22,R5,smooth]  R446    
+ XL qx_in[g22,R6,smooth]  R447    
+ XL qx_in[g22,R7,smooth]  R448    
+ XL qx_in[g23,R1,smooth]  R449    
+ XL qx_in[g23,R2,smooth]  R450    
+ XL qx_in[g23,R3,smooth]  R451    
+ XL qx_in[g23,R4,smooth]  R452    
+ XL qx_in[g23,R5,smooth]  R453    
+ XL qx_in[g23,R6,smooth]  R454    
+ XL qx_in[g23,R7,smooth]  R455    
+ XL qx_in[g24,R1,smooth]  R456    
+ XL qx_in[g24,R2,smooth]  R457    
+ XL qx_in[g24,R3,smooth]  R458    
+ XL qx_in[g24,R4,smooth]  R459    
+ XL qx_in[g24,R5,smooth]  R460    
+ XL qx_in[g24,R6,smooth]  R461    
+ XL qx_in[g24,R7,smooth]  R462    
+ XL qx_in[g25,R1,smooth]  R463    
+ XL qx_in[g25,R2,smooth]  R464    
+ XL qx_in[g25,R3,smooth]  R465    
+ XL qx_in[g25,R4,smooth]  R466    
+ XL qx_in[g25,R5,smooth]  R467    
+ XL qx_in[g25,R6,smooth]  R468    
+ XL qx_in[g25,R7,smooth]  R469    
+ XL qx_in[g26,R1,smooth]  R470    
+ XL qx_in[g26,R2,smooth]  R471    
+ XL qx_in[g26,R3,smooth]  R472    
+ XL qx_in[g26,R4,smooth]  R473    
+ XL qx_in[g26,R5,smooth]  R474    
+ XL qx_in[g26,R6,smooth]  R475    
+ XL qx_in[g26,R7,smooth]  R476    
+ XL qx_in[g27,R1,smooth]  R477    
+ XL qx_in[g27,R2,smooth]  R478    
+ XL qx_in[g27,R3,smooth]  R479    
+ XL qx_in[g27,R4,smooth]  R480    
+ XL qx_in[g27,R5,smooth]  R481    
+ XL qx_in[g27,R6,smooth]  R482    
+ XL qx_in[g27,R7,smooth]  R483    
+ XL qx_in[g28,R1,smooth]  R484    
+ XL qx_in[g28,R2,smooth]  R485    
+ XL qx_in[g28,R3,smooth]  R486    
+ XL qx_in[g28,R4,smooth]  R487    
+ XL qx_in[g28,R5,smooth]  R488    
+ XL qx_in[g28,R6,smooth]  R489    
+ XL qx_in[g28,R7,smooth]  R490    
+ XL qx_in[g29,R1,smooth]  R491    
+ XL qx_in[g29,R2,smooth]  R492    
+ XL qx_in[g29,R3,smooth]  R493    
+ XL qx_in[g29,R4,smooth]  R494    
+ XL qx_in[g29,R5,smooth]  R495    
+ XL qx_in[g29,R6,smooth]  R496    
+ XL qx_in[g29,R7,smooth]  R497    
+ XL qx_in[g30,R1,smooth]  R498    
+ XL qx_in[g30,R2,smooth]  R499    
+ XL qx_in[g30,R3,smooth]  R500    
+ XL qx_in[g30,R4,smooth]  R501    
+ XL qx_in[g30,R5,smooth]  R502    
+ XL qx_in[g30,R6,smooth]  R503    
+ XL qx_in[g30,R7,smooth]  R504    
+ XL qx_in[g31,R1,smooth]  R505    
+ XL qx_in[g31,R2,smooth]  R506    
+ XL qx_in[g31,R3,smooth]  R507    
+ XL qx_in[g31,R4,smooth]  R508    
+ XL qx_in[g31,R5,smooth]  R509    
+ XL qx_in[g31,R6,smooth]  R510    
+ XL qx_in[g31,R7,smooth]  R511    
+ XL qx_in[g32,R1,smooth]  R512    
+ XL qx_in[g32,R2,smooth]  R513    
+ XL qx_in[g32,R3,smooth]  R514    
+ XL qx_in[g32,R4,smooth]  R515    
+ XL qx_in[g32,R5,smooth]  R516    
+ XL qx_in[g32,R6,smooth]  R517    
+ XL qx_in[g32,R7,smooth]  R518    
+ XL qx_in[g33,R1,smooth]  R519    
+ XL qx_in[g33,R2,smooth]  R520    
+ XL qx_in[g33,R3,smooth]  R521    
+ XL qx_in[g33,R4,smooth]  R522    
+ XL qx_in[g33,R5,smooth]  R523    
+ XL qx_in[g33,R6,smooth]  R524    
+ XL qx_in[g33,R7,smooth]  R525    
+ XL qx_out[g1,R1,smooth]  R526    
+ XL qx_out[g1,R2,smooth]  R527    
+ XL qx_out[g1,R3,smooth]  R528    
+ XL qx_out[g1,R4,smooth]  R529    
+ XL qx_out[g1,R5,smooth]  R530    
+ XL qx_out[g1,R6,smooth]  R531    
+ XL qx_out[g1,R7,smooth]  R532    
+ XL qx_out[g2,R1,smooth]  R533    
+ XL qx_out[g2,R2,smooth]  R534    
+ XL qx_out[g2,R3,smooth]  R535    
+ XL qx_out[g2,R4,smooth]  R536    
+ XL qx_out[g2,R5,smooth]  R537    
+ XL qx_out[g2,R6,smooth]  R538    
+ XL qx_out[g2,R7,smooth]  R539    
+ XL qx_out[g3,R1,smooth]  R540    
+ XL qx_out[g3,R2,smooth]  R541    
+ XL qx_out[g3,R3,smooth]  R542    
+ XL qx_out[g3,R4,smooth]  R543    
+ XL qx_out[g3,R5,smooth]  R544    
+ XL qx_out[g3,R6,smooth]  R545    
+ XL qx_out[g3,R7,smooth]  R546    
+ XL qx_out[g4,R1,smooth]  R547    
+ XL qx_out[g4,R2,smooth]  R548    
+ XL qx_out[g4,R3,smooth]  R549    
+ XL qx_out[g4,R4,smooth]  R550    
+ XL qx_out[g4,R5,smooth]  R551    
+ XL qx_out[g4,R6,smooth]  R552    
+ XL qx_out[g4,R7,smooth]  R553    
+ XL qx_out[g5,R1,smooth]  R554    
+ XL qx_out[g5,R2,smooth]  R555    
+ XL qx_out[g5,R3,smooth]  R556    
+ XL qx_out[g5,R4,smooth]  R557    
+ XL qx_out[g5,R5,smooth]  R558    
+ XL qx_out[g5,R6,smooth]  R559    
+ XL qx_out[g5,R7,smooth]  R560    
+ XL qx_out[g6,R1,smooth]  R561    
+ XL qx_out[g6,R2,smooth]  R562    
+ XL qx_out[g6,R3,smooth]  R563    
+ XL qx_out[g6,R4,smooth]  R564    
+ XL qx_out[g6,R5,smooth]  R565    
+ XL qx_out[g6,R6,smooth]  R566    
+ XL qx_out[g6,R7,smooth]  R567    
+ XL qx_out[g7,R1,smooth]  R568    
+ XL qx_out[g7,R2,smooth]  R569    
+ XL qx_out[g7,R3,smooth]  R570    
+ XL qx_out[g7,R4,smooth]  R571    
+ XL qx_out[g7,R5,smooth]  R572    
+ XL qx_out[g7,R6,smooth]  R573    
+ XL qx_out[g7,R7,smooth]  R574    
+ XL qx_out[g8,R1,smooth]  R575    
+ XL qx_out[g8,R2,smooth]  R576    
+ XL qx_out[g8,R3,smooth]  R577    
+ XL qx_out[g8,R4,smooth]  R578    
+ XL qx_out[g8,R5,smooth]  R579    
+ XL qx_out[g8,R6,smooth]  R580    
+ XL qx_out[g8,R7,smooth]  R581    
+ XL qx_out[g9,R1,smooth]  R582    
+ XL qx_out[g9,R2,smooth]  R583    
+ XL qx_out[g9,R3,smooth]  R584    
+ XL qx_out[g9,R4,smooth]  R585    
+ XL qx_out[g9,R5,smooth]  R586    
+ XL qx_out[g9,R6,smooth]  R587    
+ XL qx_out[g9,R7,smooth]  R588    
+ XL qx_out[g10,R1,smooth]  R589    
+ XL qx_out[g10,R2,smooth]  R590    
+ XL qx_out[g10,R3,smooth]  R591    
+ XL qx_out[g10,R4,smooth]  R592    
+ XL qx_out[g10,R5,smooth]  R593    
+ XL qx_out[g10,R6,smooth]  R594    
+ XL qx_out[g10,R7,smooth]  R595    
+ XL qx_out[g11,R1,smooth]  R596    
+ XL qx_out[g11,R2,smooth]  R597    
+ XL qx_out[g11,R3,smooth]  R598    
+ XL qx_out[g11,R4,smooth]  R599    
+ XL qx_out[g11,R5,smooth]  R600    
+ XL qx_out[g11,R6,smooth]  R601    
+ XL qx_out[g11,R7,smooth]  R602    
+ XL qx_out[g12,R1,smooth]  R603    
+ XL qx_out[g12,R2,smooth]  R604    
+ XL qx_out[g12,R3,smooth]  R605    
+ XL qx_out[g12,R4,smooth]  R606    
+ XL qx_out[g12,R5,smooth]  R607    
+ XL qx_out[g12,R6,smooth]  R608    
+ XL qx_out[g12,R7,smooth]  R609    
+ XL qx_out[g13,R1,smooth]  R610    
+ XL qx_out[g13,R2,smooth]  R611    
+ XL qx_out[g13,R3,smooth]  R612    
+ XL qx_out[g13,R4,smooth]  R613    
+ XL qx_out[g13,R5,smooth]  R614    
+ XL qx_out[g13,R6,smooth]  R615    
+ XL qx_out[g13,R7,smooth]  R616    
+ XL qx_out[g14,R1,smooth]  R617    
+ XL qx_out[g14,R2,smooth]  R618    
+ XL qx_out[g14,R3,smooth]  R619    
+ XL qx_out[g14,R4,smooth]  R620    
+ XL qx_out[g14,R5,smooth]  R621    
+ XL qx_out[g14,R6,smooth]  R622    
+ XL qx_out[g14,R7,smooth]  R623    
+ XL qx_out[g15,R1,smooth]  R624    
+ XL qx_out[g15,R2,smooth]  R625    
+ XL qx_out[g15,R3,smooth]  R626    
+ XL qx_out[g15,R4,smooth]  R627    
+ XL qx_out[g15,R5,smooth]  R628    
+ XL qx_out[g15,R6,smooth]  R629    
+ XL qx_out[g15,R7,smooth]  R630    
+ XL qx_out[g16,R1,smooth]  R631    
+ XL qx_out[g16,R2,smooth]  R632    
+ XL qx_out[g16,R3,smooth]  R633    
+ XL qx_out[g16,R4,smooth]  R634    
+ XL qx_out[g16,R5,smooth]  R635    
+ XL qx_out[g16,R6,smooth]  R636    
+ XL qx_out[g16,R7,smooth]  R637    
+ XL qx_out[g17,R1,smooth]  R638    
+ XL qx_out[g17,R2,smooth]  R639    
+ XL qx_out[g17,R3,smooth]  R640    
+ XL qx_out[g17,R4,smooth]  R641    
+ XL qx_out[g17,R5,smooth]  R642    
+ XL qx_out[g17,R6,smooth]  R643    
+ XL qx_out[g17,R7,smooth]  R644    
+ XL qx_out[g18,R1,smooth]  R645    
+ XL qx_out[g18,R2,smooth]  R646    
+ XL qx_out[g18,R3,smooth]  R647    
+ XL qx_out[g18,R4,smooth]  R648    
+ XL qx_out[g18,R5,smooth]  R649    
+ XL qx_out[g18,R6,smooth]  R650    
+ XL qx_out[g18,R7,smooth]  R651    
+ XL qx_out[g19,R1,smooth]  R652    
+ XL qx_out[g19,R2,smooth]  R653    
+ XL qx_out[g19,R3,smooth]  R654    
+ XL qx_out[g19,R4,smooth]  R655    
+ XL qx_out[g19,R5,smooth]  R656    
+ XL qx_out[g19,R6,smooth]  R657    
+ XL qx_out[g19,R7,smooth]  R658    
+ XL qx_out[g20,R1,smooth]  R659    
+ XL qx_out[g20,R2,smooth]  R660    
+ XL qx_out[g20,R3,smooth]  R661    
+ XL qx_out[g20,R4,smooth]  R662    
+ XL qx_out[g20,R5,smooth]  R663    
+ XL qx_out[g20,R6,smooth]  R664    
+ XL qx_out[g20,R7,smooth]  R665    
+ XL qx_out[g21,R1,smooth]  R666    
+ XL qx_out[g21,R2,smooth]  R667    
+ XL qx_out[g21,R3,smooth]  R668    
+ XL qx_out[g21,R4,smooth]  R669    
+ XL qx_out[g21,R5,smooth]  R670    
+ XL qx_out[g21,R6,smooth]  R671    
+ XL qx_out[g21,R7,smooth]  R672    
+ XL qx_out[g22,R1,smooth]  R673    
+ XL qx_out[g22,R2,smooth]  R674    
+ XL qx_out[g22,R3,smooth]  R675    
+ XL qx_out[g22,R4,smooth]  R676    
+ XL qx_out[g22,R5,smooth]  R677    
+ XL qx_out[g22,R6,smooth]  R678    
+ XL qx_out[g22,R7,smooth]  R679    
+ XL qx_out[g23,R1,smooth]  R680    
+ XL qx_out[g23,R2,smooth]  R681    
+ XL qx_out[g23,R3,smooth]  R682    
+ XL qx_out[g23,R4,smooth]  R683    
+ XL qx_out[g23,R5,smooth]  R684    
+ XL qx_out[g23,R6,smooth]  R685    
+ XL qx_out[g23,R7,smooth]  R686    
+ XL qx_out[g24,R1,smooth]  R687    
+ XL qx_out[g24,R2,smooth]  R688    
+ XL qx_out[g24,R3,smooth]  R689    
+ XL qx_out[g24,R4,smooth]  R690    
+ XL qx_out[g24,R5,smooth]  R691    
+ XL qx_out[g24,R6,smooth]  R692    
+ XL qx_out[g24,R7,smooth]  R693    
+ XL qx_out[g25,R1,smooth]  R694    
+ XL qx_out[g25,R2,smooth]  R695    
+ XL qx_out[g25,R3,smooth]  R696    
+ XL qx_out[g25,R4,smooth]  R697    
+ XL qx_out[g25,R5,smooth]  R698    
+ XL qx_out[g25,R6,smooth]  R699    
+ XL qx_out[g25,R7,smooth]  R700    
+ XL qx_out[g26,R1,smooth]  R701    
+ XL qx_out[g26,R2,smooth]  R702    
+ XL qx_out[g26,R3,smooth]  R703    
+ XL qx_out[g26,R4,smooth]  R704    
+ XL qx_out[g26,R5,smooth]  R705    
+ XL qx_out[g26,R6,smooth]  R706    
+ XL qx_out[g26,R7,smooth]  R707    
+ XL qx_out[g27,R1,smooth]  R708    
+ XL qx_out[g27,R2,smooth]  R709    
+ XL qx_out[g27,R3,smooth]  R710    
+ XL qx_out[g27,R4,smooth]  R711    
+ XL qx_out[g27,R5,smooth]  R712    
+ XL qx_out[g27,R6,smooth]  R713    
+ XL qx_out[g27,R7,smooth]  R714    
+ XL qx_out[g28,R1,smooth]  R715    
+ XL qx_out[g28,R2,smooth]  R716    
+ XL qx_out[g28,R3,smooth]  R717    
+ XL qx_out[g28,R4,smooth]  R718    
+ XL qx_out[g28,R5,smooth]  R719    
+ XL qx_out[g28,R6,smooth]  R720    
+ XL qx_out[g28,R7,smooth]  R721    
+ XL qx_out[g29,R1,smooth]  R722    
+ XL qx_out[g29,R2,smooth]  R723    
+ XL qx_out[g29,R3,smooth]  R724    
+ XL qx_out[g29,R4,smooth]  R725    
+ XL qx_out[g29,R5,smooth]  R726    
+ XL qx_out[g29,R6,smooth]  R727    
+ XL qx_out[g29,R7,smooth]  R728    
+ XL qx_out[g30,R1,smooth]  R729    
+ XL qx_out[g30,R2,smooth]  R730    
+ XL qx_out[g30,R3,smooth]  R731    
+ XL qx_out[g30,R4,smooth]  R732    
+ XL qx_out[g30,R5,smooth]  R733    
+ XL qx_out[g30,R6,smooth]  R734    
+ XL qx_out[g30,R7,smooth]  R735    
+ XL qx_out[g31,R1,smooth]  R736    
+ XL qx_out[g31,R2,smooth]  R737    
+ XL qx_out[g31,R3,smooth]  R738    
+ XL qx_out[g31,R4,smooth]  R739    
+ XL qx_out[g31,R5,smooth]  R740    
+ XL qx_out[g31,R6,smooth]  R741    
+ XL qx_out[g31,R7,smooth]  R742    
+ XL qx_out[g32,R1,smooth]  R743    
+ XL qx_out[g32,R2,smooth]  R744    
+ XL qx_out[g32,R3,smooth]  R745    
+ XL qx_out[g32,R4,smooth]  R746    
+ XL qx_out[g32,R5,smooth]  R747    
+ XL qx_out[g32,R6,smooth]  R748    
+ XL qx_out[g32,R7,smooth]  R749    
+ XL qx_out[g33,R1,smooth]  R750    
+ XL qx_out[g33,R2,smooth]  R751    
+ XL qx_out[g33,R3,smooth]  R752    
+ XL qx_out[g33,R4,smooth]  R753    
+ XL qx_out[g33,R5,smooth]  R754    
+ XL qx_out[g33,R6,smooth]  R755    
+ XL qx_out[g33,R7,smooth]  R756    
+ XL qy_in[g1,D1,smooth]  R757    
+ XL qy_in[g1,D2,smooth]  R758    
+ XL qy_in[g1,D3,smooth]  R759    
+ XL qy_in[g1,D4,smooth]  R760    
+ XL qy_in[g1,D5,smooth]  R761    
+ XL qy_in[g2,D1,smooth]  R762    
+ XL qy_in[g2,D2,smooth]  R763    
+ XL qy_in[g2,D3,smooth]  R764    
+ XL qy_in[g2,D4,smooth]  R765    
+ XL qy_in[g2,D5,smooth]  R766    
+ XL qy_in[g3,D1,smooth]  R767    
+ XL qy_in[g3,D2,smooth]  R768    
+ XL qy_in[g3,D3,smooth]  R769    
+ XL qy_in[g3,D4,smooth]  R770    
+ XL qy_in[g3,D5,smooth]  R771    
+ XL qy_in[g4,D1,smooth]  R772    
+ XL qy_in[g4,D2,smooth]  R773    
+ XL qy_in[g4,D3,smooth]  R774    
+ XL qy_in[g4,D4,smooth]  R775    
+ XL qy_in[g4,D5,smooth]  R776    
+ XL qy_in[g5,D1,smooth]  R777    
+ XL qy_in[g5,D2,smooth]  R778    
+ XL qy_in[g5,D3,smooth]  R779    
+ XL qy_in[g5,D4,smooth]  R780    
+ XL qy_in[g5,D5,smooth]  R781    
+ XL qy_in[g6,D1,smooth]  R782    
+ XL qy_in[g6,D2,smooth]  R783    
+ XL qy_in[g6,D3,smooth]  R784    
+ XL qy_in[g6,D4,smooth]  R785    
+ XL qy_in[g6,D5,smooth]  R786    
+ XL qy_in[g7,D1,smooth]  R787    
+ XL qy_in[g7,D2,smooth]  R788    
+ XL qy_in[g7,D3,smooth]  R789    
+ XL qy_in[g7,D4,smooth]  R790    
+ XL qy_in[g7,D5,smooth]  R791    
+ XL qy_in[g8,D1,smooth]  R792    
+ XL qy_in[g8,D2,smooth]  R793    
+ XL qy_in[g8,D3,smooth]  R794    
+ XL qy_in[g8,D4,smooth]  R795    
+ XL qy_in[g8,D5,smooth]  R796    
+ XL qy_in[g9,D1,smooth]  R797    
+ XL qy_in[g9,D2,smooth]  R798    
+ XL qy_in[g9,D3,smooth]  R799    
+ XL qy_in[g9,D4,smooth]  R800    
+ XL qy_in[g9,D5,smooth]  R801    
+ XL qy_in[g10,D1,smooth]  R802    
+ XL qy_in[g10,D2,smooth]  R803    
+ XL qy_in[g10,D3,smooth]  R804    
+ XL qy_in[g10,D4,smooth]  R805    
+ XL qy_in[g10,D5,smooth]  R806    
+ XL qy_in[g11,D1,smooth]  R807    
+ XL qy_in[g11,D2,smooth]  R808    
+ XL qy_in[g11,D3,smooth]  R809    
+ XL qy_in[g11,D4,smooth]  R810    
+ XL qy_in[g11,D5,smooth]  R811    
+ XL qy_in[g12,D1,smooth]  R812    
+ XL qy_in[g12,D2,smooth]  R813    
+ XL qy_in[g12,D3,smooth]  R814    
+ XL qy_in[g12,D4,smooth]  R815    
+ XL qy_in[g12,D5,smooth]  R816    
+ XL qy_in[g13,D1,smooth]  R817    
+ XL qy_in[g13,D2,smooth]  R818    
+ XL qy_in[g13,D3,smooth]  R819    
+ XL qy_in[g13,D4,smooth]  R820    
+ XL qy_in[g13,D5,smooth]  R821    
+ XL qy_in[g14,D1,smooth]  R822    
+ XL qy_in[g14,D2,smooth]  R823    
+ XL qy_in[g14,D3,smooth]  R824    
+ XL qy_in[g14,D4,smooth]  R825    
+ XL qy_in[g14,D5,smooth]  R826    
+ XL qy_in[g15,D1,smooth]  R827    
+ XL qy_in[g15,D2,smooth]  R828    
+ XL qy_in[g15,D3,smooth]  R829    
+ XL qy_in[g15,D4,smooth]  R830    
+ XL qy_in[g15,D5,smooth]  R831    
+ XL qy_in[g16,D1,smooth]  R832    
+ XL qy_in[g16,D2,smooth]  R833    
+ XL qy_in[g16,D3,smooth]  R834    
+ XL qy_in[g16,D4,smooth]  R835    
+ XL qy_in[g16,D5,smooth]  R836    
+ XL qy_in[g17,D1,smooth]  R837    
+ XL qy_in[g17,D2,smooth]  R838    
+ XL qy_in[g17,D3,smooth]  R839    
+ XL qy_in[g17,D4,smooth]  R840    
+ XL qy_in[g17,D5,smooth]  R841    
+ XL qy_in[g18,D1,smooth]  R842    
+ XL qy_in[g18,D2,smooth]  R843    
+ XL qy_in[g18,D3,smooth]  R844    
+ XL qy_in[g18,D4,smooth]  R845    
+ XL qy_in[g18,D5,smooth]  R846    
+ XL qy_in[g19,D1,smooth]  R847    
+ XL qy_in[g19,D2,smooth]  R848    
+ XL qy_in[g19,D3,smooth]  R849    
+ XL qy_in[g19,D4,smooth]  R850    
+ XL qy_in[g19,D5,smooth]  R851    
+ XL qy_in[g20,D1,smooth]  R852    
+ XL qy_in[g20,D2,smooth]  R853    
+ XL qy_in[g20,D3,smooth]  R854    
+ XL qy_in[g20,D4,smooth]  R855    
+ XL qy_in[g20,D5,smooth]  R856    
+ XL qy_in[g21,D1,smooth]  R857    
+ XL qy_in[g21,D2,smooth]  R858    
+ XL qy_in[g21,D3,smooth]  R859    
+ XL qy_in[g21,D4,smooth]  R860    
+ XL qy_in[g21,D5,smooth]  R861    
+ XL qy_in[g22,D1,smooth]  R862    
+ XL qy_in[g22,D2,smooth]  R863    
+ XL qy_in[g22,D3,smooth]  R864    
+ XL qy_in[g22,D4,smooth]  R865    
+ XL qy_in[g22,D5,smooth]  R866    
+ XL qy_in[g23,D1,smooth]  R867    
+ XL qy_in[g23,D2,smooth]  R868    
+ XL qy_in[g23,D3,smooth]  R869    
+ XL qy_in[g23,D4,smooth]  R870    
+ XL qy_in[g23,D5,smooth]  R871    
+ XL qy_in[g24,D1,smooth]  R872    
+ XL qy_in[g24,D2,smooth]  R873    
+ XL qy_in[g24,D3,smooth]  R874    
+ XL qy_in[g24,D4,smooth]  R875    
+ XL qy_in[g24,D5,smooth]  R876    
+ XL qy_in[g25,D1,smooth]  R877    
+ XL qy_in[g25,D2,smooth]  R878    
+ XL qy_in[g25,D3,smooth]  R879    
+ XL qy_in[g25,D4,smooth]  R880    
+ XL qy_in[g25,D5,smooth]  R881    
+ XL qy_in[g26,D1,smooth]  R882    
+ XL qy_in[g26,D2,smooth]  R883    
+ XL qy_in[g26,D3,smooth]  R884    
+ XL qy_in[g26,D4,smooth]  R885    
+ XL qy_in[g26,D5,smooth]  R886    
+ XL qy_in[g27,D1,smooth]  R887    
+ XL qy_in[g27,D2,smooth]  R888    
+ XL qy_in[g27,D3,smooth]  R889    
+ XL qy_in[g27,D4,smooth]  R890    
+ XL qy_in[g27,D5,smooth]  R891    
+ XL qy_in[g28,D1,smooth]  R892    
+ XL qy_in[g28,D2,smooth]  R893    
+ XL qy_in[g28,D3,smooth]  R894    
+ XL qy_in[g28,D4,smooth]  R895    
+ XL qy_in[g28,D5,smooth]  R896    
+ XL qy_in[g29,D1,smooth]  R897    
+ XL qy_in[g29,D2,smooth]  R898    
+ XL qy_in[g29,D3,smooth]  R899    
+ XL qy_in[g29,D4,smooth]  R900    
+ XL qy_in[g29,D5,smooth]  R901    
+ XL qy_in[g30,D1,smooth]  R902    
+ XL qy_in[g30,D2,smooth]  R903    
+ XL qy_in[g30,D3,smooth]  R904    
+ XL qy_in[g30,D4,smooth]  R905    
+ XL qy_in[g30,D5,smooth]  R906    
+ XL qy_in[g31,D1,smooth]  R907    
+ XL qy_in[g31,D2,smooth]  R908    
+ XL qy_in[g31,D3,smooth]  R909    
+ XL qy_in[g31,D4,smooth]  R910    
+ XL qy_in[g31,D5,smooth]  R911    
+ XL qy_in[g32,D1,smooth]  R912    
+ XL qy_in[g32,D2,smooth]  R913    
+ XL qy_in[g32,D3,smooth]  R914    
+ XL qy_in[g32,D4,smooth]  R915    
+ XL qy_in[g32,D5,smooth]  R916    
+ XL qy_in[g33,D1,smooth]  R917    
+ XL qy_in[g33,D2,smooth]  R918    
+ XL qy_in[g33,D3,smooth]  R919    
+ XL qy_in[g33,D4,smooth]  R920    
+ XL qy_in[g33,D5,smooth]  R921    
+ XL qy_out[g1,D1,smooth]  R922    
+ XL qy_out[g1,D2,smooth]  R923    
+ XL qy_out[g1,D3,smooth]  R924    
+ XL qy_out[g1,D4,smooth]  R925    
+ XL qy_out[g1,D5,smooth]  R926    
+ XL qy_out[g2,D1,smooth]  R927    
+ XL qy_out[g2,D2,smooth]  R928    
+ XL qy_out[g2,D3,smooth]  R929    
+ XL qy_out[g2,D4,smooth]  R930    
+ XL qy_out[g2,D5,smooth]  R931    
+ XL qy_out[g3,D1,smooth]  R932    
+ XL qy_out[g3,D2,smooth]  R933    
+ XL qy_out[g3,D3,smooth]  R934    
+ XL qy_out[g3,D4,smooth]  R935    
+ XL qy_out[g3,D5,smooth]  R936    
+ XL qy_out[g4,D1,smooth]  R937    
+ XL qy_out[g4,D2,smooth]  R938    
+ XL qy_out[g4,D3,smooth]  R939    
+ XL qy_out[g4,D4,smooth]  R940    
+ XL qy_out[g4,D5,smooth]  R941    
+ XL qy_out[g5,D1,smooth]  R942    
+ XL qy_out[g5,D2,smooth]  R943    
+ XL qy_out[g5,D3,smooth]  R944    
+ XL qy_out[g5,D4,smooth]  R945    
+ XL qy_out[g5,D5,smooth]  R946    
+ XL qy_out[g6,D1,smooth]  R947    
+ XL qy_out[g6,D2,smooth]  R948    
+ XL qy_out[g6,D3,smooth]  R949    
+ XL qy_out[g6,D4,smooth]  R950    
+ XL qy_out[g6,D5,smooth]  R951    
+ XL qy_out[g7,D1,smooth]  R952    
+ XL qy_out[g7,D2,smooth]  R953    
+ XL qy_out[g7,D3,smooth]  R954    
+ XL qy_out[g7,D4,smooth]  R955    
+ XL qy_out[g7,D5,smooth]  R956    
+ XL qy_out[g8,D1,smooth]  R957    
+ XL qy_out[g8,D2,smooth]  R958    
+ XL qy_out[g8,D3,smooth]  R959    
+ XL qy_out[g8,D4,smooth]  R960    
+ XL qy_out[g8,D5,smooth]  R961    
+ XL qy_out[g9,D1,smooth]  R962    
+ XL qy_out[g9,D2,smooth]  R963    
+ XL qy_out[g9,D3,smooth]  R964    
+ XL qy_out[g9,D4,smooth]  R965    
+ XL qy_out[g9,D5,smooth]  R966    
+ XL qy_out[g10,D1,smooth]  R967    
+ XL qy_out[g10,D2,smooth]  R968    
+ XL qy_out[g10,D3,smooth]  R969    
+ XL qy_out[g10,D4,smooth]  R970    
+ XL qy_out[g10,D5,smooth]  R971    
+ XL qy_out[g11,D1,smooth]  R972    
+ XL qy_out[g11,D2,smooth]  R973    
+ XL qy_out[g11,D3,smooth]  R974    
+ XL qy_out[g11,D4,smooth]  R975    
+ XL qy_out[g11,D5,smooth]  R976    
+ XL qy_out[g12,D1,smooth]  R977    
+ XL qy_out[g12,D2,smooth]  R978    
+ XL qy_out[g12,D3,smooth]  R979    
+ XL qy_out[g12,D4,smooth]  R980    
+ XL qy_out[g12,D5,smooth]  R981    
+ XL qy_out[g13,D1,smooth]  R982    
+ XL qy_out[g13,D2,smooth]  R983    
+ XL qy_out[g13,D3,smooth]  R984    
+ XL qy_out[g13,D4,smooth]  R985    
+ XL qy_out[g13,D5,smooth]  R986    
+ XL qy_out[g14,D1,smooth]  R987    
+ XL qy_out[g14,D2,smooth]  R988    
+ XL qy_out[g14,D3,smooth]  R989    
+ XL qy_out[g14,D4,smooth]  R990    
+ XL qy_out[g14,D5,smooth]  R991    
+ XL qy_out[g15,D1,smooth]  R992    
+ XL qy_out[g15,D2,smooth]  R993    
+ XL qy_out[g15,D3,smooth]  R994    
+ XL qy_out[g15,D4,smooth]  R995    
+ XL qy_out[g15,D5,smooth]  R996    
+ XL qy_out[g16,D1,smooth]  R997    
+ XL qy_out[g16,D2,smooth]  R998    
+ XL qy_out[g16,D3,smooth]  R999    
+ XL qy_out[g16,D4,smooth]  R1000   
+ XL qy_out[g16,D5,smooth]  R1001   
+ XL qy_out[g17,D1,smooth]  R1002   
+ XL qy_out[g17,D2,smooth]  R1003   
+ XL qy_out[g17,D3,smooth]  R1004   
+ XL qy_out[g17,D4,smooth]  R1005   
+ XL qy_out[g17,D5,smooth]  R1006   
+ XL qy_out[g18,D1,smooth]  R1007   
+ XL qy_out[g18,D2,smooth]  R1008   
+ XL qy_out[g18,D3,smooth]  R1009   
+ XL qy_out[g18,D4,smooth]  R1010   
+ XL qy_out[g18,D5,smooth]  R1011   
+ XL qy_out[g19,D1,smooth]  R1012   
+ XL qy_out[g19,D2,smooth]  R1013   
+ XL qy_out[g19,D3,smooth]  R1014   
+ XL qy_out[g19,D4,smooth]  R1015   
+ XL qy_out[g19,D5,smooth]  R1016   
+ XL qy_out[g20,D1,smooth]  R1017   
+ XL qy_out[g20,D2,smooth]  R1018   
+ XL qy_out[g20,D3,smooth]  R1019   
+ XL qy_out[g20,D4,smooth]  R1020   
+ XL qy_out[g20,D5,smooth]  R1021   
+ XL qy_out[g21,D1,smooth]  R1022   
+ XL qy_out[g21,D2,smooth]  R1023   
+ XL qy_out[g21,D3,smooth]  R1024   
+ XL qy_out[g21,D4,smooth]  R1025   
+ XL qy_out[g21,D5,smooth]  R1026   
+ XL qy_out[g22,D1,smooth]  R1027   
+ XL qy_out[g22,D2,smooth]  R1028   
+ XL qy_out[g22,D3,smooth]  R1029   
+ XL qy_out[g22,D4,smooth]  R1030   
+ XL qy_out[g22,D5,smooth]  R1031   
+ XL qy_out[g23,D1,smooth]  R1032   
+ XL qy_out[g23,D2,smooth]  R1033   
+ XL qy_out[g23,D3,smooth]  R1034   
+ XL qy_out[g23,D4,smooth]  R1035   
+ XL qy_out[g23,D5,smooth]  R1036   
+ XL qy_out[g24,D1,smooth]  R1037   
+ XL qy_out[g24,D2,smooth]  R1038   
+ XL qy_out[g24,D3,smooth]  R1039   
+ XL qy_out[g24,D4,smooth]  R1040   
+ XL qy_out[g24,D5,smooth]  R1041   
+ XL qy_out[g25,D1,smooth]  R1042   
+ XL qy_out[g25,D2,smooth]  R1043   
+ XL qy_out[g25,D3,smooth]  R1044   
+ XL qy_out[g25,D4,smooth]  R1045   
+ XL qy_out[g25,D5,smooth]  R1046   
+ XL qy_out[g26,D1,smooth]  R1047   
+ XL qy_out[g26,D2,smooth]  R1048   
+ XL qy_out[g26,D3,smooth]  R1049   
+ XL qy_out[g26,D4,smooth]  R1050   
+ XL qy_out[g26,D5,smooth]  R1051   
+ XL qy_out[g27,D1,smooth]  R1052   
+ XL qy_out[g27,D2,smooth]  R1053   
+ XL qy_out[g27,D3,smooth]  R1054   
+ XL qy_out[g27,D4,smooth]  R1055   
+ XL qy_out[g27,D5,smooth]  R1056   
+ XL qy_out[g28,D1,smooth]  R1057   
+ XL qy_out[g28,D2,smooth]  R1058   
+ XL qy_out[g28,D3,smooth]  R1059   
+ XL qy_out[g28,D4,smooth]  R1060   
+ XL qy_out[g28,D5,smooth]  R1061   
+ XL qy_out[g29,D1,smooth]  R1062   
+ XL qy_out[g29,D2,smooth]  R1063   
+ XL qy_out[g29,D3,smooth]  R1064   
+ XL qy_out[g29,D4,smooth]  R1065   
+ XL qy_out[g29,D5,smooth]  R1066   
+ XL qy_out[g30,D1,smooth]  R1067   
+ XL qy_out[g30,D2,smooth]  R1068   
+ XL qy_out[g30,D3,smooth]  R1069   
+ XL qy_out[g30,D4,smooth]  R1070   
+ XL qy_out[g30,D5,smooth]  R1071   
+ XL qy_out[g31,D1,smooth]  R1072   
+ XL qy_out[g31,D2,smooth]  R1073   
+ XL qy_out[g31,D3,smooth]  R1074   
+ XL qy_out[g31,D4,smooth]  R1075   
+ XL qy_out[g31,D5,smooth]  R1076   
+ XL qy_out[g32,D1,smooth]  R1077   
+ XL qy_out[g32,D2,smooth]  R1078   
+ XL qy_out[g32,D3,smooth]  R1079   
+ XL qy_out[g32,D4,smooth]  R1080   
+ XL qy_out[g32,D5,smooth]  R1081   
+ XL qy_out[g33,D1,smooth]  R1082   
+ XL qy_out[g33,D2,smooth]  R1083   
+ XL qy_out[g33,D3,smooth]  R1084   
+ XL qy_out[g33,D4,smooth]  R1085   
+ XL qy_out[g33,D5,smooth]  R1086   
+ XL qz_in[g1,T1,smooth]  R1087   
+ XL qz_in[g1,T2,smooth]  R1088   
+ XL qz_in[g1,T5,smooth]  R1089   
+ XL qz_in[g2,T1,smooth]  R1090   
+ XL qz_in[g2,T2,smooth]  R1091   
+ XL qz_in[g2,T5,smooth]  R1092   
+ XL qz_in[g3,T1,smooth]  R1093   
+ XL qz_in[g3,T2,smooth]  R1094   
+ XL qz_in[g3,T5,smooth]  R1095   
+ XL qz_in[g4,T1,smooth]  R1096   
+ XL qz_in[g4,T2,smooth]  R1097   
+ XL qz_in[g4,T5,smooth]  R1098   
+ XL qz_in[g5,T1,smooth]  R1099   
+ XL qz_in[g5,T2,smooth]  R1100   
+ XL qz_in[g5,T5,smooth]  R1101   
+ XL qz_in[g6,T1,smooth]  R1102   
+ XL qz_in[g6,T2,smooth]  R1103   
+ XL qz_in[g6,T5,smooth]  R1104   
+ XL qz_in[g7,T1,smooth]  R1105   
+ XL qz_in[g7,T2,smooth]  R1106   
+ XL qz_in[g7,T5,smooth]  R1107   
+ XL qz_in[g8,T1,smooth]  R1108   
+ XL qz_in[g8,T2,smooth]  R1109   
+ XL qz_in[g8,T5,smooth]  R1110   
+ XL qz_in[g9,T1,smooth]  R1111   
+ XL qz_in[g9,T2,smooth]  R1112   
+ XL qz_in[g9,T5,smooth]  R1113   
+ XL qz_in[g10,T1,smooth]  R1114   
+ XL qz_in[g10,T2,smooth]  R1115   
+ XL qz_in[g10,T5,smooth]  R1116   
+ XL qz_in[g11,T1,smooth]  R1117   
+ XL qz_in[g11,T2,smooth]  R1118   
+ XL qz_in[g11,T5,smooth]  R1119   
+ XL qz_in[g12,T1,smooth]  R1120   
+ XL qz_in[g12,T2,smooth]  R1121   
+ XL qz_in[g12,T5,smooth]  R1122   
+ XL qz_in[g13,T1,smooth]  R1123   
+ XL qz_in[g13,T2,smooth]  R1124   
+ XL qz_in[g13,T5,smooth]  R1125   
+ XL qz_in[g14,T1,smooth]  R1126   
+ XL qz_in[g14,T2,smooth]  R1127   
+ XL qz_in[g14,T5,smooth]  R1128   
+ XL qz_in[g15,T1,smooth]  R1129   
+ XL qz_in[g15,T2,smooth]  R1130   
+ XL qz_in[g15,T5,smooth]  R1131   
+ XL qz_in[g16,T1,smooth]  R1132   
+ XL qz_in[g16,T2,smooth]  R1133   
+ XL qz_in[g16,T5,smooth]  R1134   
+ XL qz_in[g17,T1,smooth]  R1135   
+ XL qz_in[g17,T2,smooth]  R1136   
+ XL qz_in[g17,T5,smooth]  R1137   
+ XL qz_in[g18,T1,smooth]  R1138   
+ XL qz_in[g18,T2,smooth]  R1139   
+ XL qz_in[g18,T5,smooth]  R1140   
+ XL qz_in[g19,T1,smooth]  R1141   
+ XL qz_in[g19,T2,smooth]  R1142   
+ XL qz_in[g19,T5,smooth]  R1143   
+ XL qz_in[g20,T1,smooth]  R1144   
+ XL qz_in[g20,T2,smooth]  R1145   
+ XL qz_in[g20,T5,smooth]  R1146   
+ XL qz_in[g21,T1,smooth]  R1147   
+ XL qz_in[g21,T2,smooth]  R1148   
+ XL qz_in[g21,T5,smooth]  R1149   
+ XL qz_in[g22,T1,smooth]  R1150   
+ XL qz_in[g22,T2,smooth]  R1151   
+ XL qz_in[g22,T5,smooth]  R1152   
+ XL qz_in[g23,T1,smooth]  R1153   
+ XL qz_in[g23,T2,smooth]  R1154   
+ XL qz_in[g23,T5,smooth]  R1155   
+ XL qz_in[g24,T1,smooth]  R1156   
+ XL qz_in[g24,T2,smooth]  R1157   
+ XL qz_in[g24,T5,smooth]  R1158   
+ XL qz_in[g25,T1,smooth]  R1159   
+ XL qz_in[g25,T2,smooth]  R1160   
+ XL qz_in[g25,T5,smooth]  R1161   
+ XL qz_in[g26,T1,smooth]  R1162   
+ XL qz_in[g26,T2,smooth]  R1163   
+ XL qz_in[g26,T5,smooth]  R1164   
+ XL qz_in[g27,T1,smooth]  R1165   
+ XL qz_in[g27,T2,smooth]  R1166   
+ XL qz_in[g27,T5,smooth]  R1167   
+ XL qz_in[g28,T1,smooth]  R1168   
+ XL qz_in[g28,T2,smooth]  R1169   
+ XL qz_in[g28,T5,smooth]  R1170   
+ XL qz_in[g29,T1,smooth]  R1171   
+ XL qz_in[g29,T2,smooth]  R1172   
+ XL qz_in[g29,T5,smooth]  R1173   
+ XL qz_in[g30,T1,smooth]  R1174   
+ XL qz_in[g30,T2,smooth]  R1175   
+ XL qz_in[g30,T5,smooth]  R1176   
+ XL qz_in[g31,T1,smooth]  R1177   
+ XL qz_in[g31,T2,smooth]  R1178   
+ XL qz_in[g31,T5,smooth]  R1179   
+ XL qz_in[g32,T1,smooth]  R1180   
+ XL qz_in[g32,T2,smooth]  R1181   
+ XL qz_in[g32,T5,smooth]  R1182   
+ XL qz_in[g33,T1,smooth]  R1183   
+ XL qz_in[g33,T2,smooth]  R1184   
+ XL qz_in[g33,T5,smooth]  R1185   
+ XL qz_out[g1,T1,smooth]  R1186   
+ XL qz_out[g1,T2,smooth]  R1187   
+ XL qz_out[g1,T5,smooth]  R1188   
+ XL qz_out[g2,T1,smooth]  R1189   
+ XL qz_out[g2,T2,smooth]  R1190   
+ XL qz_out[g2,T5,smooth]  R1191   
+ XL qz_out[g3,T1,smooth]  R1192   
+ XL qz_out[g3,T2,smooth]  R1193   
+ XL qz_out[g3,T5,smooth]  R1194   
+ XL qz_out[g4,T1,smooth]  R1195   
+ XL qz_out[g4,T2,smooth]  R1196   
+ XL qz_out[g4,T5,smooth]  R1197   
+ XL qz_out[g5,T1,smooth]  R1198   
+ XL qz_out[g5,T2,smooth]  R1199   
+ XL qz_out[g5,T5,smooth]  R1200   
+ XL qz_out[g6,T1,smooth]  R1201   
+ XL qz_out[g6,T2,smooth]  R1202   
+ XL qz_out[g6,T5,smooth]  R1203   
+ XL qz_out[g7,T1,smooth]  R1204   
+ XL qz_out[g7,T2,smooth]  R1205   
+ XL qz_out[g7,T5,smooth]  R1206   
+ XL qz_out[g8,T1,smooth]  R1207   
+ XL qz_out[g8,T2,smooth]  R1208   
+ XL qz_out[g8,T5,smooth]  R1209   
+ XL qz_out[g9,T1,smooth]  R1210   
+ XL qz_out[g9,T2,smooth]  R1211   
+ XL qz_out[g9,T5,smooth]  R1212   
+ XL qz_out[g10,T1,smooth]  R1213   
+ XL qz_out[g10,T2,smooth]  R1214   
+ XL qz_out[g10,T5,smooth]  R1215   
+ XL qz_out[g11,T1,smooth]  R1216   
+ XL qz_out[g11,T2,smooth]  R1217   
+ XL qz_out[g11,T5,smooth]  R1218   
+ XL qz_out[g12,T1,smooth]  R1219   
+ XL qz_out[g12,T2,smooth]  R1220   
+ XL qz_out[g12,T5,smooth]  R1221   
+ XL qz_out[g13,T1,smooth]  R1222   
+ XL qz_out[g13,T2,smooth]  R1223   
+ XL qz_out[g13,T5,smooth]  R1224   
+ XL qz_out[g14,T1,smooth]  R1225   
+ XL qz_out[g14,T2,smooth]  R1226   
+ XL qz_out[g14,T5,smooth]  R1227   
+ XL qz_out[g15,T1,smooth]  R1228   
+ XL qz_out[g15,T2,smooth]  R1229   
+ XL qz_out[g15,T5,smooth]  R1230   
+ XL qz_out[g16,T1,smooth]  R1231   
+ XL qz_out[g16,T2,smooth]  R1232   
+ XL qz_out[g16,T5,smooth]  R1233   
+ XL qz_out[g17,T1,smooth]  R1234   
+ XL qz_out[g17,T2,smooth]  R1235   
+ XL qz_out[g17,T5,smooth]  R1236   
+ XL qz_out[g18,T1,smooth]  R1237   
+ XL qz_out[g18,T2,smooth]  R1238   
+ XL qz_out[g18,T5,smooth]  R1239   
+ XL qz_out[g19,T1,smooth]  R1240   
+ XL qz_out[g19,T2,smooth]  R1241   
+ XL qz_out[g19,T5,smooth]  R1242   
+ XL qz_out[g20,T1,smooth]  R1243   
+ XL qz_out[g20,T2,smooth]  R1244   
+ XL qz_out[g20,T5,smooth]  R1245   
+ XL qz_out[g21,T1,smooth]  R1246   
+ XL qz_out[g21,T2,smooth]  R1247   
+ XL qz_out[g21,T5,smooth]  R1248   
+ XL qz_out[g22,T1,smooth]  R1249   
+ XL qz_out[g22,T2,smooth]  R1250   
+ XL qz_out[g22,T5,smooth]  R1251   
+ XL qz_out[g23,T1,smooth]  R1252   
+ XL qz_out[g23,T2,smooth]  R1253   
+ XL qz_out[g23,T5,smooth]  R1254   
+ XL qz_out[g24,T1,smooth]  R1255   
+ XL qz_out[g24,T2,smooth]  R1256   
+ XL qz_out[g24,T5,smooth]  R1257   
+ XL qz_out[g25,T1,smooth]  R1258   
+ XL qz_out[g25,T2,smooth]  R1259   
+ XL qz_out[g25,T5,smooth]  R1260   
+ XL qz_out[g26,T1,smooth]  R1261   
+ XL qz_out[g26,T2,smooth]  R1262   
+ XL qz_out[g26,T5,smooth]  R1263   
+ XL qz_out[g27,T1,smooth]  R1264   
+ XL qz_out[g27,T2,smooth]  R1265   
+ XL qz_out[g27,T5,smooth]  R1266   
+ XL qz_out[g28,T1,smooth]  R1267   
+ XL qz_out[g28,T2,smooth]  R1268   
+ XL qz_out[g28,T5,smooth]  R1269   
+ XL qz_out[g29,T1,smooth]  R1270   
+ XL qz_out[g29,T2,smooth]  R1271   
+ XL qz_out[g29,T5,smooth]  R1272   
+ XL qz_out[g30,T1,smooth]  R1273   
+ XL qz_out[g30,T2,smooth]  R1274   
+ XL qz_out[g30,T5,smooth]  R1275   
+ XL qz_out[g31,T1,smooth]  R1276   
+ XL qz_out[g31,T2,smooth]  R1277   
+ XL qz_out[g31,T5,smooth]  R1278   
+ XL qz_out[g32,T1,smooth]  R1279   
+ XL qz_out[g32,T2,smooth]  R1280   
+ XL qz_out[g32,T5,smooth]  R1281   
+ XL qz_out[g33,T1,smooth]  R1282   
+ XL qz_out[g33,T2,smooth]  R1283   
+ XL qz_out[g33,T5,smooth]  R1284   
+ XL qn_in[T1,R1,smooth]  R1285   
+ XL qn_in[T1,R2,smooth]  R1286   
+ XL qn_in[T1,R3,smooth]  R1287   
+ XL qn_in[T1,R4,smooth]  R1288   
+ XL qn_in[T1,R5,smooth]  R1289   
+ XL qn_in[T1,R6,smooth]  R1290   
+ XL qn_in[T1,R7,smooth]  R1291   
+ XL qn_in[T2,R1,smooth]  R1292   
+ XL qn_in[T2,R2,smooth]  R1293   
+ XL qn_in[T2,R3,smooth]  R1294   
+ XL qn_in[T2,R4,smooth]  R1295   
+ XL qn_in[T2,R5,smooth]  R1296   
+ XL qn_in[T2,R6,smooth]  R1297   
+ XL qn_in[T2,R7,smooth]  R1298   
+ XL qn_in[T5,R1,smooth]  R1299   
+ XL qn_in[T5,R2,smooth]  R1300   
+ XL qn_in[T5,R3,smooth]  R1301   
+ XL qn_in[T5,R4,smooth]  R1302   
+ XL qn_in[T5,R5,smooth]  R1303   
+ XL qn_in[T5,R6,smooth]  R1304   
+ XL qn_in[T5,R7,smooth]  R1305   
+ XL qn_out[T1,R1,smooth]  R1306   
+ XL qn_out[T1,R2,smooth]  R1307   
+ XL qn_out[T1,R3,smooth]  R1308   
+ XL qn_out[T1,R4,smooth]  R1309   
+ XL qn_out[T1,R5,smooth]  R1310   
+ XL qn_out[T1,R6,smooth]  R1311   
+ XL qn_out[T1,R7,smooth]  R1312   
+ XL qn_out[T2,R1,smooth]  R1313   
+ XL qn_out[T2,R2,smooth]  R1314   
+ XL qn_out[T2,R3,smooth]  R1315   
+ XL qn_out[T2,R4,smooth]  R1316   
+ XL qn_out[T2,R5,smooth]  R1317   
+ XL qn_out[T2,R6,smooth]  R1318   
+ XL qn_out[T2,R7,smooth]  R1319   
+ XL qn_out[T5,R1,smooth]  R1320   
+ XL qn_out[T5,R2,smooth]  R1321   
+ XL qn_out[T5,R3,smooth]  R1322   
+ XL qn_out[T5,R4,smooth]  R1323   
+ XL qn_out[T5,R5,smooth]  R1324   
+ XL qn_out[T5,R6,smooth]  R1325   
+ XL qn_out[T5,R7,smooth]  R1326   
+ XL qm_in[T1,D1,smooth]  R1327   
+ XL qm_in[T1,D2,smooth]  R1328   
+ XL qm_in[T1,D3,smooth]  R1329   
+ XL qm_in[T1,D4,smooth]  R1330   
+ XL qm_in[T1,D5,smooth]  R1331   
+ XL qm_in[T2,D1,smooth]  R1332   
+ XL qm_in[T2,D2,smooth]  R1333   
+ XL qm_in[T2,D3,smooth]  R1334   
+ XL qm_in[T2,D4,smooth]  R1335   
+ XL qm_in[T2,D5,smooth]  R1336   
+ XL qm_in[T5,D1,smooth]  R1337   
+ XL qm_in[T5,D2,smooth]  R1338   
+ XL qm_in[T5,D3,smooth]  R1339   
+ XL qm_in[T5,D4,smooth]  R1340   
+ XL qm_in[T5,D5,smooth]  R1341   
+ XL qm_out[T1,D1,smooth]  R1342   
+ XL qm_out[T1,D2,smooth]  R1343   
+ XL qm_out[T1,D3,smooth]  R1344   
+ XL qm_out[T1,D4,smooth]  R1345   
+ XL qm_out[T1,D5,smooth]  R1346   
+ XL qm_out[T2,D1,smooth]  R1347   
+ XL qm_out[T2,D2,smooth]  R1348   
+ XL qm_out[T2,D3,smooth]  R1349   
+ XL qm_out[T2,D4,smooth]  R1350   
+ XL qm_out[T2,D5,smooth]  R1351   
+ XL qm_out[T5,D1,smooth]  R1352   
+ XL qm_out[T5,D2,smooth]  R1353   
+ XL qm_out[T5,D3,smooth]  R1354   
+ XL qm_out[T5,D4,smooth]  R1355   
+ XL qm_out[T5,D5,smooth]  R1356   
+ XL ql_in[R1,D1,smooth]  R1357   
+ XL ql_in[R1,D2,smooth]  R1358   
+ XL ql_in[R1,D3,smooth]  R1359   
+ XL ql_in[R1,D4,smooth]  R1360   
+ XL ql_in[R1,D5,smooth]  R1361   
+ XL ql_in[R2,D1,smooth]  R1362   
+ XL ql_in[R2,D2,smooth]  R1363   
+ XL ql_in[R2,D3,smooth]  R1364   
+ XL ql_in[R2,D4,smooth]  R1365   
+ XL ql_in[R2,D5,smooth]  R1366   
+ XL ql_in[R3,D1,smooth]  R1367   
+ XL ql_in[R3,D2,smooth]  R1368   
+ XL ql_in[R3,D3,smooth]  R1369   
+ XL ql_in[R3,D4,smooth]  R1370   
+ XL ql_in[R3,D5,smooth]  R1371   
+ XL ql_in[R4,D1,smooth]  R1372   
+ XL ql_in[R4,D2,smooth]  R1373   
+ XL ql_in[R4,D3,smooth]  R1374   
+ XL ql_in[R4,D4,smooth]  R1375   
+ XL ql_in[R4,D5,smooth]  R1376   
+ XL ql_in[R5,D1,smooth]  R1377   
+ XL ql_in[R5,D2,smooth]  R1378   
+ XL ql_in[R5,D3,smooth]  R1379   
+ XL ql_in[R5,D4,smooth]  R1380   
+ XL ql_in[R5,D5,smooth]  R1381   
+ XL ql_in[R6,D1,smooth]  R1382   
+ XL ql_in[R6,D2,smooth]  R1383   
+ XL ql_in[R6,D3,smooth]  R1384   
+ XL ql_in[R6,D4,smooth]  R1385   
+ XL ql_in[R6,D5,smooth]  R1386   
+ XL ql_in[R7,D1,smooth]  R1387   
+ XL ql_in[R7,D2,smooth]  R1388   
+ XL ql_in[R7,D3,smooth]  R1389   
+ XL ql_in[R7,D4,smooth]  R1390   
+ XL ql_in[R7,D5,smooth]  R1391   
+ XL ql_out[R1,D1,smooth]  R1392   
+ XL ql_out[R1,D2,smooth]  R1393   
+ XL ql_out[R1,D3,smooth]  R1394   
+ XL ql_out[R1,D4,smooth]  R1395   
+ XL ql_out[R1,D5,smooth]  R1396   
+ XL ql_out[R2,D1,smooth]  R1397   
+ XL ql_out[R2,D2,smooth]  R1398   
+ XL ql_out[R2,D3,smooth]  R1399   
+ XL ql_out[R2,D4,smooth]  R1400   
+ XL ql_out[R2,D5,smooth]  R1401   
+ XL ql_out[R3,D1,smooth]  R1402   
+ XL ql_out[R3,D2,smooth]  R1403   
+ XL ql_out[R3,D3,smooth]  R1404   
+ XL ql_out[R3,D4,smooth]  R1405   
+ XL ql_out[R3,D5,smooth]  R1406   
+ XL ql_out[R4,D1,smooth]  R1407   
+ XL ql_out[R4,D2,smooth]  R1408   
+ XL ql_out[R4,D3,smooth]  R1409   
+ XL ql_out[R4,D4,smooth]  R1410   
+ XL ql_out[R4,D5,smooth]  R1411   
+ XL ql_out[R5,D1,smooth]  R1412   
+ XL ql_out[R5,D2,smooth]  R1413   
+ XL ql_out[R5,D3,smooth]  R1414   
+ XL ql_out[R5,D4,smooth]  R1415   
+ XL ql_out[R5,D5,smooth]  R1416   
+ XL ql_out[R6,D1,smooth]  R1417   
+ XL ql_out[R6,D2,smooth]  R1418   
+ XL ql_out[R6,D3,smooth]  R1419   
+ XL ql_out[R6,D4,smooth]  R1420   
+ XL ql_out[R6,D5,smooth]  R1421   
+ XL ql_out[R7,D1,smooth]  R1422   
+ XL ql_out[R7,D2,smooth]  R1423   
+ XL ql_out[R7,D3,smooth]  R1425   
+ XL ql_out[R7,D4,smooth]  R1427   
+ XL ql_out[R7,D5,smooth]  R1428   
+ XL qr[R1,smooth]  R1429   
+ XL qr[R2,smooth]  R1430   
+ XL qr[R3,smooth]  R1432   
+ XL qr[R4,smooth]  R1434   
+ XL qr[R5,smooth]  R1435   
+ XL qr[R6,smooth]  R1436   
+ XL qr[R7,smooth]  R1437   
+ XL qt[T1,smooth]  R1438   
+ XL qt[T2,smooth]  R1439   
+ XL qt[T5,smooth]  R1440   
+ XL qd[D1,smooth]  R1441   
+ XL qd[D2,smooth]  R1442   
+ XL qd[D3,smooth]  R1443   
+ XL qd[D4,smooth]  R1444   
+ XL qd[D5,smooth]  R1445   
+ XL Cost      R1451   
+ XL locationRisk  R1460   
+ XL transRisk  R1463   
+ XL locationCost  R1465   
+ XL transCost  R1467   
+ENDATA
