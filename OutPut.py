@@ -34,34 +34,34 @@ book=Workbook()
 
 #保存x运量
 
-def output_x():
-    sh2=book.create_sheet("x_volume")
-    k=1#用于控制情景字符输出位置
-    #输出情景
-    for c in scenario:
-        m=k+1#控制每个情景开始输出数据的位置
-        sh2.cell(row=k,column=1,value=(c))
-        k+=1
-        #输出回收中心
-        j=2
-        for r in Recyle:
-            sh2.cell(row=k-1,column=j,value=(r))
-            j+=1
-        #输出医院
-        i=k
-        for g in hospitals:
-            sh2.cell(row=i,column=1,value=(g))
-            i+=1
-            k+=1
-        k+=1#每个情景之间多空一行
-        #输出对应数据
+# def output_x():
+#     sh2=book.create_sheet("x_volume")
+#     k=1#用于控制情景字符输出位置
+#     #输出情景
+#     for c in scenario:
+#         m=k+1#控制每个情景开始输出数据的位置
+#         sh2.cell(row=k,column=1,value=(c))
+#         k+=1
+#         #输出回收中心
+#         j=2
+#         for r in Recyle:
+#             sh2.cell(row=k-1,column=j,value=(r))
+#             j+=1
+#         #输出医院
+#         i=k
+#         for g in hospitals:
+#             sh2.cell(row=i,column=1,value=(g))
+#             i+=1
+#             k+=1
+#         k+=1#每个情景之间多空一行
+#         #输出对应数据
         
-        for g in hospitals:
-            j=2
-            for r in Recyle:
-                sh2.cell(row=m,column=j,value=(sum(x[w,g,r,c].x for w in W)))
-                j+=1
-            m+=1
+#         for g in hospitals:
+#             j=2
+#             for r in Recyle:
+#                 sh2.cell(row=m,column=j,value=(sum(x[w,g,r,c].x for w in W)))
+#                 j+=1
+#             m+=1
 
 #保存y运量
 def output_y():
